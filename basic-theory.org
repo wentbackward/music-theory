@@ -39,8 +39,8 @@ to describe this phenomena of how notes interact to make *music*
 We found there are groupings of notes that have interesting relationships with each other. We 
 can define these groups by their intervals and we call these groups *scales*.One important scale 
 is the *Major scale*, which is 7 notes and can be played by going:
-| tone | tone | semitone | tone | tone | tone | semitone |
- We can write this shorter as *TTSTTTS*.
+ | tone | tone | semitone | tone | tone | tone | semitone |
+We can write this shorter as *TTSTTTS*.
 
 You should try playing it at this point. Pick any note on a guitar or key on a piano and 
 then simply count them out (pick a note and stay on the same string for guitar or ensure you count
