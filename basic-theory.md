@@ -49,7 +49,7 @@ We found there are groupings of notes that have interesting relationships with e
 can define these groups by their intervals and we call these groups **scales**. One important scale 
 is the **Major scale**, which has 7 notes and can be played as follows:
 
-<table border="1" cellspacing="0" cellpadding="6" rules="all" frame="border">
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
 
 <colgroup>
