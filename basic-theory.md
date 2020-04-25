@@ -111,7 +111,7 @@ will use this a lot.
 First let's name the 12 semitones. Some have letters and some are considered sharp (&sharp;) or 
 flat (&flat;). Using sharps, we can write the 12 semitones out like this:
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
 
 <colgroup>
@@ -139,23 +139,24 @@ flat (&flat;). Using sharps, we can write the 12 semitones out like this:
 
 <col  class="org-right" />
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td class="org-right">1</td>
-<td class="org-right">2</td>
-<td class="org-right">3</td>
-<td class="org-right">4</td>
-<td class="org-right">5</td>
-<td class="org-right">6</td>
-<td class="org-right">7</td>
-<td class="org-right">8</td>
-<td class="org-right">9</td>
-<td class="org-right">10</td>
-<td class="org-right">11</td>
-<td class="org-right">12</td>
+<th scope="col" class="org-right">1</th>
+<th scope="col" class="org-right">2</th>
+<th scope="col" class="org-right">3</th>
+<th scope="col" class="org-right">4</th>
+<th scope="col" class="org-right">5</th>
+<th scope="col" class="org-right">6</th>
+<th scope="col" class="org-right">7</th>
+<th scope="col" class="org-right">8</th>
+<th scope="col" class="org-right">9</th>
+<th scope="col" class="org-right">10</th>
+<th scope="col" class="org-right">11</th>
+<th scope="col" class="org-right">12</th>
 </tr>
+</thead>
 
-
+<tbody>
 <tr>
 <td class="org-right">C</td>
 <td class="org-right">C&sharp; / D&flat;</td>
@@ -181,7 +182,7 @@ musician to sharpen or flatten by a semitone. In between C and D is a note that 
 Let us now try naming some notes in the major scale and see what happens. Check these scales using 
 the table of named semitones above and the TTSTTTS pattern.
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
 
 <colgroup>
@@ -191,14 +192,15 @@ the table of named semitones above and the TTSTTTS pattern.
 
 <col  class="org-left" />
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td class="org-left">Degree</td>
-<td class="org-left">C Major</td>
-<td class="org-left">G Major</td>
+<th scope="col" class="org-left">Degree</th>
+<th scope="col" class="org-left">C Major</th>
+<th scope="col" class="org-left">G Major</th>
 </tr>
+</thead>
 
-
+<tbody>
 <tr>
 <td class="org-left">1st</td>
 <td class="org-left">C</td>
@@ -279,7 +281,7 @@ is perfectly valid. Carrying on the C&sharp; scale now has E&sharp; and B&sharp;
 G&sharp; we're really in trouble, it has become impossible to support our desire to have ABCDEFG in 
 each scale.
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
 
 <colgroup>
@@ -447,372 +449,373 @@ each scale.
 </table>
 
 -   What we need to do is start using flats and it should work out for us:
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    </colgroup>
-    <thead>
-    <tr>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">C&sharp;</th>
-    <th scope="col" class="org-left">G&sharp;</th>
-    <th scope="col" class="org-left">D&sharp;</th>
-    <th scope="col" class="org-left">A&sharp;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">Gb</th>
-    </tr>
-    
-    
-    <tr>
-    <th scope="col" class="org-left">Degree</th>
-    <th scope="col" class="org-left">D&flat;</th>
-    <th scope="col" class="org-left">A&flat;</th>
-    <th scope="col" class="org-left">E&flat;</th>
-    <th scope="col" class="org-left">B&flat;</th>
-    <th scope="col" class="org-left">F</th>
-    <th scope="col" class="org-left">C</th>
-    <th scope="col" class="org-left">G</th>
-    <th scope="col" class="org-left">D</th>
-    <th scope="col" class="org-left">A</th>
-    <th scope="col" class="org-left">E</th>
-    <th scope="col" class="org-left">B</th>
-    <th scope="col" class="org-left">F&sharp;</th>
-    </tr>
-    </thead>
-    
-    <tbody>
-    <tr>
-    <td class="org-left">1st</td>
-    <td class="org-left">D&flat;</td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">2nd</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">C&sharp;</td>
-    <td class="org-left">G&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">3rd</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">C&sharp;</td>
-    <td class="org-left">G&sharp;</td>
-    <td class="org-left">D&sharp;</td>
-    <td class="org-left">A&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left"><- 4th</td>
-    <td class="org-left">Gb</td>
-    <td class="org-left">D&flat;</td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">5th -></td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">C&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">6th</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">C&sharp;</td>
-    <td class="org-left">G&sharp;</td>
-    <td class="org-left">D&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">7th</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C&sharp;</td>
-    <td class="org-left">G&sharp;</td>
-    <td class="org-left">D&sharp;</td>
-    <td class="org-left">A&sharp;</td>
-    <td class="org-left">E&sharp;[F]</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">8th</td>
-    <td class="org-left">D&flat;</td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F&sharp;</td>
-    </tr>
-    </tbody>
-    </table>
+
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">C&sharp;</th>
+<th scope="col" class="org-left">G&sharp;</th>
+<th scope="col" class="org-left">D&sharp;</th>
+<th scope="col" class="org-left">A&sharp;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">Gb</th>
+</tr>
+
+
+<tr>
+<th scope="col" class="org-left">Degree</th>
+<th scope="col" class="org-left">D&flat;</th>
+<th scope="col" class="org-left">A&flat;</th>
+<th scope="col" class="org-left">E&flat;</th>
+<th scope="col" class="org-left">B&flat;</th>
+<th scope="col" class="org-left">F</th>
+<th scope="col" class="org-left">C</th>
+<th scope="col" class="org-left">G</th>
+<th scope="col" class="org-left">D</th>
+<th scope="col" class="org-left">A</th>
+<th scope="col" class="org-left">E</th>
+<th scope="col" class="org-left">B</th>
+<th scope="col" class="org-left">F&sharp;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">1st</td>
+<td class="org-left">D&flat;</td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">2nd</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">3rd</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">D&sharp;</td>
+<td class="org-left">A&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left"><- 4th</td>
+<td class="org-left">Gb</td>
+<td class="org-left">D&flat;</td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+</tr>
+
+
+<tr>
+<td class="org-left">5th -></td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">6th</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">D&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">7th</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">D&sharp;</td>
+<td class="org-left">A&sharp;</td>
+<td class="org-left">E&sharp;[F]</td>
+</tr>
+
+
+<tr>
+<td class="org-left">8th</td>
+<td class="org-left">D&flat;</td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+</tr>
+</tbody>
+</table>
+
 -   You should be able to see that the 5th of F&sharp; is C&sharp; or D&flat; and so loops back to the 1st column. This
     circular reference forms part of the circle of 5ths which was invented by Pythagoras. From left 
     to right you choose the 5th to get the next scale and right to left you choose the 4th.
 -   If ordered like this, you can you see how the flats and sharps build up.
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    </colgroup>
-    <thead>
-    <tr>
-    <th scope="col" class="org-left">D&flat;</th>
-    <th scope="col" class="org-left">A&flat;</th>
-    <th scope="col" class="org-left">E&flat;</th>
-    <th scope="col" class="org-left">B&flat;</th>
-    <th scope="col" class="org-left">F</th>
-    <th scope="col" class="org-left">C</th>
-    <th scope="col" class="org-left">G</th>
-    <th scope="col" class="org-left">D</th>
-    <th scope="col" class="org-left">A</th>
-    <th scope="col" class="org-left">E</th>
-    <th scope="col" class="org-left">B</th>
-    <th scope="col" class="org-left">F&sharp;</th>
-    </tr>
-    </thead>
-    
-    <tbody>
-    <tr>
-    <td class="org-left">C</td>
-    <td class="org-left">C</td>
-    <td class="org-left">C</td>
-    <td class="org-left">C</td>
-    <td class="org-left">C</td>
-    <td class="org-left">C</td>
-    <td class="org-left">C</td>
-    <td class="org-left">C&sharp;</td>
-    <td class="org-left">C&sharp;</td>
-    <td class="org-left">C&sharp;</td>
-    <td class="org-left">C&sharp;</td>
-    <td class="org-left">C&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">D&flat;</td>
-    <td class="org-left">D&flat;</td>
-    <td class="org-left">D</td>
-    <td class="org-left">D</td>
-    <td class="org-left">D</td>
-    <td class="org-left">D</td>
-    <td class="org-left">D</td>
-    <td class="org-left">D</td>
-    <td class="org-left">D</td>
-    <td class="org-left">D&sharp;</td>
-    <td class="org-left">D&sharp;</td>
-    <td class="org-left">D&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">E</td>
-    <td class="org-left">E</td>
-    <td class="org-left">E</td>
-    <td class="org-left">E</td>
-    <td class="org-left">E</td>
-    <td class="org-left">E</td>
-    <td class="org-left">E</td>
-    <td class="org-left">E&sharp;[F]</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">F</td>
-    <td class="org-left">F</td>
-    <td class="org-left">F</td>
-    <td class="org-left">F</td>
-    <td class="org-left">F</td>
-    <td class="org-left">F</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">F&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">Gb</td>
-    <td class="org-left">G</td>
-    <td class="org-left">G</td>
-    <td class="org-left">G</td>
-    <td class="org-left">G</td>
-    <td class="org-left">G</td>
-    <td class="org-left">G</td>
-    <td class="org-left">G</td>
-    <td class="org-left">G&sharp;</td>
-    <td class="org-left">G&sharp;</td>
-    <td class="org-left">G&sharp;</td>
-    <td class="org-left">G&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">A</td>
-    <td class="org-left">A</td>
-    <td class="org-left">A</td>
-    <td class="org-left">A</td>
-    <td class="org-left">A</td>
-    <td class="org-left">A</td>
-    <td class="org-left">A</td>
-    <td class="org-left">A&sharp;</td>
-    <td class="org-left">A&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">B</td>
-    <td class="org-left">B</td>
-    <td class="org-left">B</td>
-    <td class="org-left">B</td>
-    <td class="org-left">B</td>
-    <td class="org-left">B</td>
-    <td class="org-left">B</td>
-    </tr>
-    </tbody>
-    </table>
+
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">D&flat;</th>
+<th scope="col" class="org-left">A&flat;</th>
+<th scope="col" class="org-left">E&flat;</th>
+<th scope="col" class="org-left">B&flat;</th>
+<th scope="col" class="org-left">F</th>
+<th scope="col" class="org-left">C</th>
+<th scope="col" class="org-left">G</th>
+<th scope="col" class="org-left">D</th>
+<th scope="col" class="org-left">A</th>
+<th scope="col" class="org-left">E</th>
+<th scope="col" class="org-left">B</th>
+<th scope="col" class="org-left">F&sharp;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">C&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">D&flat;</td>
+<td class="org-left">D&flat;</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D&sharp;</td>
+<td class="org-left">D&sharp;</td>
+<td class="org-left">D&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">E&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E&sharp;[F]</td>
+</tr>
+
+
+<tr>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">F&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Gb</td>
+<td class="org-left">G</td>
+<td class="org-left">G</td>
+<td class="org-left">G</td>
+<td class="org-left">G</td>
+<td class="org-left">G</td>
+<td class="org-left">G</td>
+<td class="org-left">G</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">G&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">A&flat;</td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">A</td>
+<td class="org-left">A</td>
+<td class="org-left">A</td>
+<td class="org-left">A</td>
+<td class="org-left">A</td>
+<td class="org-left">A</td>
+<td class="org-left">A</td>
+<td class="org-left">A&sharp;</td>
+<td class="org-left">A&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">B&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">B</td>
+<td class="org-left">B</td>
+<td class="org-left">B</td>
+<td class="org-left">B</td>
+<td class="org-left">B</td>
+<td class="org-left">B</td>
+<td class="org-left">B</td>
+</tr>
+</tbody>
+</table>
 
 
 # Minor scales
@@ -820,73 +823,74 @@ each scale.
 -   You might not know it but because you know all the major scales, and you understand intervals, you
     know all the **minor scales** as well.
 -   If you go left 3 intervals from the root of the major scale. Start there and play all the notes, 
-    from the major scale, you have found the **natural minor** or **relative minor**. 
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    </colgroup>
-    <tbody>
-    <tr>
-    <td class="org-left">Major</td>
-    <td class="org-left">D&flat;</td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">Minor</td>
-    <td class="org-left">B\flatm</td>
-    <td class="org-left">Fm</td>
-    <td class="org-left">Cm</td>
-    <td class="org-left">Gm</td>
-    <td class="org-left">Dm</td>
-    <td class="org-left">Am</td>
-    <td class="org-left">Em</td>
-    <td class="org-left">Bm</td>
-    <td class="org-left">F\sharpm</td>
-    <td class="org-left">C\sharpm</td>
-    <td class="org-left">G\sharpm</td>
-    <td class="org-left">D\sharpm</td>
-    </tr>
-    </tbody>
-    </table>
+    from the major scale, you have found the **natural minor** or **relative minor**.
+
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Major</td>
+<td class="org-left">D&flat;</td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Minor</td>
+<td class="org-left">B\flatm</td>
+<td class="org-left">Fm</td>
+<td class="org-left">Cm</td>
+<td class="org-left">Gm</td>
+<td class="org-left">Dm</td>
+<td class="org-left">Am</td>
+<td class="org-left">Em</td>
+<td class="org-left">Bm</td>
+<td class="org-left">F\sharpm</td>
+<td class="org-left">C\sharpm</td>
+<td class="org-left">G\sharpm</td>
+<td class="org-left">D\sharpm</td>
+</tr>
+</tbody>
+</table>
+
 -   You can see this in the pattern for a minor scale. Take the major TTSTTTS and rotate it 3 to the
     right you get TSTTSTT.
 -   Yet another way to look at this is that the relative minor always starts on the 6th degree of the
@@ -902,158 +906,158 @@ each scale.
     are very special chords.
 -   If you play the intervals 1st, 3rd and 5th together you are playing a **major chord**, so now you
     instantly know all the major triads.
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    </colgroup>
-    <thead>
-    <tr>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">C&sharp;</th>
-    <th scope="col" class="org-left">G&sharp;</th>
-    <th scope="col" class="org-left">D&sharp;</th>
-    <th scope="col" class="org-left">A&sharp;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">Gb</th>
-    </tr>
-    
-    
-    <tr>
-    <th scope="col" class="org-left">Degree</th>
-    <th scope="col" class="org-left">D&flat;</th>
-    <th scope="col" class="org-left">A&flat;</th>
-    <th scope="col" class="org-left">E&flat;</th>
-    <th scope="col" class="org-left">B&flat;</th>
-    <th scope="col" class="org-left">F</th>
-    <th scope="col" class="org-left">C</th>
-    <th scope="col" class="org-left">G</th>
-    <th scope="col" class="org-left">D</th>
-    <th scope="col" class="org-left">A</th>
-    <th scope="col" class="org-left">E</th>
-    <th scope="col" class="org-left">B</th>
-    <th scope="col" class="org-left">F&sharp;</th>
-    </tr>
-    </thead>
-    
-    <tbody>
-    <tr>
-    <td class="org-left">root</td>
-    <td class="org-left">D&flat;</td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">skip one</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">3rd</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">C&sharp;</td>
-    <td class="org-left">G&sharp;</td>
-    <td class="org-left">D&sharp;</td>
-    <td class="org-left">A&sharp;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">skip one</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    <td class="org-left">&#xa0;</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">5th</td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">C&sharp;</td>
-    </tr>
-    </tbody>
-    </table>
+
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">C&sharp;</th>
+<th scope="col" class="org-left">G&sharp;</th>
+<th scope="col" class="org-left">D&sharp;</th>
+<th scope="col" class="org-left">A&sharp;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">Gb</th>
+</tr>
+
+
+<tr>
+<th scope="col" class="org-left">Degree</th>
+<th scope="col" class="org-left">D&flat;</th>
+<th scope="col" class="org-left">A&flat;</th>
+<th scope="col" class="org-left">E&flat;</th>
+<th scope="col" class="org-left">B&flat;</th>
+<th scope="col" class="org-left">F</th>
+<th scope="col" class="org-left">C</th>
+<th scope="col" class="org-left">G</th>
+<th scope="col" class="org-left">D</th>
+<th scope="col" class="org-left">A</th>
+<th scope="col" class="org-left">E</th>
+<th scope="col" class="org-left">B</th>
+<th scope="col" class="org-left">F&sharp;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">root</td>
+<td class="org-left">D&flat;</td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">skip one</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">3rd</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">D&sharp;</td>
+<td class="org-left">A&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">skip one</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">5th</td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+</tr>
+</tbody>
+</table>
 
 
 # Loads of important traids
@@ -1063,127 +1067,129 @@ each scale.
 -   You can move this pattern around and get a bunch of other triads, using this same pattern you can
     get all these triads. We like to give them numbers too and use upper and lower case, the case is
     important too.
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    </colgroup>
-    <thead>
-    <tr>
-    <th scope="col" class="org-left">Chord</th>
-    <th scope="col" class="org-left">I</th>
-    <th scope="col" class="org-left">ii</th>
-    <th scope="col" class="org-left">iii</th>
-    <th scope="col" class="org-left">IV</th>
-    <th scope="col" class="org-left">V</th>
-    <th scope="col" class="org-left">vi</th>
-    <th scope="col" class="org-left">vii</th>
-    </tr>
-    </thead>
-    
-    <tbody>
-    <tr>
-    <td class="org-left">Intervals</td>
-    <td class="org-left">1,3,5</td>
-    <td class="org-left">2,4,6</td>
-    <td class="org-left">3,5,7</td>
-    <td class="org-left">4,6,1</td>
-    <td class="org-left">5,7,2</td>
-    <td class="org-left">6,1,3</td>
-    <td class="org-left">7,2,4</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">or</td>
-    <td class="org-left">1,3,5</td>
-    <td class="org-left">2,4,6</td>
-    <td class="org-left">3,5,7</td>
-    <td class="org-left">4,6,8</td>
-    <td class="org-left">5,7,9</td>
-    <td class="org-left">6,8,10</td>
-    <td class="org-left">7,9,11</td>
-    </tr>
-    </tbody>
-    </table>
+
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Chord</th>
+<th scope="col" class="org-left">I</th>
+<th scope="col" class="org-left">ii</th>
+<th scope="col" class="org-left">iii</th>
+<th scope="col" class="org-left">IV</th>
+<th scope="col" class="org-left">V</th>
+<th scope="col" class="org-left">vi</th>
+<th scope="col" class="org-left">vii</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Intervals</td>
+<td class="org-left">1,3,5</td>
+<td class="org-left">2,4,6</td>
+<td class="org-left">3,5,7</td>
+<td class="org-left">4,6,1</td>
+<td class="org-left">5,7,2</td>
+<td class="org-left">6,1,3</td>
+<td class="org-left">7,2,4</td>
+</tr>
+
+
+<tr>
+<td class="org-left">or</td>
+<td class="org-left">1,3,5</td>
+<td class="org-left">2,4,6</td>
+<td class="org-left">3,5,7</td>
+<td class="org-left">4,6,8</td>
+<td class="org-left">5,7,9</td>
+<td class="org-left">6,8,10</td>
+<td class="org-left">7,9,11</td>
+</tr>
+</tbody>
+</table>
+
 -   Let's look at these in a different way. What is the distance from 1st to 3rd? From TTSTTTS we 
     can see it's 2 Tones and from 3rd to 5th is a Semitone plus a Tone. Sometimes this might be 
     explained as 4 semitones then 3 semitones. 4+3 is the pattern for a major chord.
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    </colgroup>
-    <thead>
-    <tr>
-    <th scope="col" class="org-left">Chord</th>
-    <th scope="col" class="org-left">I</th>
-    <th scope="col" class="org-left">ii</th>
-    <th scope="col" class="org-left">iii</th>
-    <th scope="col" class="org-left">IV</th>
-    <th scope="col" class="org-left">V</th>
-    <th scope="col" class="org-left">vi</th>
-    <th scope="col" class="org-left">vii</th>
-    </tr>
-    </thead>
-    
-    <tbody>
-    <tr>
-    <td class="org-left">Intervals</td>
-    <td class="org-left">1,3,5</td>
-    <td class="org-left">2,4,6</td>
-    <td class="org-left">3,5,7</td>
-    <td class="org-left">4,6,1</td>
-    <td class="org-left">5,7,2</td>
-    <td class="org-left">6,1,3</td>
-    <td class="org-left">7,2,4</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">In semitones</td>
-    <td class="org-left">4 + 3</td>
-    <td class="org-left">3 + 4</td>
-    <td class="org-left">3 + 4</td>
-    <td class="org-left">4 + 3</td>
-    <td class="org-left">4 + 3</td>
-    <td class="org-left">3 + 4</td>
-    <td class="org-left">3 + 3</td>
-    </tr>
-    </tbody>
-    </table>
+
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Chord</th>
+<th scope="col" class="org-left">I</th>
+<th scope="col" class="org-left">ii</th>
+<th scope="col" class="org-left">iii</th>
+<th scope="col" class="org-left">IV</th>
+<th scope="col" class="org-left">V</th>
+<th scope="col" class="org-left">vi</th>
+<th scope="col" class="org-left">vii</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Intervals</td>
+<td class="org-left">1,3,5</td>
+<td class="org-left">2,4,6</td>
+<td class="org-left">3,5,7</td>
+<td class="org-left">4,6,1</td>
+<td class="org-left">5,7,2</td>
+<td class="org-left">6,1,3</td>
+<td class="org-left">7,2,4</td>
+</tr>
+
+
+<tr>
+<td class="org-left">In semitones</td>
+<td class="org-left">4 + 3</td>
+<td class="org-left">3 + 4</td>
+<td class="org-left">3 + 4</td>
+<td class="org-left">4 + 3</td>
+<td class="org-left">4 + 3</td>
+<td class="org-left">3 + 4</td>
+<td class="org-left">3 + 3</td>
+</tr>
+</tbody>
+</table>
+
 -   We can see all the uppercase ones are 4+3, major chords. All except one of the lowercase ones are 
     3+4, which is the pattern for a **minor chord**. The odd one out is vii and is a diminished chord.
     Yeah it's the runt of the family and we'll ignore it for now.
@@ -1197,170 +1203,170 @@ each scale.
 -   Minor chords will have the root note plus a small m, so A Minor is Am
 -   Flats and sharps are put in their proper place after the note name
 -   Here again we can see why we want to keep the notes in each scale labeled ABCDEFG
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    </colgroup>
-    <thead>
-    <tr>
-    <th scope="col" class="org-left">Key</th>
-    <th scope="col" class="org-left">I</th>
-    <th scope="col" class="org-left">ii</th>
-    <th scope="col" class="org-left">iii</th>
-    <th scope="col" class="org-left">IV</th>
-    <th scope="col" class="org-left">V</th>
-    <th scope="col" class="org-left">vi</th>
-    </tr>
-    </thead>
-    
-    <tbody>
-    <tr>
-    <td class="org-left">D&flat;</td>
-    <td class="org-left">D&flat;</td>
-    <td class="org-left">E\flatm</td>
-    <td class="org-left">Fm</td>
-    <td class="org-left">Gb</td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">B\flatm</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">B\flatm</td>
-    <td class="org-left">C</td>
-    <td class="org-left">D&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">Fm</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">Fm</td>
-    <td class="org-left">Gm</td>
-    <td class="org-left">A&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">Cm</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">Cm</td>
-    <td class="org-left">Dm</td>
-    <td class="org-left">E&flat;</td>
-    <td class="org-left">F</td>
-    <td class="org-left">Gm</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">F</td>
-    <td class="org-left">F</td>
-    <td class="org-left">Gm</td>
-    <td class="org-left">Am</td>
-    <td class="org-left">B&flat;</td>
-    <td class="org-left">C</td>
-    <td class="org-left">Dm</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">C</td>
-    <td class="org-left">C</td>
-    <td class="org-left">Dm</td>
-    <td class="org-left">Em</td>
-    <td class="org-left">F</td>
-    <td class="org-left">G</td>
-    <td class="org-left">Am</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">G</td>
-    <td class="org-left">G</td>
-    <td class="org-left">Am</td>
-    <td class="org-left">Bm</td>
-    <td class="org-left">C</td>
-    <td class="org-left">D</td>
-    <td class="org-left">Em</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">D</td>
-    <td class="org-left">D</td>
-    <td class="org-left">Em</td>
-    <td class="org-left">F&sharp;m</td>
-    <td class="org-left">G</td>
-    <td class="org-left">A</td>
-    <td class="org-left">Bm</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">A</td>
-    <td class="org-left">A</td>
-    <td class="org-left">Bm</td>
-    <td class="org-left">C&sharp;m</td>
-    <td class="org-left">D</td>
-    <td class="org-left">E</td>
-    <td class="org-left">F&sharp;m</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">E</td>
-    <td class="org-left">E</td>
-    <td class="org-left">F&sharp;m</td>
-    <td class="org-left">G&sharp;m</td>
-    <td class="org-left">A</td>
-    <td class="org-left">B</td>
-    <td class="org-left">C&sharp;m</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">B</td>
-    <td class="org-left">B</td>
-    <td class="org-left">C&sharp;m</td>
-    <td class="org-left">D&sharp;m</td>
-    <td class="org-left">E</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">G&sharp;m</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">F&sharp;</td>
-    <td class="org-left">G&sharp;m</td>
-    <td class="org-left">A&sharp;m</td>
-    <td class="org-left">B</td>
-    <td class="org-left">C&sharp;</td>
-    <td class="org-left">D&sharp;m</td>
-    </tr>
-    </tbody>
-    </table>
+
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Key</th>
+<th scope="col" class="org-left">I</th>
+<th scope="col" class="org-left">ii</th>
+<th scope="col" class="org-left">iii</th>
+<th scope="col" class="org-left">IV</th>
+<th scope="col" class="org-left">V</th>
+<th scope="col" class="org-left">vi</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">D&flat;</td>
+<td class="org-left">D&flat;</td>
+<td class="org-left">E\flatm</td>
+<td class="org-left">Fm</td>
+<td class="org-left">Gb</td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">B\flatm</td>
+</tr>
+
+
+<tr>
+<td class="org-left">A&flat;</td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">B\flatm</td>
+<td class="org-left">C</td>
+<td class="org-left">D&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">Fm</td>
+</tr>
+
+
+<tr>
+<td class="org-left">E&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">Fm</td>
+<td class="org-left">Gm</td>
+<td class="org-left">A&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">Cm</td>
+</tr>
+
+
+<tr>
+<td class="org-left">B&flat;</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">Cm</td>
+<td class="org-left">Dm</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">F</td>
+<td class="org-left">Gm</td>
+</tr>
+
+
+<tr>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">Gm</td>
+<td class="org-left">Am</td>
+<td class="org-left">B&flat;</td>
+<td class="org-left">C</td>
+<td class="org-left">Dm</td>
+</tr>
+
+
+<tr>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">Dm</td>
+<td class="org-left">Em</td>
+<td class="org-left">F</td>
+<td class="org-left">G</td>
+<td class="org-left">Am</td>
+</tr>
+
+
+<tr>
+<td class="org-left">G</td>
+<td class="org-left">G</td>
+<td class="org-left">Am</td>
+<td class="org-left">Bm</td>
+<td class="org-left">C</td>
+<td class="org-left">D</td>
+<td class="org-left">Em</td>
+</tr>
+
+
+<tr>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">Em</td>
+<td class="org-left">F&sharp;m</td>
+<td class="org-left">G</td>
+<td class="org-left">A</td>
+<td class="org-left">Bm</td>
+</tr>
+
+
+<tr>
+<td class="org-left">A</td>
+<td class="org-left">A</td>
+<td class="org-left">Bm</td>
+<td class="org-left">C&sharp;m</td>
+<td class="org-left">D</td>
+<td class="org-left">E</td>
+<td class="org-left">F&sharp;m</td>
+</tr>
+
+
+<tr>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">F&sharp;m</td>
+<td class="org-left">G&sharp;m</td>
+<td class="org-left">A</td>
+<td class="org-left">B</td>
+<td class="org-left">C&sharp;m</td>
+</tr>
+
+
+<tr>
+<td class="org-left">B</td>
+<td class="org-left">B</td>
+<td class="org-left">C&sharp;m</td>
+<td class="org-left">D&sharp;m</td>
+<td class="org-left">E</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">G&sharp;m</td>
+</tr>
+
+
+<tr>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">G&sharp;m</td>
+<td class="org-left">A&sharp;m</td>
+<td class="org-left">B</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">D&sharp;m</td>
+</tr>
+</tbody>
+</table>
 
 
 # Chord progressions
@@ -1385,197 +1391,200 @@ TODO
 -   Chromatic:
     If you play the 12 semitones, say by going up a guitar string, fret by fret, or by playing each 
     note (white and black) on a piano.
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    </colgroup>
-    <tbody>
-    <tr>
-    <td class="org-left">pattern</td>
-    <td class="org-right">S</td>
-    <td class="org-right">S</td>
-    <td class="org-right">S</td>
-    <td class="org-right">S</td>
-    <td class="org-right">S</td>
-    <td class="org-right">S</td>
-    <td class="org-right">S</td>
-    <td class="org-right">S</td>
-    <td class="org-right">S</td>
-    <td class="org-right">S</td>
-    <td class="org-right">S</td>
-    <td class="org-right">S</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">semitones</td>
-    <td class="org-right">1</td>
-    <td class="org-right">1</td>
-    <td class="org-right">1</td>
-    <td class="org-right">1</td>
-    <td class="org-right">1</td>
-    <td class="org-right">1</td>
-    <td class="org-right">1</td>
-    <td class="org-right">1</td>
-    <td class="org-right">1</td>
-    <td class="org-right">1</td>
-    <td class="org-right">1</td>
-    <td class="org-right">1</td>
-    </tr>
-    </tbody>
-    </table>
+
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">pattern</td>
+<td class="org-right">S</td>
+<td class="org-right">S</td>
+<td class="org-right">S</td>
+<td class="org-right">S</td>
+<td class="org-right">S</td>
+<td class="org-right">S</td>
+<td class="org-right">S</td>
+<td class="org-right">S</td>
+<td class="org-right">S</td>
+<td class="org-right">S</td>
+<td class="org-right">S</td>
+<td class="org-right">S</td>
+</tr>
+
+
+<tr>
+<td class="org-left">semitones</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+</tr>
+</tbody>
+</table>
+
 -   Major:
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    </colgroup>
-    <tbody>
-    <tr>
-    <td class="org-left">pattern</td>
-    <td class="org-right">T</td>
-    <td class="org-right">T</td>
-    <td class="org-right">S</td>
-    <td class="org-right">T</td>
-    <td class="org-right">T</td>
-    <td class="org-right">T</td>
-    <td class="org-right">S</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">semitones</td>
-    <td class="org-right">2</td>
-    <td class="org-right">2</td>
-    <td class="org-right">1</td>
-    <td class="org-right">2</td>
-    <td class="org-right">2</td>
-    <td class="org-right">2</td>
-    <td class="org-right">1</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">Interval</td>
-    <td class="org-right">1</td>
-    <td class="org-right">2</td>
-    <td class="org-right">3</td>
-    <td class="org-right">4</td>
-    <td class="org-right">5</td>
-    <td class="org-right">6</td>
-    <td class="org-right">7</td>
-    </tr>
-    </tbody>
-    </table>
+
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">pattern</td>
+<td class="org-right">T</td>
+<td class="org-right">T</td>
+<td class="org-right">S</td>
+<td class="org-right">T</td>
+<td class="org-right">T</td>
+<td class="org-right">T</td>
+<td class="org-right">S</td>
+</tr>
+
+
+<tr>
+<td class="org-left">semitones</td>
+<td class="org-right">2</td>
+<td class="org-right">2</td>
+<td class="org-right">1</td>
+<td class="org-right">2</td>
+<td class="org-right">2</td>
+<td class="org-right">2</td>
+<td class="org-right">1</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Interval</td>
+<td class="org-right">1</td>
+<td class="org-right">2</td>
+<td class="org-right">3</td>
+<td class="org-right">4</td>
+<td class="org-right">5</td>
+<td class="org-right">6</td>
+<td class="org-right">7</td>
+</tr>
+</tbody>
+</table>
+
 -   Minor scale:
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    </colgroup>
-    <tbody>
-    <tr>
-    <td class="org-left">pattern</td>
-    <td class="org-right">T</td>
-    <td class="org-right">S</td>
-    <td class="org-left">T</td>
-    <td class="org-right">T</td>
-    <td class="org-right">S</td>
-    <td class="org-left">T</td>
-    <td class="org-left">T</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">semitones</td>
-    <td class="org-right">2</td>
-    <td class="org-right">1</td>
-    <td class="org-left">2</td>
-    <td class="org-right">2</td>
-    <td class="org-right">1</td>
-    <td class="org-left">2</td>
-    <td class="org-left">2</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">Interval</td>
-    <td class="org-right">1</td>
-    <td class="org-right">2</td>
-    <td class="org-left">b3</td>
-    <td class="org-right">4</td>
-    <td class="org-right">5</td>
-    <td class="org-left">b6</td>
-    <td class="org-left">b7</td>
-    </tr>
-    </tbody>
-    </table>
+
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">pattern</td>
+<td class="org-right">T</td>
+<td class="org-right">S</td>
+<td class="org-left">T</td>
+<td class="org-right">T</td>
+<td class="org-right">S</td>
+<td class="org-left">T</td>
+<td class="org-left">T</td>
+</tr>
+
+
+<tr>
+<td class="org-left">semitones</td>
+<td class="org-right">2</td>
+<td class="org-right">1</td>
+<td class="org-left">2</td>
+<td class="org-right">2</td>
+<td class="org-right">1</td>
+<td class="org-left">2</td>
+<td class="org-left">2</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Interval</td>
+<td class="org-right">1</td>
+<td class="org-right">2</td>
+<td class="org-left">b3</td>
+<td class="org-right">4</td>
+<td class="org-right">5</td>
+<td class="org-left">b6</td>
+<td class="org-left">b7</td>
+</tr>
+</tbody>
+</table>
+
 -   Pentatonic scales:
     Some poeople provide a pattern for pentatonic scales but I prefer to think about them
     as selecting 5 notes (penta) from the Major or Minor scale.
 
 &#x2013; from the Major scale include 1, 2, 3, 5, 6 or skip the 4th and 7th
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
 
 <colgroup>
@@ -1635,7 +1644,7 @@ TODO
 
 &#x2013; from the Minor scale include 1, b3, 4, 5, b7 or exclude the 2nd and flat 6th
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
 
 <colgroup>

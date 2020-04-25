@@ -1,5 +1,4 @@
 #+STARTUP: showall
-#+HTML_HEAD_EXTRA: <style type="text/css">th {font-weight: normal;}</style>
 #+OPTIONS: toc:nil 
 
 * The very basics
@@ -72,7 +71,9 @@ will use this a lot.
 * Key and scale
 First let's name the 12 semitones. Some have letters and some are considered sharp (\sharp) or 
 flat (\flat). Using sharps, we can write the 12 semitones out like this:
+#+ATTR_HTML: :border 0 :rules all :frame none
   | 1 |                2 | 3 |                4 | 5 | 6 |                7 | 8 |                9 | 10 |               11 | 12 |
+  |---+------------------+---+------------------+---+---+------------------+---+------------------+----+------------------+----|
   | C | C\sharp / D\flat | D | D\sharp / E\flat | E | F | F\sharp / G\flat | G | G\sharp / A\flat |  A | A\sharp / B\flat |  B |
 There is no extra note between E and F or between B and C. Unfortunately these extra notes may have 
 two (or more!!) names because the \flat or \sharp is not really a name but an instruction to the
@@ -81,7 +82,9 @@ musician to sharpen or flatten by a semitone. In between C and D is a note that 
 
 Let us now try naming some notes in the major scale and see what happens. Check these scales using 
 the table of named semitones above and the TTSTTTS pattern.
+#+ATTR_HTML: :border 0 :rules all :frame none
   | Degree | C Major | G Major |
+  |--------+---------+---------|
   | 1st    | C       | G       |
   | 2nd    | D       | A       |
   | 3rd    | E       | B       |
@@ -111,6 +114,7 @@ the \sharp is an instruction to sharpen the E by one semintone, which correctly 
 is perfectly valid. Carrying on the C\sharp scale now has E\sharp and B\sharp. Once we get to 
 G\sharp we're really in trouble, it has become impossible to support our desire to have ABCDEFG in 
 each scale.
+#+ATTR_HTML: :border 0 :rules all :frame none
   |        |   |         |         |         |         |         |             | C\sharp     | G\sharp     |
   | Degree | C | G       | D       | A       | E       | B       | F\sharp     | D\flat      | A\flat      |
   |--------+---+---------+---------+---------+---------+---------+-------------+-------------+-------------|
@@ -123,6 +127,7 @@ each scale.
   | 7th    | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp (F) | B\sharp (C) | *G  !?!*    |
   | 8th    | C | F\sharp | D       | A       | E       | B       | F\sharp     | C\sharp     | G\sharp     |
 - What we need to do is start using flats and it should work out for us:
+#+ATTR_HTML: :border 0 :rules all :frame none
   |        | C\sharp | G\sharp | D\sharp | A\sharp |        |   |         |         |         |         |         | Gb         |
   | Degree | D\flat  | A\flat  | E\flat  | B\flat  | F      | C | G       | D       | A       | E       | B       | F\sharp    |
   |--------+---------+---------+---------+---------+--------+---+---------+---------+---------+---------+---------+------------|
@@ -138,6 +143,7 @@ each scale.
   circular reference forms part of the circle of 5ths which was invented by Pythagoras. From left 
   to right you choose the 5th to get the next scale and right to left you choose the 4th.
 - If ordered like this, you can you see how the flats and sharps build up.
+#+ATTR_HTML: :border 0 :rules all :frame none
   | D\flat | A\flat | E\flat | B\flat | F      | C | G       | D       | A       | E       | B       | F\sharp    |
   |--------+--------+--------+--------+--------+---+---------+---------+---------+---------+---------+------------|
   | C      | C      | C      | C      | C      | C | C       | C\sharp | C\sharp | C\sharp | C\sharp | C\sharp    |
@@ -153,6 +159,7 @@ each scale.
   know all the *minor scales* as well.
 - If you go left 3 intervals from the root of the major scale. Start there and play all the notes, 
   from the major scale, you have found the *natural minor* or *relative minor*. 
+#+ATTR_HTML: :border 0 :rules all :frame none
   | Major | D\flat  | A\flat | E\flat | B\flat | F  | C  | G  | D  | A        | E        | B        | F\sharp  |
   | Minor | B\flatm | Fm     | Cm     | Gm     | Dm | Am | Em | Bm | F\sharpm | C\sharpm | G\sharpm | D\sharpm |
 - You can see this in the pattern for a minor scale. Take the major TTSTTTS and rotate it 3 to the
@@ -168,6 +175,7 @@ each scale.
   are very special chords.
 - If you play the intervals 1st, 3rd and 5th together you are playing a *major chord*, so now you
   instantly know all the major triads.
+#+ATTR_HTML: :border 0 :rules all :frame none
   |          | C\sharp | G\sharp | D\sharp | A\sharp |   |   |   |         |         |         |         | Gb      |
   | Degree   | D\flat  | A\flat  | E\flat  | B\flat  | F | C | G | D       | A       | E       | B       | F\sharp |
   |----------+---------+---------+---------+---------+---+---+---+---------+---------+---------+---------+---------|
@@ -183,6 +191,7 @@ each scale.
 - You can move this pattern around and get a bunch of other triads, using this same pattern you can
   get all these triads. We like to give them numbers too and use upper and lower case, the case is
   important too.
+#+ATTR_HTML: :border 0 :rules all :frame none
   | Chord     | I     | ii    | iii   | IV    | V     | vi     | vii    |
   |-----------+-------+-------+-------+-------+-------+--------+--------|
   | Intervals | 1,3,5 | 2,4,6 | 3,5,7 | 4,6,1 | 5,7,2 | 6,1,3  | 7,2,4  |
@@ -190,6 +199,7 @@ each scale.
 - Let's look at these in a different way. What is the distance from 1st to 3rd? From TTSTTTS we 
   can see it's 2 Tones and from 3rd to 5th is a Semitone plus a Tone. Sometimes this might be 
   explained as 4 semitones then 3 semitones. 4+3 is the pattern for a major chord.
+#+ATTR_HTML: :border 0 :rules all :frame none
   | Chord        | I     | ii    | iii   | IV    | V     | vi    | vii   |
   |--------------+-------+-------+-------+-------+-------+-------+-------|
   | Intervals    | 1,3,5 | 2,4,6 | 3,5,7 | 4,6,1 | 5,7,2 | 6,1,3 | 7,2,4 |
@@ -205,6 +215,7 @@ each scale.
 - Minor chords will have the root note plus a small m, so A Minor is Am
 - Flats and sharps are put in their proper place after the note name
 - Here again we can see why we want to keep the notes in each scale labeled ABCDEFG
+#+ATTR_HTML: :border 0 :rules all :frame none
   | Key     | I       | ii         | iii        | IV     | V       | vi         |
   |---------+---------+------------+------------+--------+---------+------------|
   | D\flat  | D\flat  | E\flatm    | Fm         | Gb     | A\flat  | B\flatm    |
@@ -234,13 +245,16 @@ TODO
 - Chromatic:
   If you play the 12 semitones, say by going up a guitar string, fret by fret, or by playing each 
   note (white and black) on a piano.
+#+ATTR_HTML: :border 0 :rules all :frame none
   | pattern   | S | S | S | S | S | S | S | S | S | S | S | S |
   | semitones | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 - Major:
+#+ATTR_HTML: :border 0 :rules all :frame none
   | pattern   | T | T | S | T | T | T | S |
   | semitones | 2 | 2 | 1 | 2 | 2 | 2 | 1 |
   | Interval  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 - Minor scale:
+#+ATTR_HTML: :border 0 :rules all :frame none
   | pattern   | T | S | T  | T | S | T  | T  |
   | semitones | 2 | 1 | 2  | 2 | 1 | 2  | 2  |
   | Interval  | 1 | 2 | b3 | 4 | 5 | b6 | b7 |
@@ -248,10 +262,12 @@ TODO
   Some poeople provide a pattern for pentatonic scales but I prefer to think about them
   as selecting 5 notes (penta) from the Major or Minor scale.
 -- from the Major scale include 1, 2, 3, 5, 6 or skip the 4th and 7th
+#+ATTR_HTML: :border 0 :rules all :frame none
   | semitones | 2 | 2 | 1 | 2 | 2 | 2 | 1 |
   | Interval  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
   | Include?  | 1 | 2 | 3 | X | 5 | 6 | X |
 -- from the Minor scale include 1, b3, 4, 5, b7 or exclude the 2nd and flat 6th
+#+ATTR_HTML: :border 0 :rules all :frame none
   | semitones | 2 | 1 | 2  | 2 | 1 | 2  | 2  |
   | Interval  | 1 | 2 | b3 | 4 | 5 | b6 | b7 |
   | Include?  | 1 | X | b3 | 4 | 5 | X  | b7 |
