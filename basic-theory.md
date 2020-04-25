@@ -2,11 +2,15 @@
 
 # The very basics
 
+
+## Notes
+
 Sounds are vibrations in air that we can hear. Slower vibrations give lower sounds, faster
 vibrations give higher sounds and good vibrations give goosebumps. Let's call these vibrations 
 the **pitch**. Pitch is measured in hertz or vibrations per second.
 
-\#TODO: Illustration of vibrating string or speaker
+
+### TODO Illustration of vibrating string or speaker
 
 Talking about pitch isn't very intuitive so we took certain pitches and gave them names. For
 example 440 hertz is generally used for a **note** called "A". 
@@ -17,10 +21,11 @@ distance between notes so let's call this the **interval** between two
 notes. It turns out that identifying the actual notes, whilst helpful, is not as powerful as 
 understanding how notes relate to each other.
 
-\#TODO: Illustrate two notes on an instrument and the same two notes on a score
+
+### TODO Illustrate two notes on an instrument and the same two notes on a score
 
 
-# Our first two important intervals
+## Our first two important intervals
 
 Our ears can clearly tell when one note is vibrating twice as fast as a lower note. For reasons 
 that will become clear shortly, we call this distance or interval between notes an **octave**.
@@ -33,10 +38,11 @@ You can see on a guitar neck, the 12th fret will give a note one octave higher t
 string. Each fret is a semitone. You can also see a repeating pattern of white and black keys 
 on a piano which are the 12 semitones between the octaves. Each key is a semitone apart.
 
-\#TODO: Guitar neck and piano keyboard illustration
+
+### TODO Guitar neck and piano keyboard illustration
 
 
-# Summary so far
+## Summary so far
 
 Now we have **notes** and **interval** between any two notes. We have **octaves** divided into
 **semitones** and **tones**. We know that these were not arbitrary choices but are a language devised
@@ -45,8 +51,11 @@ to describe this phenomena of how notes interact to make **music**
 
 # Scales
 
+
+## Using intervals to define scales
+
 We found there are groupings of notes that have interesting relationships with each other. We 
-can define these groups by their intervals and we call these groups **scales**. One important scale 
+can define these groups by their intervals and we call these groups **scales**. An important scale 
 is the **Major scale**, which has 7 notes and can be played as follows:
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
@@ -95,7 +104,8 @@ all notes black and white on a keyboard):
 -   1 tone to the 7th note,
 -   1 semitone takes us to the next octave (or 8th or 8ve).
 
-TODO: Illustration of playing this on a guitar neck and keyboard
+
+### TODO Illustration of playing this on a guitar neck and keyboard
 
 Hopefully you now see why octaves have their name, based on the major scale, it takes 8 
 intervals to get from one octave to the next. Did it sound right to your ears? You should have 
@@ -106,7 +116,7 @@ scale as 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th (and keep going &#x2026; 9th, 11
 will use this a lot.
 
 
-# Key and scale
+## Keys and scales
 
 First let's name the 12 semitones. Some have letters and some are considered sharp (&sharp;) or 
 flat (&flat;). Using sharps, we can write the 12 semitones out like this:
@@ -174,10 +184,11 @@ flat (&flat;). Using sharps, we can write the 12 semitones out like this:
 </tbody>
 </table>
 
-There is no extra note between E and F or between B and C. Unfortunately these extra notes may have 
+There is no extra note between E and F, nor between B and C. Unfortunately these extra notes may have 
 two (or more!!) names because the &flat; or &sharp; is not really a name but an instruction to the
-musician to sharpen or flatten by a semitone. In between C and D is a note that is either C&sharp; 
-[see-Sharp] or D&flat; [dee-flat]. This is actually to simplify things. We'll see how shortly.
+musician to sharpen or flatten by a semitone. So &sharp;&sharp; means to sharpen by a whole tone. In 
+between C and D is a note that is either C&sharp; [see-Sharp] or D&flat; [dee-flat]. This is 
+actually to simplify things. We'll begin to see how, as we progress.
 
 Let us now try naming some notes in the major scale and see what happens. Check these scales using 
 the table of named semitones above and the TTSTTTS pattern.
@@ -260,7 +271,7 @@ the table of named semitones above and the TTSTTTS pattern.
 
 To make things simpler, we want to have an A B C D E F and G in every major scale. This is why, in the 
 G Major example above, we choose to use the F&sharp; and not G&flat;. It is much clearer to 
-have A B C D E F&sharp; G than A B C D E G&flat; G.
+have A B C D E F&sharp; G than with two G's in A B C D E G&flat; G.
 
 Now we can talk about music being in a **key**, for example the music may centre around G and
 use mostly notes from the major scale, so it's key is G Major. When we say key of G Major we 
@@ -268,12 +279,151 @@ are saying the **root** or **tonic** or **tonal centre** is G and we determine t
 using the interval pattern TTSTTTS.
 
 
-# All major scales
+## All major scales
 
 Using everything we've learned so far, we can now construct every major scale. There will be one 
-for each of our 12 notes. You should try this yourself. Start with the easy one, C, but don't make
-the next one D,  rather choose the 5th interval of C for the next column (which is G). We'll see why
-in a moment.
+for each of our 12 notes. You should try doing this yourself. Start with the easy one, C, but don't 
+make the next one D, rather choose the 5th interval of C for the next key (which is G). We'll see why
+we did this in a moment. Here's a starter for you:
+
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Degree</th>
+<th scope="col" class="org-left">C</th>
+<th scope="col" class="org-left">G</th>
+<th scope="col" class="org-left">D</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">1st</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">2nd</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">3rd</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">4th</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">**5th**</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">6th</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">7th</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
 
 When we get to F&sharp; things start getting a bit tricky. We end up with needing an E&sharp;. Remember 
 the &sharp; is an instruction to sharpen the E by one semintone, which correctly gives F, so E&sharp;
@@ -307,20 +457,6 @@ each scale.
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">C&sharp;</th>
-<th scope="col" class="org-left">G&sharp;</th>
-</tr>
-
-
-<tr>
 <th scope="col" class="org-left">Degree</th>
 <th scope="col" class="org-left">C</th>
 <th scope="col" class="org-left">G</th>
@@ -329,8 +465,8 @@ each scale.
 <th scope="col" class="org-left">E</th>
 <th scope="col" class="org-left">B</th>
 <th scope="col" class="org-left">F&sharp;</th>
-<th scope="col" class="org-left">D&flat;</th>
-<th scope="col" class="org-left">A&flat;</th>
+<th scope="col" class="org-left">C&sharp; / D&flat;</th>
+<th scope="col" class="org-left">G&sharp; / A&flat;</th>
 </tr>
 </thead>
 
@@ -448,7 +584,7 @@ each scale.
 </tbody>
 </table>
 
--   What we need to do is start using flats and it should work out for us:
+Using flats and things will be much clearer.
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -482,28 +618,11 @@ each scale.
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">C&sharp;</th>
-<th scope="col" class="org-left">G&sharp;</th>
-<th scope="col" class="org-left">D&sharp;</th>
-<th scope="col" class="org-left">A&sharp;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">Gb</th>
-</tr>
-
-
-<tr>
 <th scope="col" class="org-left">Degree</th>
-<th scope="col" class="org-left">D&flat;</th>
-<th scope="col" class="org-left">A&flat;</th>
-<th scope="col" class="org-left">E&flat;</th>
-<th scope="col" class="org-left">B&flat;</th>
+<th scope="col" class="org-left">D&flat; / C&sharp;</th>
+<th scope="col" class="org-left">A&flat; / G&sharp;</th>
+<th scope="col" class="org-left">E&flat; / D&sharp;</th>
+<th scope="col" class="org-left">B&flat; / A&sharp;</th>
 <th scope="col" class="org-left">F</th>
 <th scope="col" class="org-left">C</th>
 <th scope="col" class="org-left">G</th>
@@ -511,7 +630,7 @@ each scale.
 <th scope="col" class="org-left">A</th>
 <th scope="col" class="org-left">E</th>
 <th scope="col" class="org-left">B</th>
-<th scope="col" class="org-left">F&sharp;</th>
+<th scope="col" class="org-left">F&sharp; / G&flat;</th>
 </tr>
 </thead>
 
@@ -653,10 +772,13 @@ each scale.
 </tbody>
 </table>
 
--   You should be able to see that the 5th of F&sharp; is C&sharp; or D&flat; and so loops back to the 1st column. This
-    circular reference forms part of the circle of 5ths which was invented by Pythagoras. From left 
-    to right you choose the 5th to get the next scale and right to left you choose the 4th.
--   If ordered like this, you can you see how the flats and sharps build up.
+You should be able to see that the 5th of F&sharp; is C&sharp; or D&flat; and so loops back to 
+the 1st column. This circular reference forms part of the circle of 5ths which was invented by 
+Pythagoras. From left to right you choose the 5th to get the next scale and right to left you 
+choose the 4th. 
+
+Let's reformat that table so you can you see how the flats and sharps build up as well as other 
+patterns between the keys
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -818,7 +940,7 @@ each scale.
 </table>
 
 
-# Minor scales
+## Minor scales
 
 -   You might not know it but because you know all the major scales, and you understand intervals, you
     know all the **minor scales** as well.
@@ -897,7 +1019,10 @@ each scale.
     major scale and uses all the same notes as the major scale.
 
 
-# Chord Basics
+# Chords
+
+
+## Chord Basics
 
 -   Play a bunch of notes together and you're playing a **chord**.
 -   Play any notes from a given key and you're playing chords from that key. Chords generally have 
@@ -1060,7 +1185,7 @@ each scale.
 </table>
 
 
-# Loads of important traids
+## Important traids
 
 -   Notice the pattern is play one, skip one, play one, skip one, play one. For example in C Major
     the notes are CDEFGAB and the C Major Triad is CEG skipping D and F.
@@ -1197,7 +1322,7 @@ each scale.
     figured this stuff out and came up with such an elegant language of music.
 
 
-# Traids in every key
+## Traids in every key
 
 -   Major chords will just be denoted by the root note, so C Major will be written C
 -   Minor chords will have the root note plus a small m, so A Minor is Am
@@ -1369,24 +1494,37 @@ each scale.
 </table>
 
 
-# Chord progressions
-
-TODO
+# Pieces of music and songs
 
 
-# Chord Inversions
-
-TODO
+## Chord progressions
 
 
-# Melodies
-
-TODO
+### TODO progression usage
 
 
-# Various scales
+### TODO commonly used progressions
 
-TODO
+
+## Chord Inversions
+
+
+### TODO inversion usage
+
+
+## Melodies
+
+
+### TODO melodies
+
+
+# Appendix
+
+
+## Various scales
+
+
+## TODO document various scales
 
 -   Chromatic:
     If you play the 12 semitones, say by going up a guitar string, fret by fret, or by playing each 
@@ -1701,11 +1839,6 @@ TODO
 </tr>
 </tbody>
 </table>
-
-
-# Common chord progressions
-
-TODO
 
 
 # Useful links

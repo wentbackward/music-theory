@@ -1,12 +1,14 @@
 #+STARTUP: showall
 #+OPTIONS: toc:nil 
 
+
 * The very basics
+** Notes
 Sounds are vibrations in air that we can hear. Slower vibrations give lower sounds, faster
 vibrations give higher sounds and good vibrations give goosebumps. Let's call these vibrations 
 the *pitch*. Pitch is measured in hertz or vibrations per second.
 
-#TODO: Illustration of vibrating string or speaker
+*** TODO Illustration of vibrating string or speaker
 
 Talking about pitch isn't very intuitive so we took certain pitches and gave them names. For
 example 440 hertz is generally used for a *note* called "A". 
@@ -17,9 +19,9 @@ distance between notes so let's call this the *interval* between two
 notes. It turns out that identifying the actual notes, whilst helpful, is not as powerful as 
 understanding how notes relate to each other.
 
-#TODO: Illustrate two notes on an instrument and the same two notes on a score
+*** TODO Illustrate two notes on an instrument and the same two notes on a score
 
-* Our first two important intervals
+** Our first two important intervals
 Our ears can clearly tell when one note is vibrating twice as fast as a lower note. For reasons 
 that will become clear shortly, we call this distance or interval between notes an *octave*.
 Octaves are quite far apart, so we need to chop them up into smaller intervals. It turns out our 
@@ -31,16 +33,17 @@ You can see on a guitar neck, the 12th fret will give a note one octave higher t
 string. Each fret is a semitone. You can also see a repeating pattern of white and black keys 
 on a piano which are the 12 semitones between the octaves. Each key is a semitone apart.
 
-#TODO: Guitar neck and piano keyboard illustration
+*** TODO Guitar neck and piano keyboard illustration
 
-* Summary so far
+** Summary so far
 Now we have *notes* and *interval* between any two notes. We have *octaves* divided into
 *semitones* and *tones*. We know that these were not arbitrary choices but are a language devised
 to describe this phenomena of how notes interact to make *music*
 
 * Scales
+** Using intervals to define scales
 We found there are groupings of notes that have interesting relationships with each other. We 
-can define these groups by their intervals and we call these groups *scales*. One important scale 
+can define these groups by their intervals and we call these groups *scales*. An important scale 
 is the *Major scale*, which has 7 notes and can be played as follows:
 #+ATTR_HTML: :border 0 :rules all :frame none
  | tone | tone | semitone | tone | tone | tone | semitone |
@@ -58,7 +61,7 @@ all notes black and white on a keyboard):
   - 1 tone to the 7th note,
   - 1 semitone takes us to the next octave (or 8th or 8ve).
 
-TODO: Illustration of playing this on a guitar neck and keyboard
+*** TODO Illustration of playing this on a guitar neck and keyboard
 
 Hopefully you now see why octaves have their name, based on the major scale, it takes 8 
 intervals to get from one octave to the next. Did it sound right to your ears? You should have 
@@ -68,17 +71,18 @@ You will understand a lot more about music if you think in intervals, with the d
 scale as 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th (and keep going ... 9th, 11th, 13th, etc). We 
 will use this a lot.
 
-* Key and scale
+** Keys and scales
 First let's name the 12 semitones. Some have letters and some are considered sharp (\sharp) or 
 flat (\flat). Using sharps, we can write the 12 semitones out like this:
 #+ATTR_HTML: :border 0 :rules all :frame none
   | 1 |                2 | 3 |                4 | 5 | 6 |                7 | 8 |                9 | 10 |               11 | 12 |
   |---+------------------+---+------------------+---+---+------------------+---+------------------+----+------------------+----|
   | C | C\sharp / D\flat | D | D\sharp / E\flat | E | F | F\sharp / G\flat | G | G\sharp / A\flat |  A | A\sharp / B\flat |  B |
-There is no extra note between E and F or between B and C. Unfortunately these extra notes may have 
+There is no extra note between E and F, nor between B and C. Unfortunately these extra notes may have 
 two (or more!!) names because the \flat or \sharp is not really a name but an instruction to the
-musician to sharpen or flatten by a semitone. In between C and D is a note that is either C\sharp 
-[see-Sharp] or D\flat [dee-flat]. This is actually to simplify things. We'll see how shortly.
+musician to sharpen or flatten by a semitone. So \sharp{}\sharp{} means to sharpen by a whole tone. In 
+between C and D is a note that is either C\sharp [see-Sharp] or D\flat [dee-flat]. This is 
+actually to simplify things. We'll begin to see how, as we progress.
 
 Let us now try naming some notes in the major scale and see what happens. Check these scales using 
 the table of named semitones above and the TTSTTTS pattern.
@@ -96,18 +100,28 @@ the table of named semitones above and the TTSTTTS pattern.
 
 To make things simpler, we want to have an A B C D E F and G in every major scale. This is why, in the 
 G Major example above, we choose to use the F\sharp and not G\flat. It is much clearer to 
-have A B C D E F\sharp G than A B C D E G\flat G.
+have A B C D E F\sharp G than with two G's in A B C D E G\flat G.
 
 Now we can talk about music being in a *key*, for example the music may centre around G and
 use mostly notes from the major scale, so it's key is G Major. When we say key of G Major we 
 are saying the *root* or *tonic* or *tonal centre* is G and we determine the rest of the notes 
 using the interval pattern TTSTTTS.
 
-* All major scales
+** All major scales
 Using everything we've learned so far, we can now construct every major scale. There will be one 
-for each of our 12 notes. You should try this yourself. Start with the easy one, C, but don't make
-the next one D,  rather choose the 5th interval of C for the next column (which is G). We'll see why
-in a moment.
+for each of our 12 notes. You should try doing this yourself. Start with the easy one, C, but don't 
+make the next one D, rather choose the 5th interval of C for the next key (which is G). We'll see why
+we did this in a moment. Here's a starter for you:
+#+ATTR_HTML: :border 0 :rules all :frame none
+  | Degree | C | G       | D |   |   |   |   |   |   |
+  |--------+---+---------+---+---+---+---+---+---+---|
+  | 1st    | C | G       |   |   |   |   |   |   |   |
+  | 2nd    | D | A       |   |   |   |   |   |   |   |
+  | 3rd    | E | B       |   |   |   |   |   |   |   |
+  | 4th    | F | C       |   |   |   |   |   |   |   |
+  | *5th*  | G | D       |   |   |   |   |   |   |   |
+  | 6th    | A | E       |   |   |   |   |   |   |   |
+  | 7th    | B | F\sharp |   |   |   |   |   |   |   |
 
 When we get to F\sharp things start getting a bit tricky. We end up with needing an E\sharp. Remember 
 the \sharp is an instruction to sharpen the E by one semintone, which correctly gives F, so E\sharp
@@ -115,34 +129,36 @@ is perfectly valid. Carrying on the C\sharp scale now has E\sharp and B\sharp. O
 G\sharp we're really in trouble, it has become impossible to support our desire to have ABCDEFG in 
 each scale.
 #+ATTR_HTML: :border 0 :rules all :frame none
-  |        |   |         |         |         |         |         |             | C\sharp     | G\sharp     |
-  | Degree | C | G       | D       | A       | E       | B       | F\sharp     | D\flat      | A\flat      |
-  |--------+---+---------+---------+---------+---------+---------+-------------+-------------+-------------|
-  | 1st    | C | G       | D       | A       | E       | B       | F\sharp     | C\sharp     | G\sharp     |
-  | 2nd    | D | A       | E       | B       | F\sharp | C\sharp | G\sharp     | D\sharp     | A\sharp     |
-  | 3rd    | E | B       | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp     | E\sharp (F) | B\sharp (C) |
-  | 4th    | F | C       | G       | D       | A       | E       | B           | F\sharp     | C\sharp     |
-  | *5th*  | G | D       | A       | E       | B       | F\sharp | C\sharp     | G\sharp     | D\sharp     |
-  | 6th    | A | E       | B       | F\sharp | C\sharp | G\sharp | D\sharp     | A\sharp     | E\sharp(F)  |
-  | 7th    | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp (F) | B\sharp (C) | *G  !?!*    |
-  | 8th    | C | F\sharp | D       | A       | E       | B       | F\sharp     | C\sharp     | G\sharp     |
-- What we need to do is start using flats and it should work out for us:
+  | Degree | C | G       | D       | A       | E       | B       | F\sharp     | C\sharp / D\flat | G\sharp / A\flat |
+  |--------+---+---------+---------+---------+---------+---------+-------------+------------------+------------------|
+  | 1st    | C | G       | D       | A       | E       | B       | F\sharp     | C\sharp          | G\sharp          |
+  | 2nd    | D | A       | E       | B       | F\sharp | C\sharp | G\sharp     | D\sharp          | A\sharp          |
+  | 3rd    | E | B       | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp     | E\sharp (F)      | B\sharp (C)      |
+  | 4th    | F | C       | G       | D       | A       | E       | B           | F\sharp          | C\sharp          |
+  | *5th*  | G | D       | A       | E       | B       | F\sharp | C\sharp     | G\sharp          | D\sharp          |
+  | 6th    | A | E       | B       | F\sharp | C\sharp | G\sharp | D\sharp     | A\sharp          | E\sharp(F)       |
+  | 7th    | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp (F) | B\sharp (C)      | *G  !?!*         |
+  | 8th    | C | F\sharp | D       | A       | E       | B       | F\sharp     | C\sharp          | G\sharp          |
+
+Using flats and things will be much clearer.
 #+ATTR_HTML: :border 0 :rules all :frame none
-  |        | C\sharp | G\sharp | D\sharp | A\sharp |        |   |         |         |         |         |         | Gb         |
-  | Degree | D\flat  | A\flat  | E\flat  | B\flat  | F      | C | G       | D       | A       | E       | B       | F\sharp    |
-  |--------+---------+---------+---------+---------+--------+---+---------+---------+---------+---------+---------+------------|
-  | 1st    | D\flat  | A\flat  | E\flat  | B\flat  | F      | C | G       | D       | A       | E       | B       | F\sharp    |
-  | 2nd    | E\flat  | B\flat  | F       | C       | G      | D | A       | E       | B       | F\sharp | C\sharp | G\sharp    |
-  | 3rd    | F       | C       | G       | D       | A      | E | B       | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp    |
-  | <- 4th | Gb      | D\flat  | A\flat  | E\flat  | B\flat | F | C       | G       | D       | A       | E       | B          |
-  | 5th -> | A\flat  | E\flat  | B\flat  | F       | C      | G | D       | A       | E       | B       | F\sharp | C\sharp    |
-  | 6th    | B\flat  | F       | C       | G       | D      | A | E       | B       | F\sharp | C\sharp | G\sharp | D\sharp    |
-  | 7th    | C       | G       | D       | A       | E      | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp[F] |
-  | 8th    | D\flat  | A\flat  | E\flat  | B\flat  | F      | C | F\sharp | D       | A       | E       | B       | F\sharp    |
-- You should be able to see that the 5th of F\sharp is C\sharp or D\flat and so loops back to the 1st column. This
-  circular reference forms part of the circle of 5ths which was invented by Pythagoras. From left 
-  to right you choose the 5th to get the next scale and right to left you choose the 4th.
-- If ordered like this, you can you see how the flats and sharps build up.
+  | Degree | D\flat / C\sharp | A\flat / G\sharp | E\flat / D\sharp | B\flat / A\sharp | F      | C | G       | D       | A       | E       | B       | F\sharp / G\flat |
+  |--------+------------------+------------------+------------------+------------------+--------+---+---------+---------+---------+---------+---------+------------------|
+  | 1st    | D\flat           | A\flat           | E\flat           | B\flat           | F      | C | G       | D       | A       | E       | B       | F\sharp          |
+  | 2nd    | E\flat           | B\flat           | F                | C                | G      | D | A       | E       | B       | F\sharp | C\sharp | G\sharp          |
+  | 3rd    | F                | C                | G                | D                | A      | E | B       | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp          |
+  | <- 4th | Gb               | D\flat           | A\flat           | E\flat           | B\flat | F | C       | G       | D       | A       | E       | B                |
+  | 5th -> | A\flat           | E\flat           | B\flat           | F                | C      | G | D       | A       | E       | B       | F\sharp | C\sharp          |
+  | 6th    | B\flat           | F                | C                | G                | D      | A | E       | B       | F\sharp | C\sharp | G\sharp | D\sharp          |
+  | 7th    | C                | G                | D                | A                | E      | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp[F]       |
+  | 8th    | D\flat           | A\flat           | E\flat           | B\flat           | F      | C | F\sharp | D       | A       | E       | B       | F\sharp          |
+You should be able to see that the 5th of F\sharp is C\sharp or D\flat and so loops back to 
+the 1st column. This circular reference forms part of the circle of 5ths which was invented by 
+Pythagoras. From left to right you choose the 5th to get the next scale and right to left you 
+choose the 4th. 
+
+Let's reformat that table so you can you see how the flats and sharps build up as well as other 
+patterns between the keys
 #+ATTR_HTML: :border 0 :rules all :frame none
   | D\flat | A\flat | E\flat | B\flat | F      | C | G       | D       | A       | E       | B       | F\sharp    |
   |--------+--------+--------+--------+--------+---+---------+---------+---------+---------+---------+------------|
@@ -154,7 +170,7 @@ each scale.
   | A\flat | A\flat | A\flat | A      | A      | A | A       | A       | A       | A       | A\sharp | A\sharp    |
   | B\flat | B\flat | B\flat | B\flat | B\flat | B | B       | B       | B       | B       | B       | B          |
 
-* Minor scales
+** Minor scales
 - You might not know it but because you know all the major scales, and you understand intervals, you
   know all the *minor scales* as well.
 - If you go left 3 intervals from the root of the major scale. Start there and play all the notes, 
@@ -167,7 +183,8 @@ each scale.
 - Yet another way to look at this is that the relative minor always starts on the 6th degree of the
   major scale and uses all the same notes as the major scale.
 
-* Chord Basics
+* Chords
+** Chord Basics
 - Play a bunch of notes together and you're playing a *chord*.
 - Play any notes from a given key and you're playing chords from that key. Chords generally have 
   a strong relationship with the key of the music using notes from the key.
@@ -185,7 +202,7 @@ each scale.
   | skip one |         |         |         |         |   |   |   |         |         |         |         |         |
   | 5th      | A\flat  | E\flat  | B\flat  | F       | C | G | D | A       | E       | B       | F\sharp | C\sharp |
 
-* Loads of important traids
+** Important traids
 - Notice the pattern is play one, skip one, play one, skip one, play one. For example in C Major
   the notes are CDEFGAB and the C Major Triad is CEG skipping D and F.
 - You can move this pattern around and get a bunch of other triads, using this same pattern you can
@@ -210,7 +227,7 @@ each scale.
 - It's quite lovely that we have the 4+3 and 3+4 for major chords. It blows my mind that people
   figured this stuff out and came up with such an elegant language of music.
 
-* Traids in every key
+** Traids in every key
 - Major chords will just be denoted by the root note, so C Major will be written C
 - Minor chords will have the root note plus a small m, so A Minor is Am
 - Flats and sharps are put in their proper place after the note name
@@ -231,17 +248,20 @@ each scale.
   | B       | B       | C\sharp{}m | D\sharp{}m | E      | F\sharp | G\sharp{}m |
   | F\sharp | F\sharp | G\sharp{}m | A\sharp{}m | B      | C\sharp | D\sharp{}m |
 
-* Chord progressions
-TODO
+* Pieces of music and songs
+** Chord progressions
+*** TODO progression usage
+*** TODO commonly used progressions
 
-* Chord Inversions
-TODO
+** Chord Inversions
+*** TODO inversion usage
 
-* Melodies
-TODO
+** Melodies
+*** TODO melodies
 
-* Various scales
-TODO
+* Appendix
+** Various scales
+** TODO document various scales
 - Chromatic:
   If you play the 12 semitones, say by going up a guitar string, fret by fret, or by playing each 
   note (white and black) on a piano.
@@ -272,9 +292,6 @@ TODO
   | Interval  | 1 | 2 | b3 | 4 | 5 | b6 | b7 |
   | Include?  | 1 | X | b3 | 4 | 5 | X  | b7 |
 
-
-* Common chord progressions
-TODO
 
 * Useful links
 - Piano Exercises: https://pianoexercises.org recommended to me was https://pianoexercises.org/exercises/czerny/
