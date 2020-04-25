@@ -23,17 +23,17 @@
   that will get you to the next octave and is why the 12th fret on a guitar is marked so clearly.
 - You can also see a repeating pattern of white and black keys on a piano which are the 12 
   semitones between the octaves.
-- So now we have *pitches* or *notes* of various *intervals*. Within *octaves* we have *semitones*
-  and *tones*. We know that these were not arbitrary choices, but were discovered because of how 
-  our ears hear things. These relationships can also be described mathematically (we certainly 
-  won't go into that here).
+
+* Summary so far
+Now we have *notes* and *interval* between any two notes. We have *octaves* divided into
+*semitones* and *tones*. We know that these were not arbitrary choices but are a language devised
+to describe this phenomena of how notes interact to make *music*
 
 * Scales
 - We found there are groupings of notes that have interesting relationships with each other. We 
   can define these groups by their intervals and we call these groups *scales*.
-- Remember a tone is two semitones.
 - One important scale is the *Major scale*, which is 7 notes and can be played by going:
-    tone, tone, semitone, tone, tone, tone, semitone.
+  | tone | tone | semitone | tone | tone | tone | semitone |
 - We can write this shorter as *TTSTTTS*.
 - You should try playing it at this point. Pick any string on a guitar or key on a piano and 
   then simply count them out (remember to play the open string and stay on that string or play
@@ -48,7 +48,7 @@
   - 1 semitone takes us to the next octave (or 8th or 8ve).
 - Hopefully you now see why octaves have their name, based on the major scale, it takes 8 
   intervals to get from one octave to the next.
-- Did you realise you played a major scale, it sounds right to your ears but we haven't yet
+- Did it sound right to your ears? You should have played a major scale but we haven't yet
   named any notes!
 - You will understand a lot more about music if you think in intervals, with the degrees of the 
   scale as 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th (and keep going ... 9th, 11th, 13th, etc). We 
