@@ -16,7 +16,7 @@
   that will become clear shortly, we call this distance or interval between notes an *octave*.
 - Octaves are quite far apart, so we need to chop them up into smaller intervals. It turns out our 
   ears are very sensitive to how we do this.
-- The majority of music today is made up by chopping up the distance between two octaves into 12 
+- The majority of music today is made by chopping up the distance between two octaves into 12 
   parts called *semitones* (or half-steps).
 - A distance of two semitones is called a *tone* or whole tone (or whole-step).
 - You can see on a guitar neck, the 12th fret will give a note one octave higher than the open 
