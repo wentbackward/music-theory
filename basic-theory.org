@@ -1,9 +1,13 @@
+#-*- mode: org -*-
+#+STARTUP: showall
+
+BASIC MUSIC THEORY -*- mode: org -*-
 * The very basics
 Sounds are vibrations in air that we can hear. Slower vibrations give lower sounds, faster
 vibrations give higher sounds and good vibrations give goosebumps. Let's call these vibrations 
 the *pitch*. Pitch is measured in hertz or vibrations per second.
 
-TODO: Illustration of vibrating string or speaker
+#TODO: Illustration of vibrating string or speaker
 
 Talking about pitch isn't very intuitive so we took certain pitches and gave them names. For
 example 440 hertz is generally used for a *note* called "A". 
@@ -14,7 +18,7 @@ distance between notes so let's call this the *interval* between two
 notes. It turns out that identifying the actual notes, whilst helpful, is not as powerful as 
 understanding how notes relate to each other.
 
-TODO: Illustrate two notes on an instrument and the same two notes on a score
+#TODO: Illustrate two notes on an instrument and the same two notes on a score
 
 * Our first two important intervals
 Our ears can clearly tell when one note is vibrating twice as fast as a lower note. For reasons 
@@ -28,7 +32,7 @@ You can see on a guitar neck, the 12th fret will give a note one octave higher t
 string. Each fret is a semitone. You can also see a repeating pattern of white and black keys 
 on a piano which are the 12 semitones between the octaves. Each key is a semitone apart.
 
-TODO: Guitar neck and piano keyboard illustration
+#TODO: Guitar neck and piano keyboard illustration
 
 * Summary so far
 Now we have *notes* and *interval* between any two notes. We have *octaves* divided into
