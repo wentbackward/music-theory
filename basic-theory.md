@@ -46,8 +46,8 @@ to describe this phenomena of how notes interact to make **music**
 # Scales
 
 We found there are groupings of notes that have interesting relationships with each other. We 
-can define these groups by their intervals and we call these groups **scales**.One important scale 
-is the **Major scale**, which is 7 notes and can be played by going:
+can define these groups by their intervals and we call these groups **scales**. One important scale 
+is the **Major scale**, which has 7 notes and can be played as follows:
 
 <table border="1" cellspacing="0" cellpadding="6" rules="all" frame="border">
 
@@ -108,335 +108,344 @@ will use this a lot.
 
 # Key and scale
 
--   First let's name the 12 semitones. Some have letters and some are considered sharp (&sharp;) or 
-    flat (&flat;). Using sharps, we can write the 12 semitones out like this:
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    
-    <col  class="org-right" />
-    </colgroup>
-    <tbody>
-    <tr>
-    <td class="org-right">1</td>
-    <td class="org-right">2</td>
-    <td class="org-right">3</td>
-    <td class="org-right">4</td>
-    <td class="org-right">5</td>
-    <td class="org-right">6</td>
-    <td class="org-right">7</td>
-    <td class="org-right">8</td>
-    <td class="org-right">9</td>
-    <td class="org-right">10</td>
-    <td class="org-right">11</td>
-    <td class="org-right">12</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-right">C</td>
-    <td class="org-right">C&sharp; / D&flat;</td>
-    <td class="org-right">D</td>
-    <td class="org-right">D&sharp; / E&flat;</td>
-    <td class="org-right">E</td>
-    <td class="org-right">F</td>
-    <td class="org-right">F# / Gb</td>
-    <td class="org-right">G</td>
-    <td class="org-right">G# / Ab</td>
-    <td class="org-right">A</td>
-    <td class="org-right">A# / Bb</td>
-    <td class="org-right">B</td>
-    </tr>
-    </tbody>
-    </table>
--   There's no extra note between E and F or between B and C.
--   Unfortunately some notes have two (or more!!) names. In between C and D is a note that is either
-    C# [See-Sharp] or Db [Dee-flat]. We'll see why as we start to understand scales.
--   Let us try naming some notes in the major scale and see what happens.
--   Check these scales using the named semitones above and the TTSTTTS pattern.
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    </colgroup>
-    <tbody>
-    <tr>
-    <td class="org-left">Degree</td>
-    <td class="org-left">C Major</td>
-    <td class="org-left">G Major</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">1st</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">2nd</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">3rd</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">4th</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">5th</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">6th</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">7th</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">8th</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    </tr>
-    </tbody>
-    </table>
--   We want to have an A B C D E F and G in every scale. This is why we need to use the F# and not 
-    Gb in the G Major scale. It is much clearer to have A B C D E F# G than A B C D E Gb G.
--   Now we can talk about music being in a **key**, for example the music may centre around G and
-    use mostly notes from the major scale, so it's key is G Major.
--   When we say key of G Major we are saying the **root** or **tonic** or **tonal centre** is G and
-    we determine the rest of the notes using the interval pattern TTSTTTS.
+First let's name the 12 semitones. Some have letters and some are considered sharp (&sharp;) or 
+flat (&flat;). Using sharps, we can write the 12 semitones out like this:
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-right">2</td>
+<td class="org-right">3</td>
+<td class="org-right">4</td>
+<td class="org-right">5</td>
+<td class="org-right">6</td>
+<td class="org-right">7</td>
+<td class="org-right">8</td>
+<td class="org-right">9</td>
+<td class="org-right">10</td>
+<td class="org-right">11</td>
+<td class="org-right">12</td>
+</tr>
+
+
+<tr>
+<td class="org-right">C</td>
+<td class="org-right">C&sharp; / D&flat;</td>
+<td class="org-right">D</td>
+<td class="org-right">D&sharp; / E&flat;</td>
+<td class="org-right">E</td>
+<td class="org-right">F</td>
+<td class="org-right">F&sharp; / G&flat;</td>
+<td class="org-right">G</td>
+<td class="org-right">G&sharp; / A&flat;</td>
+<td class="org-right">A</td>
+<td class="org-right">A&sharp; / B&flat;</td>
+<td class="org-right">B</td>
+</tr>
+</tbody>
+</table>
+
+There is no extra note between E and F or between B and C. Unfortunately these extra notes may have 
+two (or more!!) names because the &flat; or &sharp; is not really a name but an instruction to the
+musician to sharpen or flatten by a semitone. In between C and D is a note that is either C&sharp; 
+[see-Sharp] or D&flat; [dee-flat]. This is actually to simplify things. We'll see how shortly.
+
+Let us now try naming some notes in the major scale and see what happens. Check these scales using 
+the table of named semitones above and the TTSTTTS pattern.
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Degree</td>
+<td class="org-left">C Major</td>
+<td class="org-left">G Major</td>
+</tr>
+
+
+<tr>
+<td class="org-left">1st</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+</tr>
+
+
+<tr>
+<td class="org-left">2nd</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+</tr>
+
+
+<tr>
+<td class="org-left">3rd</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+</tr>
+
+
+<tr>
+<td class="org-left">4th</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+</tr>
+
+
+<tr>
+<td class="org-left">5th</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+</tr>
+
+
+<tr>
+<td class="org-left">6th</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+</tr>
+
+
+<tr>
+<td class="org-left">7th</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">8th</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+</tr>
+</tbody>
+</table>
+
+To make things simpler, we want to have an A B C D E F and G in every major scale. This is why, in the 
+G Major example above, we choose to use the F&sharp; and not G&flat;. It is much clearer to 
+have A B C D E F&sharp; G than A B C D E G&flat; G.
+
+Now we can talk about music being in a **key**, for example the music may centre around G and
+use mostly notes from the major scale, so it's key is G Major. When we say key of G Major we 
+are saying the **root** or **tonic** or **tonal centre** is G and we determine the rest of the notes 
+using the interval pattern TTSTTTS.
 
 
 # All major scales
 
--   Now we have octaves, tones, semitones and a pattern to build major scales, let's go ahead and
-    build every major scale. There will be one for every note.
--   Let's start with the easy one, C, but rather than the next column being D, we'll choose the 
-    5th interval of C for the next column. As C is the 1st interval, so G is the 5th.
--   When we get to F# things start getting a bit tricky. We end up with an E#, if you sharpen the E
-    get F as there is no E# note. Oh dear the C# scale now has E# (F) and B# (C).
-    
-    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-    
-    
-    <colgroup>
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    
-    <col  class="org-left" />
-    </colgroup>
-    <thead>
-    <tr>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">C#</th>
-    <th scope="col" class="org-left">G#</th>
-    </tr>
-    
-    
-    <tr>
-    <th scope="col" class="org-left">Degree</th>
-    <th scope="col" class="org-left">C</th>
-    <th scope="col" class="org-left">G</th>
-    <th scope="col" class="org-left">D</th>
-    <th scope="col" class="org-left">A</th>
-    <th scope="col" class="org-left">E</th>
-    <th scope="col" class="org-left">B</th>
-    <th scope="col" class="org-left">F#</th>
-    <th scope="col" class="org-left">Db</th>
-    <th scope="col" class="org-left">Ab</th>
-    </tr>
-    </thead>
-    
-    <tbody>
-    <tr>
-    <td class="org-left">1st</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">2nd</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">D#</td>
-    <td class="org-left">A#</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">3rd</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">D#</td>
-    <td class="org-left">A#</td>
-    <td class="org-left">E# (F)</td>
-    <td class="org-left">B# (C)</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">4th</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C</td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left"><span class="underline">5th</span></td>
-    <td class="org-left">G</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">D#</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">6th</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">D#</td>
-    <td class="org-left">A#</td>
-    <td class="org-left">E#(F)</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">7th</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">D#</td>
-    <td class="org-left">A#</td>
-    <td class="org-left">E# (F)</td>
-    <td class="org-left">B# (C)</td>
-    <td class="org-left">**G  !?!**</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">8th</td>
-    <td class="org-left">C</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">D</td>
-    <td class="org-left">A</td>
-    <td class="org-left">E</td>
-    <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
-    </tr>
-    </tbody>
-    </table>
--   Once we get to G# we're really in trouble, it has become impossible to support our desire to have
-    ABCDEFG in each scale.
+Using everything we've learned so far, we can now construct every major scale. There will be one 
+for each of our 12 notes. You should try this yourself. Start with the easy one, C, but don't make
+the next one D,  rather choose the 5th interval of C for the next column (which is G). We'll see why
+in a moment.
+
+When we get to F&sharp; things start getting a bit tricky. We end up with needing an E&sharp;. Remember 
+the &sharp; is an instruction to sharpen the E by one semintone, which correctly gives F, so E&sharp;
+is perfectly valid. Carrying on the C&sharp; scale now has E&sharp; and B&sharp;. Once we get to 
+G&sharp; we're really in trouble, it has become impossible to support our desire to have ABCDEFG in 
+each scale.
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">C&sharp;</th>
+<th scope="col" class="org-left">G&sharp;</th>
+</tr>
+
+
+<tr>
+<th scope="col" class="org-left">Degree</th>
+<th scope="col" class="org-left">C</th>
+<th scope="col" class="org-left">G</th>
+<th scope="col" class="org-left">D</th>
+<th scope="col" class="org-left">A</th>
+<th scope="col" class="org-left">E</th>
+<th scope="col" class="org-left">B</th>
+<th scope="col" class="org-left">F&sharp;</th>
+<th scope="col" class="org-left">D&flat;</th>
+<th scope="col" class="org-left">A&flat;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">1st</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">2nd</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">D&sharp;</td>
+<td class="org-left">A&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">3rd</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">D&sharp;</td>
+<td class="org-left">A&sharp;</td>
+<td class="org-left">E&sharp; (F)</td>
+<td class="org-left">B&sharp; (C)</td>
+</tr>
+
+
+<tr>
+<td class="org-left">4th</td>
+<td class="org-left">F</td>
+<td class="org-left">C</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">**5th**</td>
+<td class="org-left">G</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">D&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">6th</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">D&sharp;</td>
+<td class="org-left">A&sharp;</td>
+<td class="org-left">E&sharp;(F)</td>
+</tr>
+
+
+<tr>
+<td class="org-left">7th</td>
+<td class="org-left">B</td>
+<td class="org-left">F</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+<td class="org-left">D&sharp;</td>
+<td class="org-left">A&sharp;</td>
+<td class="org-left">E&sharp; (F)</td>
+<td class="org-left">B&sharp; (C)</td>
+<td class="org-left">**G  !?!**</td>
+</tr>
+
+
+<tr>
+<td class="org-left">8th</td>
+<td class="org-left">C</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">D</td>
+<td class="org-left">A</td>
+<td class="org-left">E</td>
+<td class="org-left">B</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">G&sharp;</td>
+</tr>
+</tbody>
+</table>
+
 -   What we need to do is start using flats and it should work out for us:
     
     <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
@@ -472,10 +481,10 @@ will use this a lot.
     <thead>
     <tr>
     <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">C#</th>
-    <th scope="col" class="org-left">G#</th>
-    <th scope="col" class="org-left">D#</th>
-    <th scope="col" class="org-left">A#</th>
+    <th scope="col" class="org-left">C&sharp;</th>
+    <th scope="col" class="org-left">G&sharp;</th>
+    <th scope="col" class="org-left">D&sharp;</th>
+    <th scope="col" class="org-left">A&sharp;</th>
     <th scope="col" class="org-left">&#xa0;</th>
     <th scope="col" class="org-left">&#xa0;</th>
     <th scope="col" class="org-left">&#xa0;</th>
@@ -489,10 +498,10 @@ will use this a lot.
     
     <tr>
     <th scope="col" class="org-left">Degree</th>
-    <th scope="col" class="org-left">Db</th>
-    <th scope="col" class="org-left">Ab</th>
-    <th scope="col" class="org-left">Eb</th>
-    <th scope="col" class="org-left">Bb</th>
+    <th scope="col" class="org-left">D&flat;</th>
+    <th scope="col" class="org-left">A&flat;</th>
+    <th scope="col" class="org-left">E&flat;</th>
+    <th scope="col" class="org-left">B&flat;</th>
     <th scope="col" class="org-left">F</th>
     <th scope="col" class="org-left">C</th>
     <th scope="col" class="org-left">G</th>
@@ -500,17 +509,17 @@ will use this a lot.
     <th scope="col" class="org-left">A</th>
     <th scope="col" class="org-left">E</th>
     <th scope="col" class="org-left">B</th>
-    <th scope="col" class="org-left">F#</th>
+    <th scope="col" class="org-left">F&sharp;</th>
     </tr>
     </thead>
     
     <tbody>
     <tr>
     <td class="org-left">1st</td>
-    <td class="org-left">Db</td>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">D&flat;</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">F</td>
     <td class="org-left">C</td>
     <td class="org-left">G</td>
@@ -518,14 +527,14 @@ will use this a lot.
     <td class="org-left">A</td>
     <td class="org-left">E</td>
     <td class="org-left">B</td>
-    <td class="org-left">F#</td>
+    <td class="org-left">F&sharp;</td>
     </tr>
     
     
     <tr>
     <td class="org-left">2nd</td>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">F</td>
     <td class="org-left">C</td>
     <td class="org-left">G</td>
@@ -533,9 +542,9 @@ will use this a lot.
     <td class="org-left">A</td>
     <td class="org-left">E</td>
     <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">C&sharp;</td>
+    <td class="org-left">G&sharp;</td>
     </tr>
     
     
@@ -548,21 +557,21 @@ will use this a lot.
     <td class="org-left">A</td>
     <td class="org-left">E</td>
     <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">D#</td>
-    <td class="org-left">A#</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">C&sharp;</td>
+    <td class="org-left">G&sharp;</td>
+    <td class="org-left">D&sharp;</td>
+    <td class="org-left">A&sharp;</td>
     </tr>
     
     
     <tr>
     <td class="org-left"><- 4th</td>
     <td class="org-left">Gb</td>
-    <td class="org-left">Db</td>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">D&flat;</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">F</td>
     <td class="org-left">C</td>
     <td class="org-left">G</td>
@@ -575,9 +584,9 @@ will use this a lot.
     
     <tr>
     <td class="org-left">5th -></td>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">F</td>
     <td class="org-left">C</td>
     <td class="org-left">G</td>
@@ -585,14 +594,14 @@ will use this a lot.
     <td class="org-left">A</td>
     <td class="org-left">E</td>
     <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">C&sharp;</td>
     </tr>
     
     
     <tr>
     <td class="org-left">6th</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">F</td>
     <td class="org-left">C</td>
     <td class="org-left">G</td>
@@ -600,10 +609,10 @@ will use this a lot.
     <td class="org-left">A</td>
     <td class="org-left">E</td>
     <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">D#</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">C&sharp;</td>
+    <td class="org-left">G&sharp;</td>
+    <td class="org-left">D&sharp;</td>
     </tr>
     
     
@@ -616,32 +625,32 @@ will use this a lot.
     <td class="org-left">E</td>
     <td class="org-left">B</td>
     <td class="org-left">F</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">D#</td>
-    <td class="org-left">A#</td>
-    <td class="org-left">E#[F]</td>
+    <td class="org-left">C&sharp;</td>
+    <td class="org-left">G&sharp;</td>
+    <td class="org-left">D&sharp;</td>
+    <td class="org-left">A&sharp;</td>
+    <td class="org-left">E&sharp;[F]</td>
     </tr>
     
     
     <tr>
     <td class="org-left">8th</td>
-    <td class="org-left">Db</td>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">D&flat;</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">F</td>
     <td class="org-left">C</td>
-    <td class="org-left">F#</td>
+    <td class="org-left">F&sharp;</td>
     <td class="org-left">D</td>
     <td class="org-left">A</td>
     <td class="org-left">E</td>
     <td class="org-left">B</td>
-    <td class="org-left">F#</td>
+    <td class="org-left">F&sharp;</td>
     </tr>
     </tbody>
     </table>
--   You should be able to see that the 5th of F# is C# or Db and so loops back to the 1st column. This
+-   You should be able to see that the 5th of F&sharp; is C&sharp; or D&flat; and so loops back to the 1st column. This
     circular reference forms part of the circle of 5ths which was invented by Pythagoras. From left 
     to right you choose the 5th to get the next scale and right to left you choose the 4th.
 -   If ordered like this, you can you see how the flats and sharps build up.
@@ -676,10 +685,10 @@ will use this a lot.
     </colgroup>
     <thead>
     <tr>
-    <th scope="col" class="org-left">Db</th>
-    <th scope="col" class="org-left">Ab</th>
-    <th scope="col" class="org-left">Eb</th>
-    <th scope="col" class="org-left">Bb</th>
+    <th scope="col" class="org-left">D&flat;</th>
+    <th scope="col" class="org-left">A&flat;</th>
+    <th scope="col" class="org-left">E&flat;</th>
+    <th scope="col" class="org-left">B&flat;</th>
     <th scope="col" class="org-left">F</th>
     <th scope="col" class="org-left">C</th>
     <th scope="col" class="org-left">G</th>
@@ -687,7 +696,7 @@ will use this a lot.
     <th scope="col" class="org-left">A</th>
     <th scope="col" class="org-left">E</th>
     <th scope="col" class="org-left">B</th>
-    <th scope="col" class="org-left">F#</th>
+    <th scope="col" class="org-left">F&sharp;</th>
     </tr>
     </thead>
     
@@ -700,17 +709,17 @@ will use this a lot.
     <td class="org-left">C</td>
     <td class="org-left">C</td>
     <td class="org-left">C</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">C#</td>
+    <td class="org-left">C&sharp;</td>
+    <td class="org-left">C&sharp;</td>
+    <td class="org-left">C&sharp;</td>
+    <td class="org-left">C&sharp;</td>
+    <td class="org-left">C&sharp;</td>
     </tr>
     
     
     <tr>
-    <td class="org-left">Db</td>
-    <td class="org-left">Db</td>
+    <td class="org-left">D&flat;</td>
+    <td class="org-left">D&flat;</td>
     <td class="org-left">D</td>
     <td class="org-left">D</td>
     <td class="org-left">D</td>
@@ -718,17 +727,17 @@ will use this a lot.
     <td class="org-left">D</td>
     <td class="org-left">D</td>
     <td class="org-left">D</td>
-    <td class="org-left">D#</td>
-    <td class="org-left">D#</td>
-    <td class="org-left">D#</td>
+    <td class="org-left">D&sharp;</td>
+    <td class="org-left">D&sharp;</td>
+    <td class="org-left">D&sharp;</td>
     </tr>
     
     
     <tr>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Eb</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">E&flat;</td>
     <td class="org-left">E</td>
     <td class="org-left">E</td>
     <td class="org-left">E</td>
@@ -736,7 +745,7 @@ will use this a lot.
     <td class="org-left">E</td>
     <td class="org-left">E</td>
     <td class="org-left">E</td>
-    <td class="org-left">E#[F]</td>
+    <td class="org-left">E&sharp;[F]</td>
     </tr>
     
     
@@ -747,12 +756,12 @@ will use this a lot.
     <td class="org-left">F</td>
     <td class="org-left">F</td>
     <td class="org-left">F</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">F#</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">F&sharp;</td>
     </tr>
     
     
@@ -765,17 +774,17 @@ will use this a lot.
     <td class="org-left">G</td>
     <td class="org-left">G</td>
     <td class="org-left">G</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">G#</td>
+    <td class="org-left">G&sharp;</td>
+    <td class="org-left">G&sharp;</td>
+    <td class="org-left">G&sharp;</td>
+    <td class="org-left">G&sharp;</td>
     </tr>
     
     
     <tr>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Ab</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">A&flat;</td>
     <td class="org-left">A</td>
     <td class="org-left">A</td>
     <td class="org-left">A</td>
@@ -783,17 +792,17 @@ will use this a lot.
     <td class="org-left">A</td>
     <td class="org-left">A</td>
     <td class="org-left">A</td>
-    <td class="org-left">A#</td>
-    <td class="org-left">A#</td>
+    <td class="org-left">A&sharp;</td>
+    <td class="org-left">A&sharp;</td>
     </tr>
     
     
     <tr>
-    <td class="org-left">Bb</td>
-    <td class="org-left">Bb</td>
-    <td class="org-left">Bb</td>
-    <td class="org-left">Bb</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">B&flat;</td>
+    <td class="org-left">B&flat;</td>
+    <td class="org-left">B&flat;</td>
+    <td class="org-left">B&flat;</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">B</td>
     <td class="org-left">B</td>
     <td class="org-left">B</td>
@@ -846,10 +855,10 @@ will use this a lot.
     <tbody>
     <tr>
     <td class="org-left">Major</td>
-    <td class="org-left">Db</td>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">D&flat;</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">F</td>
     <td class="org-left">C</td>
     <td class="org-left">G</td>
@@ -857,13 +866,13 @@ will use this a lot.
     <td class="org-left">A</td>
     <td class="org-left">E</td>
     <td class="org-left">B</td>
-    <td class="org-left">F#</td>
+    <td class="org-left">F&sharp;</td>
     </tr>
     
     
     <tr>
     <td class="org-left">Minor</td>
-    <td class="org-left">Bbm</td>
+    <td class="org-left">B\flatm</td>
     <td class="org-left">Fm</td>
     <td class="org-left">Cm</td>
     <td class="org-left">Gm</td>
@@ -871,10 +880,10 @@ will use this a lot.
     <td class="org-left">Am</td>
     <td class="org-left">Em</td>
     <td class="org-left">Bm</td>
-    <td class="org-left">F#m</td>
-    <td class="org-left">C#m</td>
-    <td class="org-left">G#m</td>
-    <td class="org-left">D#m</td>
+    <td class="org-left">F\sharpm</td>
+    <td class="org-left">C\sharpm</td>
+    <td class="org-left">G\sharpm</td>
+    <td class="org-left">D\sharpm</td>
     </tr>
     </tbody>
     </table>
@@ -927,10 +936,10 @@ will use this a lot.
     <thead>
     <tr>
     <th scope="col" class="org-left">&#xa0;</th>
-    <th scope="col" class="org-left">C#</th>
-    <th scope="col" class="org-left">G#</th>
-    <th scope="col" class="org-left">D#</th>
-    <th scope="col" class="org-left">A#</th>
+    <th scope="col" class="org-left">C&sharp;</th>
+    <th scope="col" class="org-left">G&sharp;</th>
+    <th scope="col" class="org-left">D&sharp;</th>
+    <th scope="col" class="org-left">A&sharp;</th>
     <th scope="col" class="org-left">&#xa0;</th>
     <th scope="col" class="org-left">&#xa0;</th>
     <th scope="col" class="org-left">&#xa0;</th>
@@ -944,10 +953,10 @@ will use this a lot.
     
     <tr>
     <th scope="col" class="org-left">Degree</th>
-    <th scope="col" class="org-left">Db</th>
-    <th scope="col" class="org-left">Ab</th>
-    <th scope="col" class="org-left">Eb</th>
-    <th scope="col" class="org-left">Bb</th>
+    <th scope="col" class="org-left">D&flat;</th>
+    <th scope="col" class="org-left">A&flat;</th>
+    <th scope="col" class="org-left">E&flat;</th>
+    <th scope="col" class="org-left">B&flat;</th>
     <th scope="col" class="org-left">F</th>
     <th scope="col" class="org-left">C</th>
     <th scope="col" class="org-left">G</th>
@@ -955,17 +964,17 @@ will use this a lot.
     <th scope="col" class="org-left">A</th>
     <th scope="col" class="org-left">E</th>
     <th scope="col" class="org-left">B</th>
-    <th scope="col" class="org-left">F#</th>
+    <th scope="col" class="org-left">F&sharp;</th>
     </tr>
     </thead>
     
     <tbody>
     <tr>
     <td class="org-left">root</td>
-    <td class="org-left">Db</td>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">D&flat;</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">F</td>
     <td class="org-left">C</td>
     <td class="org-left">G</td>
@@ -973,7 +982,7 @@ will use this a lot.
     <td class="org-left">A</td>
     <td class="org-left">E</td>
     <td class="org-left">B</td>
-    <td class="org-left">F#</td>
+    <td class="org-left">F&sharp;</td>
     </tr>
     
     
@@ -1003,11 +1012,11 @@ will use this a lot.
     <td class="org-left">A</td>
     <td class="org-left">E</td>
     <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">G#</td>
-    <td class="org-left">D#</td>
-    <td class="org-left">A#</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">C&sharp;</td>
+    <td class="org-left">G&sharp;</td>
+    <td class="org-left">D&sharp;</td>
+    <td class="org-left">A&sharp;</td>
     </tr>
     
     
@@ -1030,9 +1039,9 @@ will use this a lot.
     
     <tr>
     <td class="org-left">5th</td>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">F</td>
     <td class="org-left">C</td>
     <td class="org-left">G</td>
@@ -1040,8 +1049,8 @@ will use this a lot.
     <td class="org-left">A</td>
     <td class="org-left">E</td>
     <td class="org-left">B</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">C#</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">C&sharp;</td>
     </tr>
     </tbody>
     </table>
@@ -1221,44 +1230,44 @@ will use this a lot.
     
     <tbody>
     <tr>
-    <td class="org-left">Db</td>
-    <td class="org-left">Db</td>
-    <td class="org-left">Ebm</td>
+    <td class="org-left">D&flat;</td>
+    <td class="org-left">D&flat;</td>
+    <td class="org-left">E\flatm</td>
     <td class="org-left">Fm</td>
     <td class="org-left">Gb</td>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Bbm</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">B\flatm</td>
     </tr>
     
     
     <tr>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Bbm</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">B\flatm</td>
     <td class="org-left">C</td>
-    <td class="org-left">Db</td>
-    <td class="org-left">Eb</td>
+    <td class="org-left">D&flat;</td>
+    <td class="org-left">E&flat;</td>
     <td class="org-left">Fm</td>
     </tr>
     
     
     <tr>
-    <td class="org-left">Eb</td>
-    <td class="org-left">Eb</td>
+    <td class="org-left">E&flat;</td>
+    <td class="org-left">E&flat;</td>
     <td class="org-left">Fm</td>
     <td class="org-left">Gm</td>
-    <td class="org-left">Ab</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">A&flat;</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">Cm</td>
     </tr>
     
     
     <tr>
-    <td class="org-left">Bb</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">B&flat;</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">Cm</td>
     <td class="org-left">Dm</td>
-    <td class="org-left">Eb</td>
+    <td class="org-left">E&flat;</td>
     <td class="org-left">F</td>
     <td class="org-left">Gm</td>
     </tr>
@@ -1269,7 +1278,7 @@ will use this a lot.
     <td class="org-left">F</td>
     <td class="org-left">Gm</td>
     <td class="org-left">Am</td>
-    <td class="org-left">Bb</td>
+    <td class="org-left">B&flat;</td>
     <td class="org-left">C</td>
     <td class="org-left">Dm</td>
     </tr>
@@ -1301,7 +1310,7 @@ will use this a lot.
     <td class="org-left">D</td>
     <td class="org-left">D</td>
     <td class="org-left">Em</td>
-    <td class="org-left">F#m</td>
+    <td class="org-left">F&sharp;m</td>
     <td class="org-left">G</td>
     <td class="org-left">A</td>
     <td class="org-left">Bm</td>
@@ -1312,43 +1321,43 @@ will use this a lot.
     <td class="org-left">A</td>
     <td class="org-left">A</td>
     <td class="org-left">Bm</td>
-    <td class="org-left">C#m</td>
+    <td class="org-left">C&sharp;m</td>
     <td class="org-left">D</td>
     <td class="org-left">E</td>
-    <td class="org-left">F#m</td>
+    <td class="org-left">F&sharp;m</td>
     </tr>
     
     
     <tr>
     <td class="org-left">E</td>
     <td class="org-left">E</td>
-    <td class="org-left">F#m</td>
-    <td class="org-left">G#m</td>
+    <td class="org-left">F&sharp;m</td>
+    <td class="org-left">G&sharp;m</td>
     <td class="org-left">A</td>
     <td class="org-left">B</td>
-    <td class="org-left">C#m</td>
+    <td class="org-left">C&sharp;m</td>
     </tr>
     
     
     <tr>
     <td class="org-left">B</td>
     <td class="org-left">B</td>
-    <td class="org-left">C#m</td>
-    <td class="org-left">D#m</td>
+    <td class="org-left">C&sharp;m</td>
+    <td class="org-left">D&sharp;m</td>
     <td class="org-left">E</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">G#m</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">G&sharp;m</td>
     </tr>
     
     
     <tr>
-    <td class="org-left">F#</td>
-    <td class="org-left">F#</td>
-    <td class="org-left">G#m</td>
-    <td class="org-left">A#m</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">F&sharp;</td>
+    <td class="org-left">G&sharp;m</td>
+    <td class="org-left">A&sharp;m</td>
     <td class="org-left">B</td>
-    <td class="org-left">C#</td>
-    <td class="org-left">D#m</td>
+    <td class="org-left">C&sharp;</td>
+    <td class="org-left">D&sharp;m</td>
     </tr>
     </tbody>
     </table>

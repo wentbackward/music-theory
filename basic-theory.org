@@ -41,8 +41,8 @@ to describe this phenomena of how notes interact to make *music*
 
 * Scales
 We found there are groupings of notes that have interesting relationships with each other. We 
-can define these groups by their intervals and we call these groups *scales*.One important scale 
-is the *Major scale*, which is 7 notes and can be played by going:
+can define these groups by their intervals and we call these groups *scales*. One important scale 
+is the *Major scale*, which has 7 notes and can be played as follows:
 #+ATTR_HTML: :border 1 :rules all :frame border
  | tone | tone | semitone | tone | tone | tone | semitone |
 We can write this shorter as *TTSTTTS*.
@@ -70,15 +70,17 @@ scale as 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th (and keep going ... 9th, 11th, 1
 will use this a lot.
 
 * Key and scale
-- First let's name the 12 semitones. Some have letters and some are considered sharp (\sharp) or 
-  flat (\flat). Using sharps, we can write the 12 semitones out like this:
-  | 1 |       2 | 3 |       4 | 5 | 6 |       7 | 8 |       9 | 10 |      11 | 12 |
-  | C | C\sharp / D\flat | D | D\sharp / E\flat | E | F | F# / Gb | G | G# / Ab |  A | A# / Bb |  B |
-- There's no extra note between E and F or between B and C.
-- Unfortunately some notes have two (or more!!) names. In between C and D is a note that is either
-  C# [See-Sharp] or Db [Dee-flat]. We'll see why as we start to understand scales.
-- Let us try naming some notes in the major scale and see what happens.
-- Check these scales using the named semitones above and the TTSTTTS pattern.
+First let's name the 12 semitones. Some have letters and some are considered sharp (\sharp) or 
+flat (\flat). Using sharps, we can write the 12 semitones out like this:
+  | 1 |                2 | 3 |                4 | 5 | 6 |                7 | 8 |                9 | 10 |               11 | 12 |
+  | C | C\sharp / D\flat | D | D\sharp / E\flat | E | F | F\sharp / G\flat | G | G\sharp / A\flat |  A | A\sharp / B\flat |  B |
+There is no extra note between E and F or between B and C. Unfortunately these extra notes may have 
+two (or more!!) names because the \flat or \sharp is not really a name but an instruction to the
+musician to sharpen or flatten by a semitone. In between C and D is a note that is either C\sharp 
+[see-Sharp] or D\flat [dee-flat]. This is actually to simplify things. We'll see how shortly.
+
+Let us now try naming some notes in the major scale and see what happens. Check these scales using 
+the table of named semitones above and the TTSTTTS pattern.
   | Degree | C Major | G Major |
   | 1st    | C       | G       |
   | 2nd    | D       | A       |
@@ -86,68 +88,73 @@ will use this a lot.
   | 4th    | F       | C       |
   | 5th    | G       | D       |
   | 6th    | A       | E       |
-  | 7th    | B       | F#      |
+  | 7th    | B       | F\sharp |
   | 8th    | C       | G       |
-- We want to have an A B C D E F and G in every scale. This is why we need to use the F# and not 
-  Gb in the G Major scale. It is much clearer to have A B C D E F# G than A B C D E Gb G.
-- Now we can talk about music being in a *key*, for example the music may centre around G and
-  use mostly notes from the major scale, so it's key is G Major.
-- When we say key of G Major we are saying the *root* or *tonic* or *tonal centre* is G and
-  we determine the rest of the notes using the interval pattern TTSTTTS.
+
+To make things simpler, we want to have an A B C D E F and G in every major scale. This is why, in the 
+G Major example above, we choose to use the F\sharp and not G\flat. It is much clearer to 
+have A B C D E F\sharp G than A B C D E G\flat G.
+
+Now we can talk about music being in a *key*, for example the music may centre around G and
+use mostly notes from the major scale, so it's key is G Major. When we say key of G Major we 
+are saying the *root* or *tonic* or *tonal centre* is G and we determine the rest of the notes 
+using the interval pattern TTSTTTS.
 
 * All major scales
-- Now we have octaves, tones, semitones and a pattern to build major scales, let's go ahead and
-  build every major scale. There will be one for every note. 
-- Let's start with the easy one, C, but rather than the next column being D, we'll choose the 
-  5th interval of C for the next column. As C is the 1st interval, so G is the 5th.
-- When we get to F# things start getting a bit tricky. We end up with an E#, if you sharpen the E
-  get F as there is no E# note. Oh dear the C# scale now has E# (F) and B# (C).
-  |        |   |    |    |    |    |    |        | C#     | G#       |
-  | Degree | C | G  | D  | A  | E  | B  | F#     | Db     | Ab       |
-  |--------+---+----+----+----+----+----+--------+--------+----------|
-  | 1st    | C | G  | D  | A  | E  | B  | F#     | C#     | G#       |
-  | 2nd    | D | A  | E  | B  | F# | C# | G#     | D#     | A#       |
-  | 3rd    | E | B  | F# | C# | G# | D# | A#     | E# (F) | B# (C)   |
-  | 4th    | F | C  | G  | D  | A  | E  | B      | F#     | C#       |
-  | _5th_  | G | D  | A  | E  | B  | F# | C#     | G#     | D#       |
-  | 6th    | A | E  | B  | F# | C# | G# | D#     | A#     | E#(F)    |
-  | 7th    | B | F  | C# | G# | D# | A# | E# (F) | B# (C) | *G  !?!* |
-  | 8th    | C | F# | D  | A  | E  | B  | F#     | C#     | G#       |
-- Once we get to G# we're really in trouble, it has become impossible to support our desire to have
-  ABCDEFG in each scale.
+Using everything we've learned so far, we can now construct every major scale. There will be one 
+for each of our 12 notes. You should try this yourself. Start with the easy one, C, but don't make
+the next one D,  rather choose the 5th interval of C for the next column (which is G). We'll see why
+in a moment.
+
+When we get to F\sharp things start getting a bit tricky. We end up with needing an E\sharp. Remember 
+the \sharp is an instruction to sharpen the E by one semintone, which correctly gives F, so E\sharp
+is perfectly valid. Carrying on the C\sharp scale now has E\sharp and B\sharp. Once we get to 
+G\sharp we're really in trouble, it has become impossible to support our desire to have ABCDEFG in 
+each scale.
+  |        |   |         |         |         |         |         |             | C\sharp     | G\sharp     |
+  | Degree | C | G       | D       | A       | E       | B       | F\sharp     | D\flat      | A\flat      |
+  |--------+---+---------+---------+---------+---------+---------+-------------+-------------+-------------|
+  | 1st    | C | G       | D       | A       | E       | B       | F\sharp     | C\sharp     | G\sharp     |
+  | 2nd    | D | A       | E       | B       | F\sharp | C\sharp | G\sharp     | D\sharp     | A\sharp     |
+  | 3rd    | E | B       | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp     | E\sharp (F) | B\sharp (C) |
+  | 4th    | F | C       | G       | D       | A       | E       | B           | F\sharp     | C\sharp     |
+  | *5th*  | G | D       | A       | E       | B       | F\sharp | C\sharp     | G\sharp     | D\sharp     |
+  | 6th    | A | E       | B       | F\sharp | C\sharp | G\sharp | D\sharp     | A\sharp     | E\sharp(F)  |
+  | 7th    | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp (F) | B\sharp (C) | *G  !?!*    |
+  | 8th    | C | F\sharp | D       | A       | E       | B       | F\sharp     | C\sharp     | G\sharp     |
 - What we need to do is start using flats and it should work out for us:
-  |        | C# | G# | D# | A# |    |   |    |    |    |    |    | Gb    |
-  | Degree | Db | Ab | Eb | Bb | F  | C | G  | D  | A  | E  | B  | F#    |
-  |--------+----+----+----+----+----+---+----+----+----+----+----+-------|
-  | 1st    | Db | Ab | Eb | Bb | F  | C | G  | D  | A  | E  | B  | F#    |
-  | 2nd    | Eb | Bb | F  | C  | G  | D | A  | E  | B  | F# | C# | G#    |
-  | 3rd    | F  | C  | G  | D  | A  | E | B  | F# | C# | G# | D# | A#    |
-  | <- 4th | Gb | Db | Ab | Eb | Bb | F | C  | G  | D  | A  | E  | B     |
-  | 5th -> | Ab | Eb | Bb | F  | C  | G | D  | A  | E  | B  | F# | C#    |
-  | 6th    | Bb | F  | C  | G  | D  | A | E  | B  | F# | C# | G# | D#    |
-  | 7th    | C  | G  | D  | A  | E  | B | F  | C# | G# | D# | A# | E#[F] |
-  | 8th    | Db | Ab | Eb | Bb | F  | C | F# | D  | A  | E  | B  | F#    |
-- You should be able to see that the 5th of F# is C# or Db and so loops back to the 1st column. This
+  |        | C\sharp | G\sharp | D\sharp | A\sharp |        |   |         |         |         |         |         | Gb         |
+  | Degree | D\flat  | A\flat  | E\flat  | B\flat  | F      | C | G       | D       | A       | E       | B       | F\sharp    |
+  |--------+---------+---------+---------+---------+--------+---+---------+---------+---------+---------+---------+------------|
+  | 1st    | D\flat  | A\flat  | E\flat  | B\flat  | F      | C | G       | D       | A       | E       | B       | F\sharp    |
+  | 2nd    | E\flat  | B\flat  | F       | C       | G      | D | A       | E       | B       | F\sharp | C\sharp | G\sharp    |
+  | 3rd    | F       | C       | G       | D       | A      | E | B       | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp    |
+  | <- 4th | Gb      | D\flat  | A\flat  | E\flat  | B\flat | F | C       | G       | D       | A       | E       | B          |
+  | 5th -> | A\flat  | E\flat  | B\flat  | F       | C      | G | D       | A       | E       | B       | F\sharp | C\sharp    |
+  | 6th    | B\flat  | F       | C       | G       | D      | A | E       | B       | F\sharp | C\sharp | G\sharp | D\sharp    |
+  | 7th    | C       | G       | D       | A       | E      | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp[F] |
+  | 8th    | D\flat  | A\flat  | E\flat  | B\flat  | F      | C | F\sharp | D       | A       | E       | B       | F\sharp    |
+- You should be able to see that the 5th of F\sharp is C\sharp or D\flat and so loops back to the 1st column. This
   circular reference forms part of the circle of 5ths which was invented by Pythagoras. From left 
   to right you choose the 5th to get the next scale and right to left you choose the 4th.
 - If ordered like this, you can you see how the flats and sharps build up.
-  | Db | Ab | Eb | Bb | F  | C | G  | D  | A  | E  | B  | F#    |
-  |----+----+----+----+----+---+----+----+----+----+----+-------|
-  | C  | C  | C  | C  | C  | C | C  | C# | C# | C# | C# | C#    |
-  | Db | Db | D  | D  | D  | D | D  | D  | D  | D# | D# | D#    |
-  | Eb | Eb | Eb | Eb | E  | E | E  | E  | E  | E  | E  | E#[F] |
-  | F  | F  | F  | F  | F  | F | F# | F# | F# | F# | F# | F#    |
-  | Gb | G  | G  | G  | G  | G | G  | G  | G# | G# | G# | G#    |
-  | Ab | Ab | Ab | A  | A  | A | A  | A  | A  | A  | A# | A#    |
-  | Bb | Bb | Bb | Bb | Bb | B | B  | B  | B  | B  | B  | B     |
+  | D\flat | A\flat | E\flat | B\flat | F      | C | G       | D       | A       | E       | B       | F\sharp    |
+  |--------+--------+--------+--------+--------+---+---------+---------+---------+---------+---------+------------|
+  | C      | C      | C      | C      | C      | C | C       | C\sharp | C\sharp | C\sharp | C\sharp | C\sharp    |
+  | D\flat | D\flat | D      | D      | D      | D | D       | D       | D       | D\sharp | D\sharp | D\sharp    |
+  | E\flat | E\flat | E\flat | E\flat | E      | E | E       | E       | E       | E       | E       | E\sharp[F] |
+  | F      | F      | F      | F      | F      | F | F\sharp | F\sharp | F\sharp | F\sharp | F\sharp | F\sharp    |
+  | Gb     | G      | G      | G      | G      | G | G       | G       | G\sharp | G\sharp | G\sharp | G\sharp    |
+  | A\flat | A\flat | A\flat | A      | A      | A | A       | A       | A       | A       | A\sharp | A\sharp    |
+  | B\flat | B\flat | B\flat | B\flat | B\flat | B | B       | B       | B       | B       | B       | B          |
 
 * Minor scales
 - You might not know it but because you know all the major scales, and you understand intervals, you
   know all the *minor scales* as well.
 - If you go left 3 intervals from the root of the major scale. Start there and play all the notes, 
   from the major scale, you have found the *natural minor* or *relative minor*. 
-  | Major | Db  | Ab | Eb | Bb | F  | C  | G  | D  | A   | E   | B   | F#  |
-  | Minor | Bbm | Fm | Cm | Gm | Dm | Am | Em | Bm | F#m | C#m | G#m | D#m |
+  | Major | D\flat  | A\flat | E\flat | B\flat | F  | C  | G  | D  | A        | E        | B        | F\sharp  |
+  | Minor | B\flatm | Fm     | Cm     | Gm     | Dm | Am | Em | Bm | F\sharpm | C\sharpm | G\sharpm | D\sharpm |
 - You can see this in the pattern for a minor scale. Take the major TTSTTTS and rotate it 3 to the
   right you get TSTTSTT.
 - Yet another way to look at this is that the relative minor always starts on the 6th degree of the
@@ -161,14 +168,14 @@ will use this a lot.
   are very special chords.
 - If you play the intervals 1st, 3rd and 5th together you are playing a *major chord*, so now you
   instantly know all the major triads.
-  |          | C# | G# | D# | A# |   |   |   |    |    |    |    | Gb |
-  | Degree   | Db | Ab | Eb | Bb | F | C | G | D  | A  | E  | B  | F# |
-  |----------+----+----+----+----+---+---+---+----+----+----+----+----|
-  | root     | Db | Ab | Eb | Bb | F | C | G | D  | A  | E  | B  | F# |
-  | skip one |    |    |    |    |   |   |   |    |    |    |    |    |
-  | 3rd      | F  | C  | G  | D  | A | E | B | F# | C# | G# | D# | A# |
-  | skip one |    |    |    |    |   |   |   |    |    |    |    |    |
-  | 5th      | Ab | Eb | Bb | F  | C | G | D | A  | E  | B  | F# | C# |
+  |          | C\sharp | G\sharp | D\sharp | A\sharp |   |   |   |         |         |         |         | Gb      |
+  | Degree   | D\flat  | A\flat  | E\flat  | B\flat  | F | C | G | D       | A       | E       | B       | F\sharp |
+  |----------+---------+---------+---------+---------+---+---+---+---------+---------+---------+---------+---------|
+  | root     | D\flat  | A\flat  | E\flat  | B\flat  | F | C | G | D       | A       | E       | B       | F\sharp |
+  | skip one |         |         |         |         |   |   |   |         |         |         |         |         |
+  | 3rd      | F       | C       | G       | D       | A | E | B | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp |
+  | skip one |         |         |         |         |   |   |   |         |         |         |         |         |
+  | 5th      | A\flat  | E\flat  | B\flat  | F       | C | G | D | A       | E       | B       | F\sharp | C\sharp |
 
 * Loads of important traids
 - Notice the pattern is play one, skip one, play one, skip one, play one. For example in C Major
@@ -198,20 +205,20 @@ will use this a lot.
 - Minor chords will have the root note plus a small m, so A Minor is Am
 - Flats and sharps are put in their proper place after the note name
 - Here again we can see why we want to keep the notes in each scale labeled ABCDEFG
-  | Key | I  | ii  | iii | IV | V  | vi  |
-  |-----+----+-----+-----+----+----+-----|
-  | Db  | Db | Ebm | Fm  | Gb | Ab | Bbm |
-  | Ab  | Ab | Bbm | C   | Db | Eb | Fm  |
-  | Eb  | Eb | Fm  | Gm  | Ab | Bb | Cm  |
-  | Bb  | Bb | Cm  | Dm  | Eb | F  | Gm  |
-  | F   | F  | Gm  | Am  | Bb | C  | Dm  |
-  | C   | C  | Dm  | Em  | F  | G  | Am  |
-  | G   | G  | Am  | Bm  | C  | D  | Em  |
-  | D   | D  | Em  | F#m | G  | A  | Bm  |
-  | A   | A  | Bm  | C#m | D  | E  | F#m |
-  | E   | E  | F#m | G#m | A  | B  | C#m |
-  | B   | B  | C#m | D#m | E  | F# | G#m |
-  | F#  | F# | G#m | A#m | B  | C# | D#m |
+  | Key     | I       | ii         | iii        | IV     | V       | vi         |
+  |---------+---------+------------+------------+--------+---------+------------|
+  | D\flat  | D\flat  | E\flatm    | Fm         | Gb     | A\flat  | B\flatm    |
+  | A\flat  | A\flat  | B\flatm    | C          | D\flat | E\flat  | Fm         |
+  | E\flat  | E\flat  | Fm         | Gm         | A\flat | B\flat  | Cm         |
+  | B\flat  | B\flat  | Cm         | Dm         | E\flat | F       | Gm         |
+  | F       | F       | Gm         | Am         | B\flat | C       | Dm         |
+  | C       | C       | Dm         | Em         | F      | G       | Am         |
+  | G       | G       | Am         | Bm         | C      | D       | Em         |
+  | D       | D       | Em         | F\sharp{}m | G      | A       | Bm         |
+  | A       | A       | Bm         | C\sharp{}m | D      | E       | F\sharp{}m |
+  | E       | E       | F\sharp{}m | G\sharp{}m | A      | B       | C\sharp{}m |
+  | B       | B       | C\sharp{}m | D\sharp{}m | E      | F\sharp | G\sharp{}m |
+  | F\sharp | F\sharp | G\sharp{}m | A\sharp{}m | B      | C\sharp | D\sharp{}m |
 
 * Chord progressions
 TODO
