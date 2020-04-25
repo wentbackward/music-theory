@@ -1,28 +1,29 @@
 * The very basics
 - Sounds are vibrations in air that we can hear. Slower vibrations give lower sounds, faster
   vibrations give higher sounds and good vibrations give goosebumps.
-- Let's call these vibrations the *pitch*.
-- Certain pitches get names and we call these *notes*. For example 440 hertz (the way scientists measure
-  frequency or vibration) is usually called A. A is much simpler. This is the alphabet of music.
+- Let's call these vibrations the *pitch*. Pitch is measured in hertz or vibrations per second.
+- Talking about pitch isn't very intuitive so we took certain pitches and gave them names. For
+  example 440 hertz is generally used for a *note* called A.
 - Notes have different relationships with each other. Some are friendly and sound *harmonious*, some
   might clash with each other and sound *discordant*. 
-- We will talk a lot about the distance between notes so let's call this the *interval*.
-- It turns out that identifying the actual notes is helpful, but understanding how notes relate 
-  to each other is really the most important thing for music.
+- We will talk a lot about the distance between notes so let's call this the *interval* between two
+  notes.
+- It turns out that identifying the actual notes, whilst helpful, is not as powerful as 
+  understanding how notes relate to each other.
 
 * Our first two important intervals
 - Our ears can clearly tell when one pitch or note is vibrating twice as fast as a lower pitch or
   note. For reasons that will become clear shortly, we call this distance or interval between notes
-  an *Octave*.
-- Octaves are quite far apart, we need to chop them up into smaller intervals. It turns out our 
+  an *octave*.
+- Octaves are quite far apart, so we need to chop them up into smaller intervals. It turns out our 
   ears are very sensitive to how we do this.
-- A majority of music today is made up by taking the first note of one octave and the first note
-  of the next octave and dividing that into 12 parts called *semitones* (or half-steps).
+- The majority of music today is made up by chopping up the distance between two octaves into 12 
+  parts called *semitones* (or half-steps).
 - A distance of two semitones is called a *tone* or whole tone (or whole-step).
-- You can visualise on a guitar neck. The first note is the open string, there are then 12 frets
-  that will get you to the next octave and is why the 12th fret on a guitar is marked so clearly.
+- You can see on a guitar neck, the 12th fret will give a note one octave higher than the open 
+  string. Each fret is a semitone.
 - You can also see a repeating pattern of white and black keys on a piano which are the 12 
-  semitones between the octaves.
+  semitones between the octaves. Each key is a semitone apart.
 
 * Summary so far
 Now we have *notes* and *interval* between any two notes. We have *octaves* divided into
