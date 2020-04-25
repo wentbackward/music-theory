@@ -32,9 +32,9 @@
 - We found there are groupings of notes that have interesting relationships with each other. We 
   can define these groups by their intervals and we call these groups *scales*.
 - Remember a tone is two semitones.
-- One important scale is the *_Major scale_*, which is 7 notes and can be played by going:
+- One important scale is the *Major scale*, which is 7 notes and can be played by going:
     tone, tone, semitone, tone, tone, tone, semitone.
-- We can write this shorter as *_TTSTTTS_*.
+- We can write this shorter as *TTSTTTS*.
 - You should try playing it at this point. Pick any string on a guitar or key on a piano and 
   then simply count them out (remember to play the open string and stay on that string or play
   all notes black and white on a keyboard):
@@ -76,9 +76,9 @@
   | 8th    | C       | F#      |
 - We want to have an A B C D E F and G in every scale. This is why we need to use the F# and not 
   Gb in the G Major scale. It is much clearer to have A B C D E F# G than A B C D E Gb G.
-- Now we can talk about music being in a *_key_*, for example the music may centre around G and
+- Now we can talk about music being in a *key*, for example the music may centre around G and
   use mostly notes from the major scale, so it's key is G Major.
-- When we say key of G Major we are saying the *_root_* or *_tonic_* or *_tonal centre_* is G and
+- When we say key of G Major we are saying the *root* or *tonic* or *tonal centre* is G and
   we determine most of the notes using the interval pattern TTSTTTS.
 
 * All major scales
