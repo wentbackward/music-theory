@@ -264,7 +264,8 @@ indeed.
 * Appendix
 ** TODO More detail on circle of 5ths
 ** Various scales
-** Mames for intervals in major scales
+** Names for intervals in major scales
+#+ATTR_HTML: :border 0 :rules all :frame none
  | Degree | Distance | Name        |
  |--------+----------+-------------|
  |      1 |          | Tonic       |
@@ -276,6 +277,7 @@ indeed.
  |      7 | T        | Major 7th   |
  |      8 | S        | Perfect 8th |
 ** Names for intervals in minor scales
+#+ATTR_HTML: :border 0 :rules all :frame none
  | Degree | Distance | Name        |
  |--------+----------+-------------|
  |      1 |          | Tonic       |

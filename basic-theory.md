@@ -1,16 +1,16 @@
 
 # Table of Contents
 
-1.  [The very basics](#org0370825)
-2.  [Scales](#org4ff9ae0)
-3.  [Chords](#org51c2d14)
-4.  [Pieces of music and songs](#orgb2f896a)
-5.  [Appendix](#org5ab6fee)
-6.  [Useful links](#orgd400289)
+1.  [The very basics](#org23821a4)
+2.  [Scales](#orgf180f7f)
+3.  [Chords](#org5f08595)
+4.  [Pieces of music and songs](#org077931a)
+5.  [Appendix](#orgdee4843)
+6.  [Useful links](#org6917905)
 
 
 
-<a id="org0370825"></a>
+<a id="org23821a4"></a>
 
 # The very basics
 
@@ -62,7 +62,7 @@ Now we have **notes** and **interval** between any two notes. We have **octaves*
 to describe this phenomena of how notes interact to make **music**
 
 
-<a id="org4ff9ae0"></a>
+<a id="orgf180f7f"></a>
 
 # Scales
 
@@ -1037,7 +1037,7 @@ another way to look at this is that the relative minor always starts on the 6th 
 scale and uses all the same notes as the major scale.
 
 
-<a id="org51c2d14"></a>
+<a id="org5f08595"></a>
 
 # Chords
 
@@ -1498,7 +1498,7 @@ indeed.
 </table>
 
 
-<a id="orgb2f896a"></a>
+<a id="org077931a"></a>
 
 # Pieces of music and songs
 
@@ -1524,7 +1524,7 @@ indeed.
 ### TODO melodies
 
 
-<a id="org5ab6fee"></a>
+<a id="orgdee4843"></a>
 
 # Appendix
 
@@ -1535,9 +1535,9 @@ indeed.
 ## Various scales
 
 
-## Mames for intervals in major scales
+## Names for intervals in major scales
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
 
 <colgroup>
@@ -1616,7 +1616,7 @@ indeed.
 
 ## Names for intervals in minor scales
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
 
 <colgroup>
@@ -2010,7 +2010,7 @@ indeed.
 </table>
 
 
-<a id="orgd400289"></a>
+<a id="org6917905"></a>
 
 # Useful links
 
