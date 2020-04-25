@@ -1,4 +1,7 @@
 #+STARTUP: showall
+#+HTML_HEAD_EXTRA: <style type="text/css">th {font-weight: normal;}</style>
+#+OPTIONS: toc:nil 
+
 * The very basics
 Sounds are vibrations in air that we can hear. Slower vibrations give lower sounds, faster
 vibrations give higher sounds and good vibrations give goosebumps. Let's call these vibrations 

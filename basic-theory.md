@@ -1,26 +1,4 @@
 
-# Table of Contents
-
-1.  [The very basics](#org221c155)
-2.  [Our first two important intervals](#orgd359274)
-3.  [Summary so far](#orgb43ef65)
-4.  [Scales](#org481a182)
-5.  [Key and scale](#orgae580c1)
-6.  [All major scales](#orgf7fc587)
-7.  [Minor scales](#org89aedda)
-8.  [Chord Basics](#org139ec78)
-9.  [Loads of important traids](#org93ee30f)
-10. [Traids in every key](#orgeb7192c)
-11. [Chord progressions](#orgea71de9)
-12. [Chord Inversions](#org2d2414f)
-13. [Melodies](#org73b0a37)
-14. [Various scales](#org011f45e)
-15. [Common chord progressions](#org87ae36f)
-16. [Useful links](#org5a4d939)
-
-
-
-<a id="org221c155"></a>
 
 # The very basics
 
@@ -42,8 +20,6 @@ understanding how notes relate to each other.
 \#TODO: Illustrate two notes on an instrument and the same two notes on a score
 
 
-<a id="orgd359274"></a>
-
 # Our first two important intervals
 
 Our ears can clearly tell when one note is vibrating twice as fast as a lower note. For reasons 
@@ -60,16 +36,12 @@ on a piano which are the 12 semitones between the octaves. Each key is a semiton
 \#TODO: Guitar neck and piano keyboard illustration
 
 
-<a id="orgb43ef65"></a>
-
 # Summary so far
 
 Now we have **notes** and **interval** between any two notes. We have **octaves** divided into
 **semitones** and **tones**. We know that these were not arbitrary choices but are a language devised
 to describe this phenomena of how notes interact to make **music**
 
-
-<a id="org481a182"></a>
 
 # Scales
 
@@ -133,8 +105,6 @@ You will understand a lot more about music if you think in intervals, with the d
 scale as 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th (and keep going &#x2026; 9th, 11th, 13th, etc). We 
 will use this a lot.
 
-
-<a id="orgae580c1"></a>
 
 # Key and scale
 
@@ -289,8 +259,6 @@ will use this a lot.
 -   When we say key of G Major we are saying the **root** or **tonic** or **tonal centre** is G and
     we determine the rest of the notes using the interval pattern TTSTTTS.
 
-
-<a id="orgf7fc587"></a>
 
 # All major scales
 
@@ -838,8 +806,6 @@ will use this a lot.
     </table>
 
 
-<a id="org89aedda"></a>
-
 # Minor scales
 
 -   You might not know it but because you know all the major scales, and you understand intervals, you
@@ -917,8 +883,6 @@ will use this a lot.
 -   Yet another way to look at this is that the relative minor always starts on the 6th degree of the
     major scale and uses all the same notes as the major scale.
 
-
-<a id="org139ec78"></a>
 
 # Chord Basics
 
@@ -1083,8 +1047,6 @@ will use this a lot.
     </table>
 
 
-<a id="org93ee30f"></a>
-
 # Loads of important traids
 
 -   Notice the pattern is play one, skip one, play one, skip one, play one. For example in C Major
@@ -1219,8 +1181,6 @@ will use this a lot.
 -   It's quite lovely that we have the 4+3 and 3+4 for major chords. It blows my mind that people
     figured this stuff out and came up with such an elegant language of music.
 
-
-<a id="orgeb7192c"></a>
 
 # Traids in every key
 
@@ -1394,28 +1354,20 @@ will use this a lot.
     </table>
 
 
-<a id="orgea71de9"></a>
-
 # Chord progressions
 
 TODO
 
-
-<a id="org2d2414f"></a>
 
 # Chord Inversions
 
 TODO
 
 
-<a id="org73b0a37"></a>
-
 # Melodies
 
 TODO
 
-
-<a id="org011f45e"></a>
 
 # Various scales
 
@@ -1733,14 +1685,10 @@ TODO
 </table>
 
 
-<a id="org87ae36f"></a>
-
 # Common chord progressions
 
 TODO
 
-
-<a id="org5a4d939"></a>
 
 # Useful links
 
