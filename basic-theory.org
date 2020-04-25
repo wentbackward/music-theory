@@ -36,7 +36,7 @@ to describe this phenomena of how notes interact to make *music*
   | tone | tone | semitone | tone | tone | tone | semitone |
 - We can write this shorter as *TTSTTTS*.
 - You should try playing it at this point. Pick any string on a guitar or key on a piano and 
-  then simply count them out (remember to play the open string and stay on that string or play
+  then simply count them out (pick a note and stay on the same string for guitar or ensure you play
   all notes black and white on a keyboard):
   - Play a random first note
   - go up 1 tone (or 2 semitones, 2 frets, 2 keys) to the 2nd note,
