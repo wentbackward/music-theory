@@ -1,16 +1,16 @@
 
 # Table of Contents
 
-1.  [The very basics](#org23821a4)
-2.  [Scales](#orgf180f7f)
-3.  [Chords](#org5f08595)
-4.  [Pieces of music and songs](#org077931a)
-5.  [Appendix](#orgdee4843)
-6.  [Useful links](#org6917905)
+1.  [The very basics](#org46d4676)
+2.  [Scales](#orgfe7bd9e)
+3.  [Chords](#org517822a)
+4.  [Pieces of music and songs](#org27efc09)
+5.  [Appendix](#org32bf1b6)
+6.  [Useful links](#org13cc929)
 
 
 
-<a id="org23821a4"></a>
+<a id="org46d4676"></a>
 
 # The very basics
 
@@ -62,7 +62,7 @@ Now we have **notes** and **interval** between any two notes. We have **octaves*
 to describe this phenomena of how notes interact to make **music**
 
 
-<a id="orgf180f7f"></a>
+<a id="orgfe7bd9e"></a>
 
 # Scales
 
@@ -1037,7 +1037,7 @@ another way to look at this is that the relative minor always starts on the 6th 
 scale and uses all the same notes as the major scale.
 
 
-<a id="org5f08595"></a>
+<a id="org517822a"></a>
 
 # Chords
 
@@ -1498,7 +1498,7 @@ indeed.
 </table>
 
 
-<a id="org077931a"></a>
+<a id="org27efc09"></a>
 
 # Pieces of music and songs
 
@@ -1524,7 +1524,7 @@ indeed.
 ### TODO melodies
 
 
-<a id="orgdee4843"></a>
+<a id="org32bf1b6"></a>
 
 # Appendix
 
@@ -1695,9 +1695,11 @@ indeed.
 
 ## TODO document various scales
 
--   Chromatic:
-    If you play the 12 semitones, say by going up a guitar string, fret by fret, or by playing each 
-    note (white and black) on a piano.
+
+### Chromatic:
+
+If you play the 12 semitones, say by going up a guitar string, fret by fret, or by playing each 
+note (white and black) on a piano.
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -1765,7 +1767,8 @@ indeed.
 </tbody>
 </table>
 
--   Major:
+
+### Major:
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -1825,7 +1828,8 @@ indeed.
 </tbody>
 </table>
 
--   Minor scale:
+
+### Minor scale:
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -1876,20 +1880,25 @@ indeed.
 <td class="org-left">Interval</td>
 <td class="org-right">1</td>
 <td class="org-right">2</td>
-<td class="org-left">b3</td>
+<td class="org-left">&flat;3</td>
 <td class="org-right">4</td>
 <td class="org-right">5</td>
-<td class="org-left">b6</td>
-<td class="org-left">b7</td>
+<td class="org-left">&flat;6</td>
+<td class="org-left">&flat;7</td>
 </tr>
 </tbody>
 </table>
 
--   Pentatonic scales:
-    Some poeople provide a pattern for pentatonic scales but I prefer to think about them
-    as selecting 5 notes (penta) from the Major or Minor scale.
 
-&#x2013; from the Major scale include 1, 2, 3, 5, 6 or skip the 4th and 7th
+### TODO Check this flat 3rd interval name vs minor 3rd
+
+
+### Pentatonic scales:
+
+Some poeople provide a pattern for pentatonic scales but I prefer to think about them
+as selecting 5 notes (penta) from the Major or Minor scale. 
+
+From the Major scale include 1, 2, 3, 5, 6 or skip the 4th and 7th
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -1949,7 +1958,7 @@ indeed.
 </tbody>
 </table>
 
-&#x2013; from the Minor scale include 1, b3, 4, 5, b7 or exclude the 2nd and flat 6th
+From the Minor scale include 1, &flat;3, 4, 5, &flat;7 or exclude the 2nd and &flat;6th
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -1988,11 +1997,11 @@ indeed.
 <td class="org-left">Interval</td>
 <td class="org-right">1</td>
 <td class="org-right">2</td>
-<td class="org-left">b3</td>
+<td class="org-left">&flat;3</td>
 <td class="org-right">4</td>
 <td class="org-right">5</td>
-<td class="org-left">b6</td>
-<td class="org-left">b7</td>
+<td class="org-left">&flat;6</td>
+<td class="org-left">&flat;7</td>
 </tr>
 
 
@@ -2000,17 +2009,17 @@ indeed.
 <td class="org-left">Include?</td>
 <td class="org-right">1</td>
 <td class="org-right">X</td>
-<td class="org-left">b3</td>
+<td class="org-left">&flat;3</td>
 <td class="org-right">4</td>
 <td class="org-right">5</td>
 <td class="org-left">X</td>
-<td class="org-left">b7</td>
+<td class="org-left">&flat;7</td>
 </tr>
 </tbody>
 </table>
 
 
-<a id="org6917905"></a>
+<a id="org13cc929"></a>
 
 # Useful links
 
@@ -2026,4 +2035,7 @@ indeed.
 -   Some really insightful analysis of chord progressions and melodic overlays from the 80's
     <https://www.youtube.com/watch?v=jav5xMqBWeY>
 -   Piano scales and their fingerings: <https://www.pianoscales.org>
+-   <http://www.piano-keyboard-guide.com/>
+-   An opensource music score editor <http://www.denemo.org/>
+-   Lots of free to use scores <http://www.denemo.org/~rshann/DenemoScores/>
 
