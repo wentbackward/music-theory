@@ -6,11 +6,11 @@ the *pitch*. Pitch is measured in hertz or vibrations per second.
 TODO: Illustration of vibrating string or speaker
 
 Talking about pitch isn't very intuitive so we took certain pitches and gave them names. For
-example 440 hertz is generally used for a *note* called A. Notes have different relationships 
-with each other. Some are friendly and sound *harmonious*, some might clash with each other and 
-sound *discordant*. 
+example 440 hertz is generally used for a *note* called "A". 
 
-We will talk a lot about the distance between notes so let's call this the *interval* between two
+Notes have different relationships with each other. Some are friendly and sound *harmonious*, 
+some might clash with each other and sound *discordant*. We will talk a lot about the 
+distance between notes so let's call this the *interval* between two
 notes. It turns out that identifying the actual notes, whilst helpful, is not as powerful as 
 understanding how notes relate to each other.
 
