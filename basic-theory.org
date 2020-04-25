@@ -57,7 +57,8 @@ to describe this phenomena of how notes interact to make *music*
 * Key and scale
 - First let's name the 12 semitones. Some have letters and some are considered sharp (#) or 
   flat (b). Using sharps, we can write the 12 semitones out like this:
-  | C | C# / Db | D | D# / Eb | E | F | F# / Gb | G | G# / Ab | A | A# / Bb | B |
+  | 1 |       2 | 3 |       4 | 5 | 6 |       7 | 8 |       9 | 10 |      11 | 12 |
+  | C | C# / Db | D | D# / Eb | E | F | F# / Gb | G | G# / Ab |  A | A# / Bb |  B |
 - There's no extra note between E and F or between B and C.
 - Unfortunately some notes have two (or more!!) names. In between C and D is a note that is either
   C# [See-Sharp] or Db [Dee-flat]. We'll see why as we start to understand scales.
