@@ -12,9 +12,8 @@
   understanding how notes relate to each other.
 
 * Our first two important intervals
-- Our ears can clearly tell when one pitch or note is vibrating twice as fast as a lower pitch or
-  note. For reasons that will become clear shortly, we call this distance or interval between notes
-  an *octave*.
+- Our ears can clearly tell when one note is vibrating twice as fast as a lower note. For reasons 
+  that will become clear shortly, we call this distance or interval between notes an *octave*.
 - Octaves are quite far apart, so we need to chop them up into smaller intervals. It turns out our 
   ears are very sensitive to how we do this.
 - The majority of music today is made up by chopping up the distance between two octaves into 12 
