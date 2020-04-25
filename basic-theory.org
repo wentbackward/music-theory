@@ -54,6 +54,8 @@ all notes black and white on a keyboard):
   - 1 tone to the 7th note,
   - 1 semitone takes us to the next octave (or 8th or 8ve).
 
+TODO: Illustration of playing this on a guitar neck and keyboard
+
 Hopefully you now see why octaves have their name, based on the major scale, it takes 8 
 intervals to get from one octave to the next. Did it sound right to your ears? You should have 
 played a major scale but we haven't yet named any notes!
