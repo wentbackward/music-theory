@@ -508,7 +508,7 @@ each scale unless we write F&sharp;&sharp;.
 <td class="org-left">G&sharp;</td>
 <td class="org-left">D&sharp;</td>
 <td class="org-left">A&sharp;</td>
-<td class="org-left">E&sharp; (F)</td>
+<td class="org-left">E&sharp; [F]</td>
 <td class="org-left">B&sharp; [C]</td>
 </tr>
 
@@ -563,8 +563,8 @@ each scale unless we write F&sharp;&sharp;.
 <td class="org-left">G&sharp;</td>
 <td class="org-left">D&sharp;</td>
 <td class="org-left">A&sharp;</td>
-<td class="org-left">E&sharp; (F)</td>
-<td class="org-left">B&sharp; (C)</td>
+<td class="org-left">E&sharp; [F]</td>
+<td class="org-left">B&sharp; [C]</td>
 <td class="org-left">**F&sharp;&sharp;**</td>
 </tr>
 

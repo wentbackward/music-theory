@@ -133,11 +133,11 @@ each scale unless we write F\sharp{}\sharp{}.
   |--------+---+---------+---------+---------+---------+---------+-------------+------------------+---------------------|
   | 1st    | C | G       | D       | A       | E       | B       | F\sharp     | C\sharp          | G\sharp             |
   | 2nd    | D | A       | E       | B       | F\sharp | C\sharp | G\sharp     | D\sharp          | A\sharp             |
-  | 3rd    | E | B       | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp     | E\sharp (F)      | B\sharp [C]         |
+  | 3rd    | E | B       | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp     | E\sharp [F]      | B\sharp [C]         |
   | 4th    | F | C       | G       | D       | A       | E       | B           | F\sharp          | C\sharp             |
   | *5th*  | G | D       | A       | E       | B       | F\sharp | C\sharp     | G\sharp          | D\sharp             |
   | 6th    | A | E       | B       | F\sharp | C\sharp | G\sharp | D\sharp     | A\sharp          | E\sharp [F]         |
-  | 7th    | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp (F) | B\sharp (C)      | *F\sharp{}\sharp{}* |
+  | 7th    | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp [F] | B\sharp [C]      | *F\sharp{}\sharp{}* |
   | 8th    | C | F\sharp | D       | A       | E       | B       | F\sharp     | C\sharp          | G\sharp             |
 
 Whilst it is actually valid to write F\sharp{}\sharp{}, by using flats, we can make things much clearer.
