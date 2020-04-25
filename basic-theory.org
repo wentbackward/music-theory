@@ -1,7 +1,6 @@
 #+STARTUP: showall
 #+OPTIONS: toc:1
 
-
 * The very basics
 ** Notes
 Sounds are vibrations in air that we can hear. Slower vibrations give lower sounds, faster
@@ -31,7 +30,8 @@ A distance of two semitones is called a *tone* or whole tone (or whole-step).
 
 You can see on a guitar neck, the 12th fret will give a note one octave higher than the open 
 string. Each fret is a semitone. You can also see a repeating pattern of white and black keys 
-on a piano which are the 12 semitones between the octaves. Each key is a semitone apart.
+on a piano which are the 12 semitones between the octaves. Each key is a semitone apart. (Don't
+confuse keys on the keyboard with the musical key - explained later).
 
 *** TODO Guitar neck and piano keyboard illustration
 
@@ -73,15 +73,15 @@ will use this a lot.
 
 ** Keys and scales
 First let's name the 12 semitones. Some have letters and some are considered sharp (\sharp) or 
-flat (\flat). Using sharps, we can write the 12 semitones out like this:
+flat (\flat). We can write the 12 semitones out like this:
 #+ATTR_HTML: :border 0 :rules all :frame none
-  | 1 |                2 | 3 |                4 | 5 | 6 |                7 | 8 |                9 | 10 |               11 | 12 |
-  |---+------------------+---+------------------+---+---+------------------+---+------------------+----+------------------+----|
-  | C | C\sharp / D\flat | D | D\sharp / E\flat | E | F | F\sharp / G\flat | G | G\sharp / A\flat |  A | A\sharp / B\flat |  B |
+  | 1 |                2 | 3 | 4 |                5 | 6 |                7 | 8 | 9 |               10 | 11 |               12 |
+  |---+------------------+---+---+------------------+---+------------------+---+---+------------------+----+------------------|
+  | A | A\sharp / B\flat | B | C | C\sharp / D\flat | D | D\sharp / E\flat | E | F | F\sharp / G\flat |  G | G\sharp / A\flat |
 There is no extra note between E and F, nor between B and C. Unfortunately these extra notes may have 
 two (or more!!) names because the \flat or \sharp is not really a name but an instruction to the
 musician to sharpen or flatten by a semitone. So \sharp{}\sharp{} means to sharpen by a whole tone. In 
-between C and D is a note that is either C\sharp [see-Sharp] or D\flat [dee-flat]. This is 
+between C and D is a note that is either C\sharp [see-sharp] or D\flat [dee-flat]. This is 
 actually to simplify things. We'll begin to see how, as we progress.
 
 Let us now try naming some notes in the major scale and see what happens. Check these scales using 
@@ -140,7 +140,7 @@ each scale unless we write F\sharp{}\sharp{}.
   | 7th    | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp [F] | B\sharp [C]      | *F\sharp{}\sharp{}* |
   | 8th    | C | F\sharp | D       | A       | E       | B       | F\sharp     | C\sharp          | G\sharp             |
 
-Whilst it is actually valid to write F\sharp{}\sharp{}, by using flats, we can make things much clearer.
+Whilst it is actually valid to write F\sharp{}\sharp{}, we can make things much clearer by using flats. 
 #+ATTR_HTML: :border 0 :rules all :frame none
   | Degree | C\sharp / D\flat | G\sharp / A\flat | D\sharp / E\flat | A\sharp / B\flat | F      | C | G       | D       | A       | E       | B       | F\sharp / G\flat |
   |--------+------------------+------------------+------------------+------------------+--------+---+---------+---------+---------+---------+---------+------------------|
@@ -175,14 +175,14 @@ patterns between the keys. Columns are orderd in 5ths and rows are ordered in 5t
 ** Minor scales
 Because you know all the major scales, and you understand intervals, you know the *minor scales* as 
 well. All you need are the rules on how to find them. One way to find a minor scale is to go left 
-by 3 intervals from the root of the major scale. Start there and play all the notes from the major 
-scale, you have found the *natural minor* or *relative minor*. 
+by 3 degrees from the root of the major scale. Start there and play all the notes from the major 
+scale, you have found the *natural minor* or *relative minor*.
 #+ATTR_HTML: :border 0 :rules all :frame none
   | Major | D\flat    | A\flat | E\flat | B\flat | F  | C  | G  | D  | A          | E          | B          | F\sharp    |
   | Minor | B\flat{}m | Fm     | Cm     | Gm     | Dm | Am | Em | Bm | F\sharp{}m | C\sharp{}m | G\sharp{}m | D\sharp{}m |
 Another way is looking at the pattern we use to construct a scale. Take the major TTSTTTS and 
 shift it 3 to the right you get TSTTSTT. This is the same as going three intervals to the left. Yet 
-another way to look at this is that the relative minor always starts on the 6th degree of the  major 
+another way to look at this is that the relative minor always starts on the 6th degree of the major 
 scale and uses all the same notes as the major scale.
 
 * Chords

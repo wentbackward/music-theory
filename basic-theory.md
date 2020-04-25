@@ -1,16 +1,16 @@
 
 # Table of Contents
 
-1.  [The very basics](#orge12fc62)
-2.  [Scales](#orgc0e910f)
-3.  [Chords](#org8cb3320)
-4.  [Pieces of music and songs](#org2bba65f)
-5.  [Appendix](#org2159d74)
-6.  [Useful links](#org92ed9ce)
+1.  [The very basics](#org2f50446)
+2.  [Scales](#orgf0f428d)
+3.  [Chords](#orga0ef460)
+4.  [Pieces of music and songs](#orge47f123)
+5.  [Appendix](#orgf5206fe)
+6.  [Useful links](#org52a03a2)
 
 
 
-<a id="orge12fc62"></a>
+<a id="org2f50446"></a>
 
 # The very basics
 
@@ -48,7 +48,8 @@ A distance of two semitones is called a **tone** or whole tone (or whole-step).
 
 You can see on a guitar neck, the 12th fret will give a note one octave higher than the open 
 string. Each fret is a semitone. You can also see a repeating pattern of white and black keys 
-on a piano which are the 12 semitones between the octaves. Each key is a semitone apart.
+on a piano which are the 12 semitones between the octaves. Each key is a semitone apart. (Don't
+confuse keys on the keyboard with the musical key - explained later).
 
 
 ### TODO Guitar neck and piano keyboard illustration
@@ -61,7 +62,7 @@ Now we have **notes** and **interval** between any two notes. We have **octaves*
 to describe this phenomena of how notes interact to make **music**
 
 
-<a id="orgc0e910f"></a>
+<a id="orgf0f428d"></a>
 
 # Scales
 
@@ -133,7 +134,7 @@ will use this a lot.
 ## Keys and scales
 
 First let's name the 12 semitones. Some have letters and some are considered sharp (&sharp;) or 
-flat (&flat;). Using sharps, we can write the 12 semitones out like this:
+flat (&flat;). We can write the 12 semitones out like this:
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -182,6 +183,9 @@ flat (&flat;). Using sharps, we can write the 12 semitones out like this:
 
 <tbody>
 <tr>
+<td class="org-right">A</td>
+<td class="org-right">A&sharp; / B&flat;</td>
+<td class="org-right">B</td>
 <td class="org-right">C</td>
 <td class="org-right">C&sharp; / D&flat;</td>
 <td class="org-right">D</td>
@@ -191,9 +195,6 @@ flat (&flat;). Using sharps, we can write the 12 semitones out like this:
 <td class="org-right">F&sharp; / G&flat;</td>
 <td class="org-right">G</td>
 <td class="org-right">G&sharp; / A&flat;</td>
-<td class="org-right">A</td>
-<td class="org-right">A&sharp; / B&flat;</td>
-<td class="org-right">B</td>
 </tr>
 </tbody>
 </table>
@@ -201,7 +202,7 @@ flat (&flat;). Using sharps, we can write the 12 semitones out like this:
 There is no extra note between E and F, nor between B and C. Unfortunately these extra notes may have 
 two (or more!!) names because the &flat; or &sharp; is not really a name but an instruction to the
 musician to sharpen or flatten by a semitone. So &sharp;&sharp; means to sharpen by a whole tone. In 
-between C and D is a note that is either C&sharp; [see-Sharp] or D&flat; [dee-flat]. This is 
+between C and D is a note that is either C&sharp; [see-sharp] or D&flat; [dee-flat]. This is 
 actually to simplify things. We'll begin to see how, as we progress.
 
 Let us now try naming some notes in the major scale and see what happens. Check these scales using 
@@ -598,7 +599,7 @@ each scale unless we write F&sharp;&sharp;.
 </tbody>
 </table>
 
-Whilst it is actually valid to write F&sharp;&sharp;, by using flats, we can make things much clearer.
+Whilst it is actually valid to write F&sharp;&sharp;, we can make things much clearer by using flats. 
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -961,8 +962,8 @@ patterns between the keys. Columns are orderd in 5ths and rows are ordered in 5t
 
 Because you know all the major scales, and you understand intervals, you know the **minor scales** as 
 well. All you need are the rules on how to find them. One way to find a minor scale is to go left 
-by 3 intervals from the root of the major scale. Start there and play all the notes from the major 
-scale, you have found the **natural minor** or **relative minor**. 
+by 3 degrees from the root of the major scale. Start there and play all the notes from the major 
+scale, you have found the **natural minor** or **relative minor**.
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -1032,11 +1033,11 @@ scale, you have found the **natural minor** or **relative minor**.
 
 Another way is looking at the pattern we use to construct a scale. Take the major TTSTTTS and 
 shift it 3 to the right you get TSTTSTT. This is the same as going three intervals to the left. Yet 
-another way to look at this is that the relative minor always starts on the 6th degree of the  major 
+another way to look at this is that the relative minor always starts on the 6th degree of the major 
 scale and uses all the same notes as the major scale.
 
 
-<a id="org8cb3320"></a>
+<a id="orga0ef460"></a>
 
 # Chords
 
@@ -1497,7 +1498,7 @@ indeed.
 </table>
 
 
-<a id="org2bba65f"></a>
+<a id="orge47f123"></a>
 
 # Pieces of music and songs
 
@@ -1523,7 +1524,7 @@ indeed.
 ### TODO melodies
 
 
-<a id="org2159d74"></a>
+<a id="orgf5206fe"></a>
 
 # Appendix
 
@@ -1851,7 +1852,7 @@ indeed.
 </table>
 
 
-<a id="org92ed9ce"></a>
+<a id="org52a03a2"></a>
 
 # Useful links
 
