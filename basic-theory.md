@@ -619,10 +619,10 @@ Whilst it is actually valid to write F&sharp;&sharp;, by using flats, we can mak
 <thead>
 <tr>
 <th scope="col" class="org-left">Degree</th>
-<th scope="col" class="org-left">D&flat; / C&sharp;</th>
-<th scope="col" class="org-left">A&flat; / G&sharp;</th>
-<th scope="col" class="org-left">E&flat; / D&sharp;</th>
-<th scope="col" class="org-left">B&flat; / A&sharp;</th>
+<th scope="col" class="org-left">C&sharp; / D&flat;</th>
+<th scope="col" class="org-left">G&sharp; / A&flat;</th>
+<th scope="col" class="org-left">D&sharp; / E&flat;</th>
+<th scope="col" class="org-left">A&sharp; / B&flat;</th>
 <th scope="col" class="org-left">F</th>
 <th scope="col" class="org-left">C</th>
 <th scope="col" class="org-left">G</th>
@@ -778,7 +778,7 @@ Pythagoras. From left to right you choose the 5th to get the next scale and righ
 choose the 4th. 
 
 Let's reformat that table so you can you see how the flats and sharps build up as well as other 
-patterns between the keys
+patterns between the keys. Columns are orderd in 5ths and rows are ordered in 5ths.
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -827,66 +827,34 @@ patterns between the keys
 
 <tbody>
 <tr>
-<td class="org-left">C</td>
-<td class="org-left">C</td>
-<td class="org-left">C</td>
-<td class="org-left">C</td>
-<td class="org-left">C</td>
-<td class="org-left">C</td>
-<td class="org-left">C</td>
-<td class="org-left">C&sharp;</td>
-<td class="org-left">C&sharp;</td>
-<td class="org-left">C&sharp;</td>
-<td class="org-left">C&sharp;</td>
-<td class="org-left">C&sharp;</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">F&sharp;</td>
+<td class="org-left">F&sharp;</td>
 </tr>
 
 
 <tr>
-<td class="org-left">D&flat;</td>
-<td class="org-left">D&flat;</td>
-<td class="org-left">D</td>
-<td class="org-left">D</td>
-<td class="org-left">D</td>
-<td class="org-left">D</td>
-<td class="org-left">D</td>
-<td class="org-left">D</td>
-<td class="org-left">D</td>
-<td class="org-left">D&sharp;</td>
-<td class="org-left">D&sharp;</td>
-<td class="org-left">D&sharp;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">E&flat;</td>
-<td class="org-left">E&flat;</td>
-<td class="org-left">E&flat;</td>
-<td class="org-left">E&flat;</td>
-<td class="org-left">E</td>
-<td class="org-left">E</td>
-<td class="org-left">E</td>
-<td class="org-left">E</td>
-<td class="org-left">E</td>
-<td class="org-left">E</td>
-<td class="org-left">E</td>
-<td class="org-left">E&sharp;[F]</td>
-</tr>
-
-
-<tr>
-<td class="org-left">F</td>
-<td class="org-left">F</td>
-<td class="org-left">F</td>
-<td class="org-left">F</td>
-<td class="org-left">F</td>
-<td class="org-left">F</td>
-<td class="org-left">F&sharp;</td>
-<td class="org-left">F&sharp;</td>
-<td class="org-left">F&sharp;</td>
-<td class="org-left">F&sharp;</td>
-<td class="org-left">F&sharp;</td>
-<td class="org-left">F&sharp;</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">C&sharp;</td>
+<td class="org-left">C&sharp;</td>
 </tr>
 
 
@@ -907,6 +875,22 @@ patterns between the keys
 
 
 <tr>
+<td class="org-left">D&flat;</td>
+<td class="org-left">D&flat;</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+<td class="org-left">D&sharp;</td>
+<td class="org-left">D&sharp;</td>
+<td class="org-left">D&sharp;</td>
+</tr>
+
+
+<tr>
 <td class="org-left">A&flat;</td>
 <td class="org-left">A&flat;</td>
 <td class="org-left">A&flat;</td>
@@ -919,6 +903,22 @@ patterns between the keys
 <td class="org-left">A</td>
 <td class="org-left">A&sharp;</td>
 <td class="org-left">A&sharp;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">E&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">E&flat;</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E</td>
+<td class="org-left">E&sharp;[F]</td>
 </tr>
 
 

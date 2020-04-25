@@ -142,7 +142,7 @@ each scale unless we write F\sharp{}\sharp{}.
 
 Whilst it is actually valid to write F\sharp{}\sharp{}, by using flats, we can make things much clearer.
 #+ATTR_HTML: :border 0 :rules all :frame none
-  | Degree | D\flat / C\sharp | A\flat / G\sharp | E\flat / D\sharp | B\flat / A\sharp | F      | C | G       | D       | A       | E       | B       | F\sharp / G\flat |
+  | Degree | C\sharp / D\flat | G\sharp / A\flat | D\sharp / E\flat | A\sharp / B\flat | F      | C | G       | D       | A       | E       | B       | F\sharp / G\flat |
   |--------+------------------+------------------+------------------+------------------+--------+---+---------+---------+---------+---------+---------+------------------|
   | 1st    | D\flat           | A\flat           | E\flat           | B\flat           | F      | C | G       | D       | A       | E       | B       | F\sharp          |
   | 2nd    | E\flat           | B\flat           | F                | C                | G      | D | A       | E       | B       | F\sharp | C\sharp | G\sharp          |
@@ -158,16 +158,16 @@ Pythagoras. From left to right you choose the 5th to get the next scale and righ
 choose the 4th. 
 
 Let's reformat that table so you can you see how the flats and sharps build up as well as other 
-patterns between the keys
+patterns between the keys. Columns are orderd in 5ths and rows are ordered in 5ths.
 #+ATTR_HTML: :border 0 :rules all :frame none
   | D\flat | A\flat | E\flat | B\flat | F      | C | G       | D       | A       | E       | B       | F\sharp    |
   |--------+--------+--------+--------+--------+---+---------+---------+---------+---------+---------+------------|
-  | C      | C      | C      | C      | C      | C | C       | C\sharp | C\sharp | C\sharp | C\sharp | C\sharp    |
-  | D\flat | D\flat | D      | D      | D      | D | D       | D       | D       | D\sharp | D\sharp | D\sharp    |
-  | E\flat | E\flat | E\flat | E\flat | E      | E | E       | E       | E       | E       | E       | E\sharp[F] |
   | F      | F      | F      | F      | F      | F | F\sharp | F\sharp | F\sharp | F\sharp | F\sharp | F\sharp    |
+  | C      | C      | C      | C      | C      | C | C       | C\sharp | C\sharp | C\sharp | C\sharp | C\sharp    |
   | Gb     | G      | G      | G      | G      | G | G       | G       | G\sharp | G\sharp | G\sharp | G\sharp    |
+  | D\flat | D\flat | D      | D      | D      | D | D       | D       | D       | D\sharp | D\sharp | D\sharp    |
   | A\flat | A\flat | A\flat | A      | A      | A | A       | A       | A       | A       | A\sharp | A\sharp    |
+  | E\flat | E\flat | E\flat | E\flat | E      | E | E       | E       | E       | E       | E       | E\sharp[F] |
   | B\flat | B\flat | B\flat | B\flat | B\flat | B | B       | B       | B       | B       | B       | B          |
 
 ** Minor scales
