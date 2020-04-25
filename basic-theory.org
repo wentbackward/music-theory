@@ -176,8 +176,8 @@ well. All you need are the rules on how to find them. One way to find a minor sc
 by 3 intervals from the root of the major scale. Start there and play all the notes from the major 
 scale, you have found the *natural minor* or *relative minor*. 
 #+ATTR_HTML: :border 0 :rules all :frame none
-  | Major | D\flat  | A\flat | E\flat | B\flat | F  | C  | G  | D  | A        | E        | B        | F\sharp  |
-  | Minor | B\flatm | Fm     | Cm     | Gm     | Dm | Am | Em | Bm | F\sharpm | C\sharpm | G\sharpm | D\sharpm |
+  | Major | D\flat    | A\flat | E\flat | B\flat | F  | C  | G  | D  | A          | E          | B          | F\sharp    |
+  | Minor | B\flat{}m | Fm     | Cm     | Gm     | Dm | Am | Em | Bm | F\sharp{}m | C\sharp{}m | G\sharp{}m | D\sharp{}m |
 Another way is looking at the pattern we use to construct a scale. Take the major TTSTTTS and 
 shift it 3 to the right you get TSTTSTT. This is the same as going three intervals to the left. Yet 
 another way to look at this is that the relative minor always starts on the 6th degree of the  major 

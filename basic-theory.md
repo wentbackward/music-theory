@@ -997,7 +997,7 @@ scale, you have found the **natural minor** or **relative minor**.
 
 <tr>
 <td class="org-left">Minor</td>
-<td class="org-left">B\flatm</td>
+<td class="org-left">B&flat;m</td>
 <td class="org-left">Fm</td>
 <td class="org-left">Cm</td>
 <td class="org-left">Gm</td>
@@ -1005,10 +1005,10 @@ scale, you have found the **natural minor** or **relative minor**.
 <td class="org-left">Am</td>
 <td class="org-left">Em</td>
 <td class="org-left">Bm</td>
-<td class="org-left">F\sharpm</td>
-<td class="org-left">C\sharpm</td>
-<td class="org-left">G\sharpm</td>
-<td class="org-left">D\sharpm</td>
+<td class="org-left">F&sharp;m</td>
+<td class="org-left">C&sharp;m</td>
+<td class="org-left">G&sharp;m</td>
+<td class="org-left">D&sharp;m</td>
 </tr>
 </tbody>
 </table>
