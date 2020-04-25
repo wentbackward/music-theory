@@ -1,15 +1,16 @@
 * The very basics
-- Sounds are vibrations in air that we can hear. Slower vibrations give lower sounds, faster
-  vibrations give higher sounds and good vibrations give goosebumps.
-- Let's call these vibrations the *pitch*. Pitch is measured in hertz or vibrations per second.
-- Talking about pitch isn't very intuitive so we took certain pitches and gave them names. For
-  example 440 hertz is generally used for a *note* called A.
-- Notes have different relationships with each other. Some are friendly and sound *harmonious*, some
-  might clash with each other and sound *discordant*. 
-- We will talk a lot about the distance between notes so let's call this the *interval* between two
-  notes.
-- It turns out that identifying the actual notes, whilst helpful, is not as powerful as 
-  understanding how notes relate to each other.
+Sounds are vibrations in air that we can hear. Slower vibrations give lower sounds, faster
+vibrations give higher sounds and good vibrations give goosebumps. Let's call these vibrations 
+the *pitch*. Pitch is measured in hertz or vibrations per second.
+
+Talking about pitch isn't very intuitive so we took certain pitches and gave them names. For
+example 440 hertz is generally used for a *note* called A. Notes have different relationships 
+with each other. Some are friendly and sound *harmonious*, some might clash with each other and 
+sound *discordant*. 
+
+We will talk a lot about the distance between notes so let's call this the *interval* between two
+notes. It turns out that identifying the actual notes, whilst helpful, is not as powerful as 
+understanding how notes relate to each other.
 
 * Our first two important intervals
 - Our ears can clearly tell when one note is vibrating twice as fast as a lower note. For reasons 
@@ -78,7 +79,7 @@ to describe this phenomena of how notes interact to make *music*
 - Now we can talk about music being in a *key*, for example the music may centre around G and
   use mostly notes from the major scale, so it's key is G Major.
 - When we say key of G Major we are saying the *root* or *tonic* or *tonal centre* is G and
-  we determine most of the notes using the interval pattern TTSTTTS.
+  we determine the rest of the notes using the interval pattern TTSTTTS.
 
 * All major scales
 - Now we have octaves, tones, semitones and a pattern to build major scales, let's go ahead and
