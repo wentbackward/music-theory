@@ -1,39 +1,41 @@
 * The very basics
 - Sounds are vibrations in air that we can hear. Slower vibrations give lower sounds, faster
   vibrations give higher sounds and good vibrations give goosebumps.
-- Let's call these vibrations the pitch.
-- Certain pitches get names and we call these notes. For example 440 hertz (the way scientists measure
-  frequency or vibration) is usually called A, which is much simpler. This is the alphabet of music.
-- Notes have different relationships with each other. Some are friendly and sound harmonious, some
-  might clash with each other and sound discordant. We will talk a lot about the distance between 
-  notes so let's call this the interval.
+- Let's call these vibrations the *_pitch_*.
+- Certain pitches get names and we call these *_notes_*. For example 440 hertz (the way scientists measure
+  frequency or vibration) is usually called A. A is much simpler. This is the alphabet of music.
+- Notes have different relationships with each other. Some are friendly and sound *_harmonious_*, some
+  might clash with each other and sound *_discordant_*. 
+- We will talk a lot about the distance between notes so let's call this the *_interval_*.
 - It turns out that identifying the actual notes is helpful, but understanding how notes relate 
   to each other is really the most important thing for music.
 
 * Our first two important intervals
 - Our ears can clearly tell when one pitch or note is vibrating twice as fast as a lower pitch or
   note. For reasons that will become clear shortly, we call this distance or interval between notes
-  an Octave.
+  an *_Octave_*.
 - Octaves are quite far apart, we need to chop them up into smaller intervals. It turns out our 
   ears are very sensitive to how we do this.
 - A majority of music today is made up by taking the first note of one octave and the first note
-  of the next octave and dividing that into 12 parts called semitones (or half-steps).
+  of the next octave and dividing that into 12 parts called *_semitones_* (or half-steps).
+- A distance of two semitones is called a *_tone_* or whole tone (or whole-step).
 - You can visualise on a guitar neck. The first note is the open string, there are then 12 frets
   that will get you to the next octave and is why the 12th fret on a guitar is marked so clearly.
 - You can also see a repeating pattern of white and black keys on a piano which are the 12 
   semitones between the octaves.
-- So now we have octaves and within octaves we have semitones. We know that these were not 
-  arbitrary choices, but were discovered because of how our ears hear things. These 
-  relationships can also be described mathematically (we certainly won't go into that here).
+- So now we have *pitches* or *notes* of various *intervals*. Within *octaves* we have *semitones*
+  and *tones*. We know that these were not arbitrary choices, but were discovered because of how 
+  our ears hear things. These relationships can also be described mathematically (we certainly 
+  won't go into that here).
 
 * Scales
 - We found there are groupings of notes that have interesting relationships with each other. We 
-  can define these groups by their intervals and we call these groups scales.
+  can define these groups by their intervals and we call these groups *_scales_*.
 - Remember a tone is two semitones.
-- One important scale is the Major scale, which is 7 notes and can be played by going:
+- One important scale is the *_Major scale_*, which is 7 notes and can be played by going:
     tone, tone, semitone, tone, tone, tone, semitone.
-- We can write this shorter as TTSTTTS.
-- You should try playing it at this point. Pick any fret on a guitar or key on a piano and 
+- We can write this shorter as *_TTSTTTS_*.
+- You should try playing it at this point. Pick any string on a guitar or key on a piano and 
   then simply count them out (remember to play the open string and stay on that string or play
   all notes black and white on a keyboard):
 -- Play a random first note
@@ -48,44 +50,41 @@
   intervals to get from one octave to the next.
 - Did you realise you played a major scale, it sounds right to your ears but we haven't yet
   named any notes!
-- You will understand a lot more about music if you think about the degrees of the scale as 
-  1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th (and keep going ... 9th, 11th, 13th, etc). We will use
-  this a lot.
+- You will understand a lot more about music if you think in intervals, with the degrees of the 
+  scale as 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th (and keep going ... 9th, 11th, 13th, etc). We 
+  will use this a lot.
 
 * Key and scale
-- Before we go deeper into the theory, lets try naming some notes, let's use the major scale 
-  and see what happens. Remember TTSTTTS.
 - First let's name the 12 semitones. Some have letters and some are considered sharp (#) or 
   flat (b). Using sharps, we can write the 12 semitones out like this:
-|   | C# |   | D# |   |   | F# |   | G# |   | A# |   |
-| C | Db | D | Eb | E | F | Gb | G | Ab | A | Bb | B |
+  |   | C# or |   | D# or |   |   | F# or |   | G# or |   | A# or |   |
+  | C | Db    | D | Eb    | E | F | Gb    | G | Ab    | A | Bb    | B |
 - There's no extra note between E and F or between B and C.
 - Unfortunately some notes have two (or more!!) names. In between C and D is a note that is either
-  C# [See-Sharp] or Db [Dee-flat]. We'll see why as we talk about scales.
+  C# [See-Sharp] or Db [Dee-flat]. We'll see why as we start to understand scales.
+- Let us try naming some notes in the major scale and see what happens. We'll use the
+  TTSTTTS pattern.
 - Check these scales using the named semitones above and the TTSTTTS pattern.
-| Degree | C Major | G Major | D Major | A Major | E Major |
-| 1st    | C       | G       | D       | A       | E       |
-| 2nd    | D       | A       | E       | B       | F#      |
-| 3rd    | E       | B       | F#      | C#      | G#      |
-| 4th    | F       | C       | G       | D       | A       |
-| 5th    | G       | D       | A       | E       | B       |
-| 6th    | A       | E       | B       | F#      | C#      |
-| 7th    | B       | F       | C#      | G#      | D#      |
-| 8th    | C       | F#      | D       | A       | E       |
-- We want to have an A B C D E F G in every scale. This is why we need to use the F# and not Gb in 
-  the G Major scale. It is much clearer to have A B C D E F# G than A B C D E Gb G.
-- If a piece of music is in the key G Major (usually people will say it's in G and assumes
-  major), you know all the notes in that key. Not only that but you can figure out
-  all the notes of _any_ key, because you know enough music theory to do so!
-- When we say key of G Major we are saying the root or tonic or tonal centre is G, so start
-  at the root and follow the interval pattern TTSTTTS.
-- If you know the interval pattern for any other scale, you'd be able to work all of 
-  those out too. There isn't much music in the world that doesn't fit into this method.
+  | Degree | C Major | G Major |
+  | 1st    | C       | G       |
+  | 2nd    | D       | A       |
+  | 3rd    | E       | B       |
+  | 4th    | F       | C       |
+  | 5th    | G       | D       |
+  | 6th    | A       | E       |
+  | 7th    | B       | F       |
+  | 8th    | C       | F#      |
+- We want to have an A B C D E F and G in every scale. This is why we need to use the F# and not 
+  Gb in the G Major scale. It is much clearer to have A B C D E F# G than A B C D E Gb G.
+- Now we can talk about music being in a *_key_*, for example the music may centre around G and
+  use mostly notes from the major scale, so it's key is G Major.
+- When we say key of G Major we are saying the *_root_* or *_tonic_* or *_tonal centre_* is G and
+  we determine most of the notes using the interval pattern TTSTTTS.
 
 * All major scales
 - Now we have octaves, tones, semitones and a pattern to build major scales, let's go ahead and
   build every major scale. There will be one for every note. 
-- Let's start with the easy one C, but rather than the next column being D, we'll choose the 
+- Let's start with the easy one, C, but rather than the next column being D, we'll choose the 
   5th interval of C for the next column. As C is the 1st interval, so G is the 5th.
 - When we get to F# things start getting a bit tricky. We end up with an E#, if you sharpen the E
   get F as there is no E# note. Oh dear the C# scale now has E# (F) and B# (C).
