@@ -565,7 +565,7 @@ each scale unless we write F&sharp;&sharp;.
 <td class="org-left">A&sharp;</td>
 <td class="org-left">E&sharp; (F)</td>
 <td class="org-left">B&sharp; (C)</td>
-<td class="org-left">**G  !?!**</td>
+<td class="org-left">**F&sharp;&sharp;**</td>
 </tr>
 
 
@@ -584,7 +584,7 @@ each scale unless we write F&sharp;&sharp;.
 </tbody>
 </table>
 
-Now it's valid to write F&sharp;&sharp; but by using flats and things will be much clearer.
+Whilst it is actually valid to write F&sharp;&sharp;, by using flats, we can make things much clearer.
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -942,10 +942,10 @@ patterns between the keys
 
 ## Minor scales
 
--   You might not know it but because you know all the major scales, and you understand intervals, you
-    know all the **minor scales** as well.
--   If you go left 3 intervals from the root of the major scale. Start there and play all the notes, 
-    from the major scale, you have found the **natural minor** or **relative minor**.
+Because you know all the major scales, and you understand intervals, you know the **minor scales** as 
+well. All you need are the rules on how to find them. One way to find a minor scale is to go left 
+by 3 intervals from the root of the major scale. Start there and play all the notes from the major 
+scale, you have found the **natural minor** or **relative minor**. 
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -1013,10 +1013,10 @@ patterns between the keys
 </tbody>
 </table>
 
--   You can see this in the pattern for a minor scale. Take the major TTSTTTS and rotate it 3 to the
-    right you get TSTTSTT.
--   Yet another way to look at this is that the relative minor always starts on the 6th degree of the
-    major scale and uses all the same notes as the major scale.
+Another way is looking at the pattern we use to construct a scale. Take the major TTSTTTS and 
+shift it 3 to the right you get TSTTSTT. This is the same as going three intervals to the left. Yet 
+another way to look at this is that the relative minor always starts on the 6th degree of the  major 
+scale and uses all the same notes as the major scale.
 
 
 # Chords
@@ -1024,13 +1024,14 @@ patterns between the keys
 
 ## Chord Basics
 
--   Play a bunch of notes together and you're playing a **chord**.
--   Play any notes from a given key and you're playing chords from that key. Chords generally have 
-    a strong relationship with the key of the music using notes from the key.
--   If you play 3 notes together, you're playing a **triad**. They get a special name because they 
-    are very special chords.
--   If you play the intervals 1st, 3rd and 5th together you are playing a **major chord**, so now you
-    instantly know all the major triads.
+When we play a bunch of notes together, we're playing a **chord**. Play any notes from a given key 
+and we're playing chords from that key. Chords have a strong relationship with the key of the 
+music.
+
+If you play 3 notes together, you're playing type of chord called a **triad**,. These chords get a 
+special name because they are very special chords. If you play the intervals 1st, 3rd and 5th 
+together you are playing a **major chord** or major triad. So now you instantly know all the major 
+triads.
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -1187,11 +1188,10 @@ patterns between the keys
 
 ## Important traids
 
--   Notice the pattern is play one, skip one, play one, skip one, play one. For example in C Major
-    the notes are CDEFGAB and the C Major Triad is CEG skipping D and F.
--   You can move this pattern around and get a bunch of other triads, using this same pattern you can
-    get all these triads. We like to give them numbers too and use upper and lower case, the case is
-    important too.
+Notice the pattern is play one, skip one, play one, skip one, play one. For example in C Major
+the notes are CDEFGAB and the C Major Triad is CEG skipping D and F. You can move this pattern 
+around and get a bunch of other triads. Using this same pattern, we can start on each degree of a
+scale. We like to give them numbers too and use upper and lower case, the case is important too.
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -1252,9 +1252,9 @@ patterns between the keys
 </tbody>
 </table>
 
--   Let's look at these in a different way. What is the distance from 1st to 3rd? From TTSTTTS we 
-    can see it's 2 Tones and from 3rd to 5th is a Semitone plus a Tone. Sometimes this might be 
-    explained as 4 semitones then 3 semitones. 4+3 is the pattern for a major chord.
+Let's look at these in a different way. What is the interval from 1st to 3rd? Using TTSTTTS we 
+can see it's two tones and from 3rd to 5th is a semitone plus a tone. Sometimes this might be 
+explained as 4 semitones then 3 semitones. This 4+3 is the pattern for a major chord.
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -1315,19 +1315,20 @@ patterns between the keys
 </tbody>
 </table>
 
--   We can see all the uppercase ones are 4+3, major chords. All except one of the lowercase ones are 
-    3+4, which is the pattern for a **minor chord**. The odd one out is vii and is a diminished chord.
-    Yeah it's the runt of the family and we'll ignore it for now.
--   It's quite lovely that we have the 4+3 and 3+4 for major chords. It blows my mind that people
-    figured this stuff out and came up with such an elegant language of music.
+We can see all the uppercase ones are 4+3, major chords. All except one of the lowercase ones are 
+3+4, which is the pattern for a **minor chord**. The odd one out is vii. It is 3+3 and called a 
+**diminished chord**. Yeah it's the runt of the family and we'll ignore it for now. 
+I find it quite lovely that we have the 4+3 and 3+4 for major and minor chords. It blows my mind 
+that people figured this stuff out and came up with such an elegant language of music.
 
 
 ## Traids in every key
 
--   Major chords will just be denoted by the root note, so C Major will be written C
--   Minor chords will have the root note plus a small m, so A Minor is Am
--   Flats and sharps are put in their proper place after the note name
--   Here again we can see why we want to keep the notes in each scale labeled ABCDEFG
+Major chords are generally just be denoted by the root note, so C Major will be written C. Minor 
+chords will have the root note plus a small m, so A Minor is written Am. Flats and sharps are put 
+in their proper place after the note name. Here again we can see why we want to keep the notes 
+in each key labeled as ABCDEFG and use &flat; and &sharp; to do so. Things would get very confusing 
+indeed.
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
