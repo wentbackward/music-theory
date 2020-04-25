@@ -66,7 +66,7 @@ will use this a lot.
 
 * Key and scale
 - First let's name the 12 semitones. Some have letters and some are considered sharp (#) or 
-  flat (\flat). Using sharps, we can write the 12 semitones out like this:
+  flat (\pi). Using sharps, we can write the 12 semitones out like this:
   | 1 |       2 | 3 |       4 | 5 | 6 |       7 | 8 |       9 | 10 |      11 | 12 |
   | C | C# / Db | D | D# / Eb | E | F | F# / Gb | G | G# / Ab |  A | A# / Bb |  B |
 - There's no extra note between E and F or between B and C.
