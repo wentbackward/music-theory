@@ -71,8 +71,8 @@ to describe this phenomena of how notes interact to make *music*
   | 4th    | F       | C       |
   | 5th    | G       | D       |
   | 6th    | A       | E       |
-  | 7th    | B       | F       |
-  | 8th    | C       | F#      |
+  | 7th    | B       | F#      |
+  | 8th    | C       | G       |
 - We want to have an A B C D E F and G in every scale. This is why we need to use the F# and not 
   Gb in the G Major scale. It is much clearer to have A B C D E F# G than A B C D E Gb G.
 - Now we can talk about music being in a *key*, for example the music may centre around G and
