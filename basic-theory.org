@@ -127,7 +127,7 @@ When we get to F\sharp things start getting a bit tricky. We end up with needing
 the \sharp is an instruction to sharpen the E by one semintone, which correctly gives F, so E\sharp
 is perfectly valid. Carrying on the C\sharp scale now has E\sharp and B\sharp. Once we get to 
 G\sharp we're really in trouble, it has become impossible to support our desire to have ABCDEFG in 
-each scale.
+each scale unless we write F\sharp{}\sharp{}. 
 #+ATTR_HTML: :border 0 :rules all :frame none
   | Degree | C | G       | D       | A       | E       | B       | F\sharp     | C\sharp / D\flat | G\sharp / A\flat |
   |--------+---+---------+---------+---------+---------+---------+-------------+------------------+------------------|
@@ -140,7 +140,7 @@ each scale.
   | 7th    | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp (F) | B\sharp (C)      | *G  !?!*         |
   | 8th    | C | F\sharp | D       | A       | E       | B       | F\sharp     | C\sharp          | G\sharp          |
 
-Using flats and things will be much clearer.
+Now it's valid to write F\sharp{}\sharp{} but by using flats and things will be much clearer.
 #+ATTR_HTML: :border 0 :rules all :frame none
   | Degree | D\flat / C\sharp | A\flat / G\sharp | E\flat / D\sharp | B\flat / A\sharp | F      | C | G       | D       | A       | E       | B       | F\sharp / G\flat |
   |--------+------------------+------------------+------------------+------------------+--------+---+---------+---------+---------+---------+---------+------------------|

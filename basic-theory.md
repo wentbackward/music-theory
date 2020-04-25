@@ -429,7 +429,7 @@ When we get to F&sharp; things start getting a bit tricky. We end up with needin
 the &sharp; is an instruction to sharpen the E by one semintone, which correctly gives F, so E&sharp;
 is perfectly valid. Carrying on the C&sharp; scale now has E&sharp; and B&sharp;. Once we get to 
 G&sharp; we're really in trouble, it has become impossible to support our desire to have ABCDEFG in 
-each scale.
+each scale unless we write F&sharp;&sharp;. 
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
@@ -584,7 +584,7 @@ each scale.
 </tbody>
 </table>
 
-Using flats and things will be much clearer.
+Now it's valid to write F&sharp;&sharp; but by using flats and things will be much clearer.
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
 
