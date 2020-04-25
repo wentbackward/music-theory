@@ -509,7 +509,7 @@ each scale unless we write F&sharp;&sharp;.
 <td class="org-left">D&sharp;</td>
 <td class="org-left">A&sharp;</td>
 <td class="org-left">E&sharp; (F)</td>
-<td class="org-left">B&sharp; (C)</td>
+<td class="org-left">B&sharp; [C]</td>
 </tr>
 
 
@@ -551,7 +551,7 @@ each scale unless we write F&sharp;&sharp;.
 <td class="org-left">G&sharp;</td>
 <td class="org-left">D&sharp;</td>
 <td class="org-left">A&sharp;</td>
-<td class="org-left">E&sharp;(F)</td>
+<td class="org-left">E&sharp; [F]</td>
 </tr>
 
 
@@ -750,7 +750,7 @@ Whilst it is actually valid to write F&sharp;&sharp;, by using flats, we can mak
 <td class="org-left">G&sharp;</td>
 <td class="org-left">D&sharp;</td>
 <td class="org-left">A&sharp;</td>
-<td class="org-left">E&sharp;[F]</td>
+<td class="org-left">E&sharp; [F]</td>
 </tr>
 
 
@@ -918,7 +918,7 @@ patterns between the keys. Columns are orderd in 5ths and rows are ordered in 5t
 <td class="org-left">E</td>
 <td class="org-left">E</td>
 <td class="org-left">E</td>
-<td class="org-left">E&sharp;[F]</td>
+<td class="org-left">E&sharp; [F]</td>
 </tr>
 
 

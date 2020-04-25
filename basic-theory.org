@@ -133,10 +133,10 @@ each scale unless we write F\sharp{}\sharp{}.
   |--------+---+---------+---------+---------+---------+---------+-------------+------------------+---------------------|
   | 1st    | C | G       | D       | A       | E       | B       | F\sharp     | C\sharp          | G\sharp             |
   | 2nd    | D | A       | E       | B       | F\sharp | C\sharp | G\sharp     | D\sharp          | A\sharp             |
-  | 3rd    | E | B       | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp     | E\sharp (F)      | B\sharp (C)         |
+  | 3rd    | E | B       | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp     | E\sharp (F)      | B\sharp [C]         |
   | 4th    | F | C       | G       | D       | A       | E       | B           | F\sharp          | C\sharp             |
   | *5th*  | G | D       | A       | E       | B       | F\sharp | C\sharp     | G\sharp          | D\sharp             |
-  | 6th    | A | E       | B       | F\sharp | C\sharp | G\sharp | D\sharp     | A\sharp          | E\sharp(F)          |
+  | 6th    | A | E       | B       | F\sharp | C\sharp | G\sharp | D\sharp     | A\sharp          | E\sharp [F]         |
   | 7th    | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp (F) | B\sharp (C)      | *F\sharp{}\sharp{}* |
   | 8th    | C | F\sharp | D       | A       | E       | B       | F\sharp     | C\sharp          | G\sharp             |
 
@@ -150,7 +150,7 @@ Whilst it is actually valid to write F\sharp{}\sharp{}, by using flats, we can m
   | <- 4th | G\flat           | D\flat           | A\flat           | E\flat           | B\flat | F | C       | G       | D       | A       | E       | B                |
   | 5th -> | A\flat           | E\flat           | B\flat           | F                | C      | G | D       | A       | E       | B       | F\sharp | C\sharp          |
   | 6th    | B\flat           | F                | C                | G                | D      | A | E       | B       | F\sharp | C\sharp | G\sharp | D\sharp          |
-  | 7th    | C                | G                | D                | A                | E      | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp[F]       |
+  | 7th    | C                | G                | D                | A                | E      | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp [F]      |
   | 8th    | D\flat           | A\flat           | E\flat           | B\flat           | F      | C | F\sharp | D       | A       | E       | B       | F\sharp          |
 You should be able to see that the 5th of F\sharp is C\sharp or D\flat and so loops back to 
 the 1st column. This circular reference forms part of the circle of 5ths which was invented by 
@@ -160,15 +160,15 @@ choose the 4th.
 Let's reformat that table so you can you see how the flats and sharps build up as well as other 
 patterns between the keys. Columns are orderd in 5ths and rows are ordered in 5ths.
 #+ATTR_HTML: :border 0 :rules all :frame none
-  | D\flat | A\flat | E\flat | B\flat | F      | C | G       | D       | A       | E       | B       | F\sharp    |
-  |--------+--------+--------+--------+--------+---+---------+---------+---------+---------+---------+------------|
-  | F      | F      | F      | F      | F      | F | F\sharp | F\sharp | F\sharp | F\sharp | F\sharp | F\sharp    |
-  | C      | C      | C      | C      | C      | C | C       | C\sharp | C\sharp | C\sharp | C\sharp | C\sharp    |
-  | G\flat | G      | G      | G      | G      | G | G       | G       | G\sharp | G\sharp | G\sharp | G\sharp    |
-  | D\flat | D\flat | D      | D      | D      | D | D       | D       | D       | D\sharp | D\sharp | D\sharp    |
-  | A\flat | A\flat | A\flat | A      | A      | A | A       | A       | A       | A       | A\sharp | A\sharp    |
-  | E\flat | E\flat | E\flat | E\flat | E      | E | E       | E       | E       | E       | E       | E\sharp[F] |
-  | B\flat | B\flat | B\flat | B\flat | B\flat | B | B       | B       | B       | B       | B       | B          |
+  | D\flat | A\flat | E\flat | B\flat | F      | C | G       | D       | A       | E       | B       | F\sharp     |
+  |--------+--------+--------+--------+--------+---+---------+---------+---------+---------+---------+-------------|
+  | F      | F      | F      | F      | F      | F | F\sharp | F\sharp | F\sharp | F\sharp | F\sharp | F\sharp     |
+  | C      | C      | C      | C      | C      | C | C       | C\sharp | C\sharp | C\sharp | C\sharp | C\sharp     |
+  | G\flat | G      | G      | G      | G      | G | G       | G       | G\sharp | G\sharp | G\sharp | G\sharp     |
+  | D\flat | D\flat | D      | D      | D      | D | D       | D       | D       | D\sharp | D\sharp | D\sharp     |
+  | A\flat | A\flat | A\flat | A      | A      | A | A       | A       | A       | A       | A\sharp | A\sharp     |
+  | E\flat | E\flat | E\flat | E\flat | E      | E | E       | E       | E       | E       | E       | E\sharp [F] |
+  | B\flat | B\flat | B\flat | B\flat | B\flat | B | B       | B       | B       | B       | B       | B           |
 
 ** Minor scales
 Because you know all the major scales, and you understand intervals, you know the *minor scales* as 
