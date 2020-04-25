@@ -147,7 +147,7 @@ Whilst it is actually valid to write F\sharp{}\sharp{}, by using flats, we can m
   | 1st    | D\flat           | A\flat           | E\flat           | B\flat           | F      | C | G       | D       | A       | E       | B       | F\sharp          |
   | 2nd    | E\flat           | B\flat           | F                | C                | G      | D | A       | E       | B       | F\sharp | C\sharp | G\sharp          |
   | 3rd    | F                | C                | G                | D                | A      | E | B       | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp          |
-  | <- 4th | Gb               | D\flat           | A\flat           | E\flat           | B\flat | F | C       | G       | D       | A       | E       | B                |
+  | <- 4th | G\flat           | D\flat           | A\flat           | E\flat           | B\flat | F | C       | G       | D       | A       | E       | B                |
   | 5th -> | A\flat           | E\flat           | B\flat           | F                | C      | G | D       | A       | E       | B       | F\sharp | C\sharp          |
   | 6th    | B\flat           | F                | C                | G                | D      | A | E       | B       | F\sharp | C\sharp | G\sharp | D\sharp          |
   | 7th    | C                | G                | D                | A                | E      | B | F       | C\sharp | G\sharp | D\sharp | A\sharp | E\sharp[F]       |
@@ -164,7 +164,7 @@ patterns between the keys. Columns are orderd in 5ths and rows are ordered in 5t
   |--------+--------+--------+--------+--------+---+---------+---------+---------+---------+---------+------------|
   | F      | F      | F      | F      | F      | F | F\sharp | F\sharp | F\sharp | F\sharp | F\sharp | F\sharp    |
   | C      | C      | C      | C      | C      | C | C       | C\sharp | C\sharp | C\sharp | C\sharp | C\sharp    |
-  | Gb     | G      | G      | G      | G      | G | G       | G       | G\sharp | G\sharp | G\sharp | G\sharp    |
+  | G\flat | G      | G      | G      | G      | G | G       | G       | G\sharp | G\sharp | G\sharp | G\sharp    |
   | D\flat | D\flat | D      | D      | D      | D | D       | D       | D       | D\sharp | D\sharp | D\sharp    |
   | A\flat | A\flat | A\flat | A      | A      | A | A       | A       | A       | A       | A\sharp | A\sharp    |
   | E\flat | E\flat | E\flat | E\flat | E      | E | E       | E       | E       | E       | E       | E\sharp[F] |
@@ -235,7 +235,7 @@ indeed.
 #+ATTR_HTML: :border 0 :rules all :frame none
   | Key     | I       | ii         | iii        | IV     | V       | vi         |
   |---------+---------+------------+------------+--------+---------+------------|
-  | D\flat  | D\flat  | E\flatm    | Fm         | Gb     | A\flat  | B\flatm    |
+  | D\flat  | D\flat  | E\flatm    | Fm         | G\flat | A\flat  | B\flatm    |
   | A\flat  | A\flat  | B\flatm    | C          | D\flat | E\flat  | Fm         |
   | E\flat  | E\flat  | Fm         | Gm         | A\flat | B\flat  | Cm         |
   | B\flat  | B\flat  | Cm         | Dm         | E\flat | F       | Gm         |

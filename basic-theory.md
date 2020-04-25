@@ -688,7 +688,7 @@ Whilst it is actually valid to write F&sharp;&sharp;, by using flats, we can mak
 
 <tr>
 <td class="org-left"><- 4th</td>
-<td class="org-left">Gb</td>
+<td class="org-left">G&flat;</td>
 <td class="org-left">D&flat;</td>
 <td class="org-left">A&flat;</td>
 <td class="org-left">E&flat;</td>
@@ -859,7 +859,7 @@ patterns between the keys. Columns are orderd in 5ths and rows are ordered in 5t
 
 
 <tr>
-<td class="org-left">Gb</td>
+<td class="org-left">G&flat;</td>
 <td class="org-left">G</td>
 <td class="org-left">G</td>
 <td class="org-left">G</td>
@@ -1349,7 +1349,7 @@ indeed.
 <td class="org-left">D&flat;</td>
 <td class="org-left">E\flatm</td>
 <td class="org-left">Fm</td>
-<td class="org-left">Gb</td>
+<td class="org-left">G&flat;</td>
 <td class="org-left">A&flat;</td>
 <td class="org-left">B\flatm</td>
 </tr>
