@@ -1,4 +1,16 @@
 
+# Table of Contents
+
+1.  [The very basics](#orge12fc62)
+2.  [Scales](#orgc0e910f)
+3.  [Chords](#org8cb3320)
+4.  [Pieces of music and songs](#org2bba65f)
+5.  [Appendix](#org2159d74)
+6.  [Useful links](#org92ed9ce)
+
+
+
+<a id="orge12fc62"></a>
 
 # The very basics
 
@@ -48,6 +60,8 @@ Now we have **notes** and **interval** between any two notes. We have **octaves*
 **semitones** and **tones**. We know that these were not arbitrary choices but are a language devised
 to describe this phenomena of how notes interact to make **music**
 
+
+<a id="orgc0e910f"></a>
 
 # Scales
 
@@ -1022,6 +1036,8 @@ another way to look at this is that the relative minor always starts on the 6th 
 scale and uses all the same notes as the major scale.
 
 
+<a id="org8cb3320"></a>
+
 # Chords
 
 
@@ -1481,6 +1497,8 @@ indeed.
 </table>
 
 
+<a id="org2bba65f"></a>
+
 # Pieces of music and songs
 
 
@@ -1504,6 +1522,8 @@ indeed.
 
 ### TODO melodies
 
+
+<a id="org2159d74"></a>
 
 # Appendix
 
@@ -1830,6 +1850,8 @@ indeed.
 </tbody>
 </table>
 
+
+<a id="org92ed9ce"></a>
 
 # Useful links
 
