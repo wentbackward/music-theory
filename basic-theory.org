@@ -62,8 +62,7 @@ to describe this phenomena of how notes interact to make *music*
 - There's no extra note between E and F or between B and C.
 - Unfortunately some notes have two (or more!!) names. In between C and D is a note that is either
   C# [See-Sharp] or Db [Dee-flat]. We'll see why as we start to understand scales.
-- Let us try naming some notes in the major scale and see what happens. We'll use the
-  TTSTTTS pattern.
+- Let us try naming some notes in the major scale and see what happens.
 - Check these scales using the named semitones above and the TTSTTTS pattern.
   | Degree | C Major | G Major |
   | 1st    | C       | G       |
