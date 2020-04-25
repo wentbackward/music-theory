@@ -1,16 +1,16 @@
 
 # Table of Contents
 
-1.  [The very basics](#org2f50446)
-2.  [Scales](#orgf0f428d)
-3.  [Chords](#orga0ef460)
-4.  [Pieces of music and songs](#orge47f123)
-5.  [Appendix](#orgf5206fe)
-6.  [Useful links](#org52a03a2)
+1.  [The very basics](#orge3cf1f7)
+2.  [Scales](#orgafe178e)
+3.  [Chords](#org09fa0f4)
+4.  [Pieces of music and songs](#org83450ba)
+5.  [Appendix](#orge00d39f)
+6.  [Useful links](#org7591969)
 
 
 
-<a id="org2f50446"></a>
+<a id="orge3cf1f7"></a>
 
 # The very basics
 
@@ -62,7 +62,7 @@ Now we have **notes** and **interval** between any two notes. We have **octaves*
 to describe this phenomena of how notes interact to make **music**
 
 
-<a id="orgf0f428d"></a>
+<a id="orgafe178e"></a>
 
 # Scales
 
@@ -1037,7 +1037,7 @@ another way to look at this is that the relative minor always starts on the 6th 
 scale and uses all the same notes as the major scale.
 
 
-<a id="orga0ef460"></a>
+<a id="org09fa0f4"></a>
 
 # Chords
 
@@ -1498,7 +1498,7 @@ indeed.
 </table>
 
 
-<a id="orge47f123"></a>
+<a id="org83450ba"></a>
 
 # Pieces of music and songs
 
@@ -1524,7 +1524,7 @@ indeed.
 ### TODO melodies
 
 
-<a id="orgf5206fe"></a>
+<a id="orge00d39f"></a>
 
 # Appendix
 
@@ -1533,6 +1533,164 @@ indeed.
 
 
 ## Various scales
+
+
+## Mames for intervals in major scales
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">Degree</th>
+<th scope="col" class="org-left">Distance</th>
+<th scope="col" class="org-left">Name</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Tonic</td>
+</tr>
+
+
+<tr>
+<td class="org-right">2</td>
+<td class="org-left">T</td>
+<td class="org-left">Major 2nd</td>
+</tr>
+
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-left">T</td>
+<td class="org-left">Major 3rd</td>
+</tr>
+
+
+<tr>
+<td class="org-right">4</td>
+<td class="org-left">S</td>
+<td class="org-left">Perfect 4th</td>
+</tr>
+
+
+<tr>
+<td class="org-right">5</td>
+<td class="org-left">T</td>
+<td class="org-left">Perfect 5th</td>
+</tr>
+
+
+<tr>
+<td class="org-right">6</td>
+<td class="org-left">T</td>
+<td class="org-left">Major 6th</td>
+</tr>
+
+
+<tr>
+<td class="org-right">7</td>
+<td class="org-left">T</td>
+<td class="org-left">Major 7th</td>
+</tr>
+
+
+<tr>
+<td class="org-right">8</td>
+<td class="org-left">S</td>
+<td class="org-left">Perfect 8th</td>
+</tr>
+</tbody>
+</table>
+
+
+## Names for intervals in minor scales
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">Degree</th>
+<th scope="col" class="org-left">Distance</th>
+<th scope="col" class="org-left">Name</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Tonic</td>
+</tr>
+
+
+<tr>
+<td class="org-right">2</td>
+<td class="org-left">T</td>
+<td class="org-left">Major 2nd</td>
+</tr>
+
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-left">S</td>
+<td class="org-left">Minor 3rd</td>
+</tr>
+
+
+<tr>
+<td class="org-right">4</td>
+<td class="org-left">T</td>
+<td class="org-left">Perfect 4th</td>
+</tr>
+
+
+<tr>
+<td class="org-right">5</td>
+<td class="org-left">T</td>
+<td class="org-left">Perfect 5th</td>
+</tr>
+
+
+<tr>
+<td class="org-right">6</td>
+<td class="org-left">S</td>
+<td class="org-left">Minor 6th</td>
+</tr>
+
+
+<tr>
+<td class="org-right">7</td>
+<td class="org-left">T</td>
+<td class="org-left">Minor 7th</td>
+</tr>
+
+
+<tr>
+<td class="org-right">8</td>
+<td class="org-left">T</td>
+<td class="org-left">Perfect 8th</td>
+</tr>
+</tbody>
+</table>
 
 
 ## TODO document various scales
@@ -1852,7 +2010,7 @@ indeed.
 </table>
 
 
-<a id="org52a03a2"></a>
+<a id="org7591969"></a>
 
 # Useful links
 

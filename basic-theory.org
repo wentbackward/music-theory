@@ -264,6 +264,28 @@ indeed.
 * Appendix
 ** TODO More detail on circle of 5ths
 ** Various scales
+** Mames for intervals in major scales
+ | Degree | Distance | Name        |
+ |--------+----------+-------------|
+ |      1 |          | Tonic       |
+ |      2 | T        | Major 2nd   |
+ |      3 | T        | Major 3rd   |
+ |      4 | S        | Perfect 4th |
+ |      5 | T        | Perfect 5th |
+ |      6 | T        | Major 6th   |
+ |      7 | T        | Major 7th   |
+ |      8 | S        | Perfect 8th |
+** Names for intervals in minor scales
+ | Degree | Distance | Name        |
+ |--------+----------+-------------|
+ |      1 |          | Tonic       |
+ |      2 | T        | Major 2nd   |
+ |      3 | S        | Minor 3rd   |
+ |      4 | T        | Perfect 4th |
+ |      5 | T        | Perfect 5th |
+ |      6 | S        | Minor 6th   |
+ |      7 | T        | Minor 7th   |
+ |      8 | T        | Perfect 8th |
 ** TODO document various scales
 - Chromatic:
   If you play the 12 semitones, say by going up a guitar string, fret by fret, or by playing each 
