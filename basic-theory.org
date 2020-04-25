@@ -1,0 +1,191 @@
+* The very basics
+- Sounds are vibrations in air that we can hear. Slower vibrations give lower sounds, faster
+  vibrations give higher sounds and good vibrations give goosebumps.
+- Let's call these vibrations the pitch.
+- Certain pitches get names and we call these notes. For example 440 hertz (the way scientists measure
+  frequency or vibration) is usually called A, which is much simpler. This is the alphabet of music.
+- Notes have different relationships with each other. Some are friendly and sound harmonious, some
+  might clash with each other and sound discordant. We will talk a lot about the distance between 
+  notes so let's call this the interval.
+- It turns out that identifying the actual notes is helpful, but understanding how notes relate 
+  to each other is really the most important thing for music.
+
+* Our first two important intervals
+- Our ears can clearly tell when one pitch or note is vibrating twice as fast as a lower pitch or
+  note. For reasons that will become clear shortly, we call this distance or interval between notes
+  an Octave.
+- Octaves are quite far apart, we need to chop them up into smaller intervals. It turns out our 
+  ears are very sensitive to how we do this.
+- A majority of music today is made up by taking the first note of one octave and the first note
+  of the next octave and dividing that into 12 parts called semitones (or half-steps).
+- You can visualise on a guitar neck. The first note is the open string, there are then 12 frets
+  that will get you to the next octave and is why the 12th fret on a guitar is marked so clearly.
+- You can also see a repeating pattern of white and black keys on a piano which are the 12 
+  semitones between the octaves.
+- So now we have octaves and within octaves we have semitones. We know that these were not 
+  arbitrary choices, but were discovered because of how our ears hear things. These 
+  relationships can also be described mathematically (we certainly won't go into that here).
+
+* Scales
+- We found there are groupings of notes that have interesting relationships with each other. We 
+  can define these groups by their intervals and we call these groups scales.
+- Remember a tone is two semitones.
+- One important scale is the Major scale, which is 7 notes and can be played by going:
+    tone, tone, semitone, tone, tone, tone, semitone.
+- We can write this shorter as TTSTTTS.
+- You should try playing it at this point. Pick any fret on a guitar or key on a piano and 
+  then simply count them out (remember to play the open string and stay on that string or play
+  all notes black and white on a keyboard):
+-- Play a random first note
+-- go up 1 tone (or 2 semitones, 2 frets, 2 keys) to the 2nd note,
+-- 1 tone (or 2 semitones) again to the 3rd note,
+-- 1 semitone to the 4th note,
+-- 1 tone to the 5th note,
+-- 1 tone to the 6th note,
+-- 1 tone to the 7th note,
+-- 1 semitone takes us to the next octave (or 8th or 8ve).
+- Hopefully you now see why octaves have their name, based on the major scale, it takes 8 
+  intervals to get from one octave to the next.
+- Did you realise you played a major scale, it sounds right to your ears but we haven't yet
+  named any notes!
+- You will understand a lot more about music if you think about the degrees of the scale as 
+  1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th (and keep going ... 9th, 11th, 13th, etc). We will use
+  this a lot.
+
+* Key and scale
+- Before we go deeper into the theory, lets try naming some notes, let's use the major scale 
+  and see what happens. Remember TTSTTTS.
+- First let's name the 12 semitones. Some have letters and some are considered sharp (#) or 
+  flat (b). Using sharps, we can write the 12 semitones out like this:
+|   | C# |   | D# |   |   | F# |   | G# |   | A# |   |
+| C | Db | D | Eb | E | F | Gb | G | Ab | A | Bb | B |
+- There's no extra note between E and F or between B and C.
+- Unfortunately some notes have two (or more!!) names. In between C and D is a note that is either
+  C# [See-Sharp] or Db [Dee-flat]. We'll see why as we talk about scales.
+- Check these scales using the named semitones above and the TTSTTTS pattern.
+| Degree | C Major | G Major | D Major | A Major | E Major |
+| 1st    | C       | G       | D       | A       | E       |
+| 2nd    | D       | A       | E       | B       | F#      |
+| 3rd    | E       | B       | F#      | C#      | G#      |
+| 4th    | F       | C       | G       | D       | A       |
+| 5th    | G       | D       | A       | E       | B       |
+| 6th    | A       | E       | B       | F#      | C#      |
+| 7th    | B       | F       | C#      | G#      | D#      |
+| 8th    | C       | F#      | D       | A       | E       |
+- We want to have an A B C D E F G in every scale. This is why we need to use the F# and not Gb in 
+  the G Major scale. It is much clearer to have A B C D E F# G than A B C D E Gb G.
+- If a piece of music is in the key G Major (usually people will say it's in G and assumes
+  major), you know all the notes in that key. Not only that but you can figure out
+  all the notes of _any_ key, because you know enough music theory to do so!
+- When we say key of G Major we are saying the root or tonic or tonal centre is G, so start
+  at the root and follow the interval pattern TTSTTTS.
+- If you know the interval pattern for any other scale, you'd be able to work all of 
+  those out too. There isn't much music in the world that doesn't fit into this method.
+
+* All major scales
+- Now we have octaves, tones, semitones and a pattern to build major scales, let's go ahead and
+  build every major scale. There will be one for every note. 
+- Let's start with the easy one C, but rather than the next column being D, we'll choose the 
+  5th interval of C for the next column. As C is the 1st interval, so G is the 5th.
+- When we get to F# things start getting a bit tricky. We end up with an E#, if you sharpen the E
+  get F as there is no E# note. Oh dear the C# scale now has E# (F) and B# (C).
+  |        |   |    |    |    |    |    |        | C#     | G#       |
+  | Degree | C | G  | D  | A  | E  | B  | F#     | Db     | Ab       |
+  |--------+---+----+----+----+----+----+--------+--------+----------|
+  | 1st    | C | G  | D  | A  | E  | B  | F#     | C#     | G#       |
+  | 2nd    | D | A  | E  | B  | F# | C# | G#     | D#     | A#       |
+  | 3rd    | E | B  | F# | C# | G# | D# | A#     | E# (F) | B# (C)   |
+  | 4th    | F | C  | G  | D  | A  | E  | B      | F#     | C#       |
+  | _5th_  | G | D  | A  | E  | B  | F# | C#     | G#     | D#       |
+  | 6th    | A | E  | B  | F# | C# | G# | D#     | A#     | E#(F)    |
+  | 7th    | B | F  | C# | G# | D# | A# | E# (F) | B# (C) | *G  !?!* |
+  | 8th    | C | F# | D  | A  | E  | B  | F#     | C#     | G#       |
+- Once we get to G# we're really in trouble, it has become impossible to support our desire to have
+  ABCDEFG in each scale.
+- What we need to do is start using flats and it should work out for us:
+  |        | C# | G# | D# | A# |    |   |    |    |    |    |    | Gb    |
+  | Degree | Db | Ab | Eb | Bb | F  | C | G  | D  | A  | E  | B  | F#    |
+  |--------+----+----+----+----+----+---+----+----+----+----+----+-------|
+  | 1st    | Db | Ab | Eb | Bb | F  | C | G  | D  | A  | E  | B  | F#    |
+  | 2nd    | Eb | Bb | F  | C  | G  | D | A  | E  | B  | F# | C# | G#    |
+  | 3rd    | F  | C  | G  | D  | A  | E | B  | F# | C# | G# | D# | A#    |
+  | <- 4th | Gb | Db | Ab | Eb | Bb | F | C  | G  | D  | A  | E  | B     |
+  | 5th -> | Ab | Eb | Bb | F  | C  | G | D  | A  | E  | B  | F# | C#    |
+  | 6th    | Bb | F  | C  | G  | D  | A | E  | B  | F# | C# | G# | D#    |
+  | 7th    | C  | G  | D  | A  | E  | B | F  | C# | G# | D# | A# | E#[F] |
+  | 8th    | Db | Ab | Eb | Bb | F  | C | F# | D  | A  | E  | B  | F#    |
+- You should be able to see that the 5th of F# is C# or Db and so loops back to the 1st column. This
+  circular reference forms part of the circle of 5ths which was invented by Pythagoras. From left 
+  to right you choose the 5th to get the next scale and right to left you choose the 4th.
+- If ordered like this, you can you see how the flats and sharps build up.
+  | Db | Ab | Eb | Bb | F  | C | G  | D  | A  | E  | B  | F#    |
+  |----+----+----+----+----+---+----+----+----+----+----+-------|
+  | C  | C  | C  | C  | C  | C | C  | C# | C# | C# | C# | C#    |
+  | Db | Db | D  | D  | D  | D | D  | D  | D  | D# | D# | D#    |
+  | Eb | Eb | Eb | Eb | E  | E | E  | E  | E  | E  | E  | E#[F] |
+  | F  | F  | F  | F  | F  | F | F# | F# | F# | F# | F# | F#    |
+  | Gb | G  | G  | G  | G  | G | G  | G  | G# | G# | G# | G#    |
+  | Ab | Ab | Ab | A  | A  | A | A  | A  | A  | A  | A# | A#    |
+  | Bb | Bb | Bb | Bb | Bb | B | B  | B  | B  | B  | B  | B     |
+
+* Minor scales
+- You might not know it but because you know all the major scales, and you understand intervals, you
+  know all the minor scales as well.
+- Each major scale has a relative minor which we call the natural minor. We can find the relative
+  minor by taking the 6th interval of the major scale. The relative minor of C Major is A minor.
+- It's all about the Tonic or root note. If you play C major notes starting on A, you'll be 
+  playing an A Minor scale.
+  | Major | Db  | Ab | Eb | Bb | F  | C  | G  | D  | A   | E   | B   | F#  |
+  | Minor | Bbm | Fm | Cm | Gm | Dm | Am | Em | Bm | F#m | C#m | G#m | D#m |
+
+
+* Chords
+TODO
+
+
+
+* Various scales
+TODO
+- Chromatic:
+  If you play the 12 semitones, say by going up a guitar string, fret by fret, or by playing each 
+  note (white and black) on a piano.
+  | pattern   | S | S | S | S | S | S | S | S | S | S | S | S |
+  | semitones | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+- Major:
+  | pattern   | T | T | S | T | T | T | S |
+  | semitones | 2 | 2 | 1 | 2 | 2 | 2 | 1 |
+  | Interval  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+- Minor scale:
+  | pattern   | T | S | T  | T | S | T  | T  |
+  | semitones | 2 | 1 | 2  | 2 | 1 | 2  | 2  |
+  | Interval  | 1 | 2 | b3 | 4 | 5 | b6 | b7 |
+- Pentatonic scales:
+  Some poeople provide a pattern for pentatonic scales but I prefer to think about them
+  as selecting 5 notes (penta) from the Major or Minor scale.
+-- from the Major scale include 1, 2, 3, 5, 6 or skip the 4th and 7th
+  | semitones | 2 | 2 | 1 | 2 | 2 | 2 | 1 |
+  | Interval  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+  | Include?  | 1 | 2 | 3 | X | 5 | 6 | X |
+-- from the Minor scale include 1, b3, 4, 5, b7 or exclude the 2nd and flat 6th
+  | semitones | 2 | 1 | 2  | 2 | 1 | 2  | 2  |
+  | Interval  | 1 | 2 | b3 | 4 | 5 | b6 | b7 |
+  | Include?  | 1 | X | b3 | 4 | 5 | X  | b7 |
+
+
+* Common chord progressions
+TODO
+
+* Useful links
+- Piano Exercises: https://pianoexercises.org recommended to me was https://pianoexercises.org/exercises/czerny/
+- Various musical transcriptions: https://imslp.org
+- Chordmaps, music theory and chordmaps midi app: https://www.mugglinworks.com/
+- An instrument supplier who will ship to HK cheaper than buying locally https://www.thomann.de
+- https://www.musictheory.net
+- I think Andrew Huang's music theory in 1/2 hr is one of the 
+  easiest run-through's of music theory https://www.youtube.com/watch?v=rgaTLrZGlk0
+  Note, you should do the exercises and it's not half an hour, it's weeks of work if
+  you take learning music theory seriously. Tip: Play it at 1.5x
+- Some really insightful analysis of chord progressions and melodic overlays from the 80's
+  https://www.youtube.com/watch?v=jav5xMqBWeY
+- Piano scales and their fingerings: https://www.pianoscales.org
+
