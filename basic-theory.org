@@ -235,8 +235,8 @@ indeed.
 #+ATTR_HTML: :border 0 :rules all :frame none
   | Key     | I       | ii         | iii        | IV     | V       | vi         |
   |---------+---------+------------+------------+--------+---------+------------|
-  | D\flat  | D\flat  | E\flatm    | Fm         | G\flat | A\flat  | B\flatm    |
-  | A\flat  | A\flat  | B\flatm    | C          | D\flat | E\flat  | Fm         |
+  | D\flat  | D\flat  | E\flat{}m  | Fm         | G\flat | A\flat  | B\flat{}m  |
+  | A\flat  | A\flat  | B\flat{}m  | C          | D\flat | E\flat  | Fm         |
   | E\flat  | E\flat  | Fm         | Gm         | A\flat | B\flat  | Cm         |
   | B\flat  | B\flat  | Cm         | Dm         | E\flat | F       | Gm         |
   | F       | F       | Gm         | Am         | B\flat | C       | Dm         |

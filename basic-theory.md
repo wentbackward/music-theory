@@ -1347,18 +1347,18 @@ indeed.
 <tr>
 <td class="org-left">D&flat;</td>
 <td class="org-left">D&flat;</td>
-<td class="org-left">E\flatm</td>
+<td class="org-left">E&flat;m</td>
 <td class="org-left">Fm</td>
 <td class="org-left">G&flat;</td>
 <td class="org-left">A&flat;</td>
-<td class="org-left">B\flatm</td>
+<td class="org-left">B&flat;m</td>
 </tr>
 
 
 <tr>
 <td class="org-left">A&flat;</td>
 <td class="org-left">A&flat;</td>
-<td class="org-left">B\flatm</td>
+<td class="org-left">B&flat;m</td>
 <td class="org-left">C</td>
 <td class="org-left">D&flat;</td>
 <td class="org-left">E&flat;</td>
