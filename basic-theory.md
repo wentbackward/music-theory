@@ -777,6 +777,9 @@ the 1st column. This circular reference forms part of the circle of 5ths which w
 Pythagoras. From left to right you choose the 5th to get the next scale and right to left you 
 choose the 4th. 
 
+
+### TODO Circle of 5ths diagram
+
 Let's reformat that table so you can you see how the flats and sharps build up as well as other 
 patterns between the keys. Columns are orderd in 5ths and rows are ordered in 5ths.
 
@@ -1503,6 +1506,9 @@ indeed.
 
 
 # Appendix
+
+
+## TODO More detail on circle of 5ths
 
 
 ## Various scales
