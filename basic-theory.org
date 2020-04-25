@@ -189,19 +189,18 @@ When we play a bunch of notes together, we're playing a *chord*. Play any notes 
 and we're playing chords from that key. Chords have a strong relationship with the key of the 
 music.
 
-If you play 3 notes together, you're playing type of chord called a *triad*,. These chords get a 
-special name because they are very special chords. If you play the intervals 1st, 3rd and 5th 
-together you are playing a *major chord* or major triad. So now you instantly know all the major 
+If you play 3 notes together, you're playing a type of chord called a *triad*,. These chords get a 
+special name because they are very special chords. If you play the 1st, 3rd and 5th degrees
+together you are playing a *major chord* or *major triad*. So now you instantly know all the major 
 triads.
 #+ATTR_HTML: :border 0 :rules all :frame none
-  |          | C\sharp | G\sharp | D\sharp | A\sharp |   |   |   |         |         |         |         | Gb      |
-  | Degree   | D\flat  | A\flat  | E\flat  | B\flat  | F | C | G | D       | A       | E       | B       | F\sharp |
-  |----------+---------+---------+---------+---------+---+---+---+---------+---------+---------+---------+---------|
-  | root     | D\flat  | A\flat  | E\flat  | B\flat  | F | C | G | D       | A       | E       | B       | F\sharp |
-  | skip one |         |         |         |         |   |   |   |         |         |         |         |         |
-  | 3rd      | F       | C       | G       | D       | A | E | B | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp |
-  | skip one |         |         |         |         |   |   |   |         |         |         |         |         |
-  | 5th      | A\flat  | E\flat  | B\flat  | F       | C | G | D | A       | E       | B       | F\sharp | C\sharp |
+  | Degree   | C\sharp / D\flat | G\sharp / A\flat | D\sharp / E\flat | A\sharp / B\flat | F | C | G | D       | A       | E       | B       | F\sharp / G\flat |
+  |----------+------------------+------------------+------------------+------------------+---+---+---+---------+---------+---------+---------+---------|
+  | root     | D\flat           | A\flat           | E\flat           | B\flat           | F | C | G | D       | A       | E       | B       | F\sharp |
+  | skip one |                  |                  |                  |                  |   |   |   |         |         |         |         |         |
+  | 3rd      | F                | C                | G                | D                | A | E | B | F\sharp | C\sharp | G\sharp | D\sharp | A\sharp |
+  | skip one |                  |                  |                  |                  |   |   |   |         |         |         |         |         |
+  | 5th      | A\flat           | E\flat           | B\flat           | F                | C | G | D | A       | E       | B       | F\sharp | C\sharp |
 
 ** Important traids
 Notice the pattern is play one, skip one, play one, skip one, play one. For example in C Major

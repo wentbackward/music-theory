@@ -1028,9 +1028,9 @@ When we play a bunch of notes together, we're playing a **chord**. Play any note
 and we're playing chords from that key. Chords have a strong relationship with the key of the 
 music.
 
-If you play 3 notes together, you're playing type of chord called a **triad**,. These chords get a 
-special name because they are very special chords. If you play the intervals 1st, 3rd and 5th 
-together you are playing a **major chord** or major triad. So now you instantly know all the major 
+If you play 3 notes together, you're playing a type of chord called a **triad**,. These chords get a 
+special name because they are very special chords. If you play the 1st, 3rd and 5th degrees
+together you are playing a **major chord** or **major triad**. So now you instantly know all the major 
 triads.
 
 <table border="0" cellspacing="0" cellpadding="6" rules="all" frame="none">
@@ -1065,28 +1065,11 @@ triads.
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">C&sharp;</th>
-<th scope="col" class="org-left">G&sharp;</th>
-<th scope="col" class="org-left">D&sharp;</th>
-<th scope="col" class="org-left">A&sharp;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">Gb</th>
-</tr>
-
-
-<tr>
 <th scope="col" class="org-left">Degree</th>
-<th scope="col" class="org-left">D&flat;</th>
-<th scope="col" class="org-left">A&flat;</th>
-<th scope="col" class="org-left">E&flat;</th>
-<th scope="col" class="org-left">B&flat;</th>
+<th scope="col" class="org-left">C&sharp; / D&flat;</th>
+<th scope="col" class="org-left">G&sharp; / A&flat;</th>
+<th scope="col" class="org-left">D&sharp; / E&flat;</th>
+<th scope="col" class="org-left">A&sharp; / B&flat;</th>
 <th scope="col" class="org-left">F</th>
 <th scope="col" class="org-left">C</th>
 <th scope="col" class="org-left">G</th>
@@ -1094,7 +1077,7 @@ triads.
 <th scope="col" class="org-left">A</th>
 <th scope="col" class="org-left">E</th>
 <th scope="col" class="org-left">B</th>
-<th scope="col" class="org-left">F&sharp;</th>
+<th scope="col" class="org-left">F&sharp; / G&flat;</th>
 </tr>
 </thead>
 
